@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quiz App</title>
+  <script>
+    function startQuiz() {
+      const set = document.getElementById("questionSet").value;
+      if (set) window.location.href = `quiz.html?set=${set}`;
+    }
+  </script>
+</head>
+<body class="p-8 text-center bg-gray-100">
+  <h1 class="text-3xl font-bold mb-4">Welcome to the Quiz</h1>
+  <select id="questionSet" class="p-2 border rounded">
+    <option value="">-- Select Subject --</option>
+    <option value="science">Science</option>
+  </select>
+  <button onclick="startQuiz()" class="ml-4 px-4 py-2 bg-blue-500 text-white rounded">Start</button>
+</body>
+</html>
