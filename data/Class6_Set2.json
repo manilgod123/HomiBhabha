@@ -1,7 +1,7 @@
 [
   {
     "section": "Section A: Based on 4th Std. Syllabus (10%)",
-    "question": "1. Which of these is an example of an insect?",
+    "question": "Which of these is an example of an insect?",
     "options": [
       "Frog",
       "Butterfly",
@@ -13,7 +13,7 @@
   },
   {
     "section": "Section A: Based on 4th Std. Syllabus (10%)",
-    "question": "2. Which organ do humans use primarily to breathe?",
+    "question": "Which organ do humans use primarily to breathe?",
     "options": [
       "Heart",
       "Stomach",
@@ -25,7 +25,7 @@
   },
   {
     "section": "Section A: Based on 4th Std. Syllabus (10%)",
-    "question": "3. Which planet is known as the \u201CRed Planet\u201D?",
+    "question": "Which planet is known as the \u201CRed Planet\u201D?",
     "options": [
       "Venus",
       "Saturn",
@@ -37,7 +37,7 @@
   },
   {
     "section": "Section A: Based on 4th Std. Syllabus (10%)",
-    "question": "4. What is the main source of light for the Earth?",
+    "question": "What is the main source of light for the Earth?",
     "options": [
       "Moon",
       "Stars",
@@ -49,7 +49,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "5. The green pigment in plants that absorbs sunlight is called:",
+    "question": "The green pigment in plants that absorbs sunlight is called:",
     "options": [
       "Hemoglobin",
       "Chlorophyll",
@@ -61,7 +61,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "6. What is the main function of roots in a plant?",
+    "question": "What is the main function of roots in a plant?",
     "options": [
       "Make food",
       "Support the plant",
@@ -73,7 +73,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "7. Which of the following is a renewable energy source?",
+    "question": "Which of the following is a renewable energy source?",
     "options": [
       "Coal",
       "Oil",
@@ -85,7 +85,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "8. Water in rivers and lakes comes mostly from:",
+    "question": "Water in rivers and lakes comes mostly from:",
     "options": [
       "Wells",
       "Rainfall",
@@ -97,7 +97,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "9. In which layer of soil are most plant roots found?",
+    "question": "In which layer of soil are most plant roots found?",
     "options": [
       "Bedrock",
       "Subsoil",
@@ -109,7 +109,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "10. What type of gas is essential for human respiration?",
+    "question": "What type of gas is essential for human respiration?",
     "options": [
       "Carbon dioxide",
       "Oxygen",
@@ -121,7 +121,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "11. Which planet has the most extensive ring system?",
+    "question": "Which planet has the most extensive ring system?",
     "options": [
       "Mars",
       "Venus",
@@ -133,7 +133,7 @@
   },
   {
     "section": "Section B: Based on 5th Std. Syllabus (20%)",
-    "question": "12. In what form does water vapor condense to become visible?",
+    "question": "In what form does water vapor condense to become visible?",
     "options": [
       "Steam",
       "Dew",
@@ -145,7 +145,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "13. Which type of joint is found in the shoulder?",
+    "question": "Which type of joint is found in the shoulder?",
     "options": [
       "Hinge joint",
       "Pivot joint",
@@ -157,7 +157,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "14. The primary component of air is:",
+    "question": "The primary component of air is:",
     "options": [
       "Oxygen",
       "Nitrogen",
@@ -169,7 +169,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "15. What is the function of stomata in plants?",
+    "question": "What is the function of stomata in plants?",
     "options": [
       "Water absorption",
       "Seed dispersal",
@@ -181,7 +181,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "16. Which of these materials is an example of an insulator?",
+    "question": "Which of these materials is an example of an insulator?",
     "options": [
       "Copper",
       "Iron",
@@ -193,7 +193,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "17. The primary source of energy in an ecosystem is:",
+    "question": "The primary source of energy in an ecosystem is:",
     "options": [
       "Soil",
       "Water",
@@ -205,7 +205,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "18. Which part of the cell contains genetic material?",
+    "question": "Which part of the cell contains genetic material?",
     "options": [
       "Cell membrane",
       "Nucleus",
@@ -217,7 +217,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "19. What gas is given off during photosynthesis?",
+    "question": "What gas is given off during photosynthesis?",
     "options": [
       "Nitrogen",
       "Oxygen",
@@ -229,7 +229,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "20. Which planet is known as Earth\u2019s \u201Csister planet\u201D?",
+    "question": "Which planet is known as Earth\u2019s \u201Csister planet\u201D?",
     "options": [
       "Venus",
       "Mars",
@@ -241,7 +241,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "21. Which part of the plant is responsible for making food through photosynthesis?",
+    "question": "Which part of the plant is responsible for making food through photosynthesis?",
     "options": [
       "Roots",
       "Stem",
@@ -253,7 +253,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "22. What type of rock is formed from molten lava?",
+    "question": "What type of rock is formed from molten lava?",
     "options": [
       "Sedimentary rock",
       "Metamorphic rock",
@@ -265,7 +265,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "23. Which part of the digestive system is primarily responsible for nutrient absorption?",
+    "question": "Which part of the digestive system is primarily responsible for nutrient absorption?",
     "options": [
       "Stomach",
       "Small intestine",
@@ -277,7 +277,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "24. What does blood transport to all parts of the body?",
+    "question": "What does blood transport to all parts of the body?",
     "options": [
       "Waste materials",
       "Carbon dioxide",
@@ -289,7 +289,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "25. Which is the largest planet in our solar system?",
+    "question": "Which is the largest planet in our solar system?",
     "options": [
       "Earth",
       "Mars",
@@ -301,7 +301,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "26. In which layer of the atmosphere do most weather events occur?",
+    "question": "In which layer of the atmosphere do most weather events occur?",
     "options": [
       "Stratosphere",
       "Troposphere",
@@ -313,7 +313,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "27. Which of these animals is a mammal?",
+    "question": "Which of these animals is a mammal?",
     "options": [
       "Shark",
       "Lizard",
@@ -325,7 +325,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "28. What type of blood vessels carry blood away from the heart?",
+    "question": "What type of blood vessels carry blood away from the heart?",
     "options": [
       "Veins",
       "Capillaries",
@@ -337,7 +337,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "29. The force that pulls objects toward the center of the Earth is called:",
+    "question": "The force that pulls objects toward the center of the Earth is called:",
     "options": [
       "Magnetism",
       "Gravity",
@@ -349,7 +349,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "30. Which nutrient is mainly responsible for the growth and repair of body tissues?",
+    "question": "Which nutrient is mainly responsible for the growth and repair of body tissues?",
     "options": [
       "Carbohydrates",
       "Proteins",
@@ -361,7 +361,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "31. The smallest unit of life is:",
+    "question": "The smallest unit of life is:",
     "options": [
       "Tissue",
       "Cell",
@@ -373,7 +373,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "32. During which process does a caterpillar change into a butterfly?",
+    "question": "During which process does a caterpillar change into a butterfly?",
     "options": [
       "Germination",
       "Pollination",
@@ -385,7 +385,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "33. The main function of white blood cells is to:",
+    "question": "The main function of white blood cells is to:",
     "options": [
       "Carry oxygen",
       "Fight infections",
@@ -397,7 +397,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "34. Which gas do animals exhale that plants need for photosynthesis?",
+    "question": "Which gas do animals exhale that plants need for photosynthesis?",
     "options": [
       "Oxygen",
       "Nitrogen",
@@ -409,7 +409,7 @@
   },
   {
     "section": "Section C: Based on 6th Std. Syllabus (60%)",
-    "question": "35. Which of these planets is known for its prominent rings?",
+    "question": "Which of these planets is known for its prominent rings?",
     "options": [
       "Mercury",
       "Mars",
@@ -421,7 +421,7 @@
   },
   {
     "section": "Section D: General Knowledge in Science (10%)",
-    "question": "36. Who is known as the \u201CFather of Modern Physics\u201D?",
+    "question": "Who is known as the \u201CFather of Modern Physics\u201D?",
     "options": [
       "Isaac Newton",
       "Albert Einstein",
@@ -433,7 +433,7 @@
   },
   {
     "section": "Section D: General Knowledge in Science (10%)",
-    "question": "37. What is the primary purpose of a telescope?",
+    "question": "What is the primary purpose of a telescope?",
     "options": [
       "Study sound",
       "Observe distant objects",
@@ -445,7 +445,7 @@
   },
   {
     "section": "Section D: General Knowledge in Science (10%)",
-    "question": "38. The symbol for the chemical element Gold is:",
+    "question": "The symbol for the chemical element Gold is:",
     "options": [
       "Au",
       "Ag",
@@ -457,7 +457,7 @@
   },
   {
     "section": "Section D: General Knowledge in Science (10%)",
-    "question": "39. Which vitamin is primarily obtained from sunlight?",
+    "question": "Which vitamin is primarily obtained from sunlight?",
     "options": [
       "Vitamin A",
       "Vitamin C",
@@ -469,7 +469,7 @@
   },
   {
     "section": "Section D: General Knowledge in Science (10%)",
-    "question": "40. The largest organ in the human body is:",
+    "question": "The largest organ in the human body is:",
     "options": [
       "Liver",
       "Skin",
