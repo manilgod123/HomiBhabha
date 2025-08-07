@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "1. What is the main function of roots in plants?",
+    "options": [
+      "Photosynthesis",
+      "Absorb water and nutrients",
+      "Produce seeds",
+      "Release oxygen"
+    ],
+    "answer": 1,
+    "explanation": "Roots help anchor the plant and absorb water and nutrients from the soil."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "2. Which of the following is an example of a living thing?",
+    "options": [
+      "Stone",
+      "Tree",
+      "River",
+      "Air"
+    ],
+    "answer": 1,
+    "explanation": "Living things like trees grow, breathe, and reproduce, while non-living things do not."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "3. Animals that feed on plants are called:",
+    "options": [
+      "Carnivores",
+      "Herbivores",
+      "Omnivores",
+      "Scavengers"
+    ],
+    "answer": 1,
+    "explanation": "Herbivores are animals that eat plants, like cows, deer, and rabbits."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "4. Which organ is responsible for pumping blood throughout the human body?",
+    "options": [
+      "Brain",
+      "Stomach",
+      "Lungs",
+      "Heart"
+    ],
+    "answer": 3,
+    "explanation": "The heart pumps blood to circulate oxygen and nutrients throughout the body."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "5. What process do plants use to make their food?",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "answer": 2,
+    "explanation": "Plants use sunlight, carbon dioxide, and water to produce their food through photosynthesis."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "6. What is the boiling point of water?",
+    "options": [
+      "90\u00B0C",
+      "100\u00B0C",
+      "120\u00B0C",
+      "150\u00B0C"
+    ],
+    "answer": 1,
+    "explanation": "Water boils at 100\u00B0C at sea level, which is a key physical property of water."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "7. Which organ in the human body helps in breathing?",
+    "options": [
+      "Heart",
+      "Kidneys",
+      "Lungs",
+      "Liver"
+    ],
+    "answer": 2,
+    "explanation": "The lungs allow us to inhale oxygen and exhale carbon dioxide."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "8. What kind of energy does the Sun provide?",
+    "options": [
+      "Electrical",
+      "Kinetic",
+      "Solar",
+      "Mechanical"
+    ],
+    "answer": 2,
+    "explanation": "The Sun provides solar energy, which is harnessed by plants for photosynthesis and by humans for various uses."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "9. What is the main component of air?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of the Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "10. The smallest unit of matter is:",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Compound"
+    ],
+    "answer": 0,
+    "explanation": "Atoms are the basic building blocks of all matter."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "11. Which vitamin is commonly known as the \u201Csunshine vitamin\u201D?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "The body synthesizes Vitamin D when the skin is exposed to sunlight."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "12. Which type of soil is best for growing crops?",
+    "options": [
+      "Sandy",
+      "Clay",
+      "Loamy",
+      "Rocky"
+    ],
+    "answer": 2,
+    "explanation": "Loamy soil contains a balanced mixture of sand, silt, and clay, which is ideal for plant growth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "13. Which gas do plants release during photosynthesis?",
+    "options": [
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Oxygen",
+      "Methane"
+    ],
+    "answer": 2,
+    "explanation": "During photosynthesis, plants release oxygen as a byproduct."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "14. What is the largest organ in the human body?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Liver",
+      "Skin"
+    ],
+    "answer": 3,
+    "explanation": "Skin is the body\u2019s largest organ, serving as a protective barrier."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "15. Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": 2,
+    "explanation": "Mars is known as the \u201CRed Planet\u201D due to its reddish appearance from iron oxide on its surface."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "16. Which type of energy is stored in food?",
+    "options": [
+      "Kinetic",
+      "Thermal",
+      "Chemical",
+      "Electrical"
+    ],
+    "answer": 2,
+    "explanation": "Food contains chemical energy, which is released during digestion."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "17. How many bones are there in an adult human body?",
+    "options": [
+      "100",
+      "206",
+      "150",
+      "250"
+    ],
+    "answer": 1,
+    "explanation": "An adult human has 206 bones, providing structure and protection."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "18. Which part of the cell contains genetic material?",
+    "options": [
+      "Cytoplasm",
+      "Cell wall",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 2,
+    "explanation": "The nucleus houses DNA, which carries genetic information."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "19. What is the source of energy for the water cycle?",
+    "options": [
+      "Wind",
+      "Sun",
+      "Moon",
+      "Earth\u2019s core"
+    ],
+    "answer": 1,
+    "explanation": "The Sun\u2019s heat causes water to evaporate, starting the water cycle."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "20. What is the main purpose of the digestive system in the human body?",
+    "options": [
+      "To pump blood",
+      "To control movement",
+      "To break down food",
+      "To filter waste"
+    ],
+    "answer": 2,
+    "explanation": "The digestive system breaks down food into nutrients the body can absorb."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "21. What is the freezing point of water?",
+    "options": [
+      "50\u00B0C",
+      "100\u00B0C",
+      "0\u00B0C",
+      "-20\u00B0C"
+    ],
+    "answer": 2,
+    "explanation": "Water freezes at 0\u00B0C at standard atmospheric pressure."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "22. Which part of a plant absorbs sunlight for photosynthesis?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flower"
+    ],
+    "answer": 2,
+    "explanation": "Leaves contain chlorophyll, which absorbs sunlight for photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "23. Which organ in humans is responsible for filtering blood?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidneys",
+      "Lungs"
+    ],
+    "answer": 2,
+    "explanation": "Kidneys filter waste from the blood and produce urine."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "24. What is the main gas in the Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of the atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "25. Which simple machine is used to lift objects easily?",
+    "options": [
+      "Screw",
+      "Lever",
+      "Wedge",
+      "Pulley"
+    ],
+    "answer": 1,
+    "explanation": "A lever helps lift heavy objects with less effort."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "26. Which organ in plants takes in carbon dioxide from the air?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Flowers",
+      "Leaves"
+    ],
+    "answer": 3,
+    "explanation": "Leaves absorb carbon dioxide through tiny openings called stomata."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "27. The process of turning a liquid into gas is called:",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Precipitation"
+    ],
+    "answer": 1,
+    "explanation": "Evaporation occurs when a liquid turns into vapor, like water evaporating from a surface."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "28. The closest planet to the Sun is:",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": 2,
+    "explanation": "Mercury is the closest planet to the Sun, orbiting it faster than any other planet."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "29. Which part of a plant is mainly responsible for reproduction?",
+    "options": [
+      "Leaf",
+      "Root",
+      "Stem",
+      "Flower"
+    ],
+    "answer": 3,
+    "explanation": "Flowers contain reproductive organs that produce seeds for new plants."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "30. What type of energy is stored in a battery?",
+    "options": [
+      "Light",
+      "Heat",
+      "Chemical",
+      "Sound"
+    ],
+    "answer": 2,
+    "explanation": "Batteries store chemical energy, which can be converted to electrical energy when needed."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "31. What type of root system is found in most flowering plants?",
+    "options": [
+      "Fibrous roots",
+      "Taproots",
+      "Aerial roots",
+      "Prop roots"
+    ],
+    "answer": 1,
+    "explanation": "Most flowering plants have a taproot system, where a main root grows vertically with smaller lateral roots branching off."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "32. Which process in plants uses sunlight to create food?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Germination",
+      "Pollination"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce food in the form of glucose."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "33. In which part of the plant does photosynthesis primarily occur?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 2,
+    "explanation": "Photosynthesis mainly occurs in the leaves, which contain chlorophyll, allowing them to capture sunlight and convert it into food."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "34. What causes day and night on Earth?",
+    "options": [
+      "Earth\u2019s revolution around the Sun",
+      "Earth\u2019s tilt",
+      "Earth\u2019s rotation on its axis",
+      "Movement of the Moon"
+    ],
+    "answer": 2,
+    "explanation": "Day and night occur due to Earth\u2019s rotation on its axis, causing different parts of Earth to face or turn away from the Sun."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "35. Which of the following gases is produced by plants during photosynthesis?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "During photosynthesis, plants absorb carbon dioxide and release oxygen as a byproduct, which is essential for the respiration of most living organisms."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "36. The process of separating solid particles from a liquid by pouring it into another container is called:",
+    "options": [
+      "Filtration",
+      "Decantation",
+      "Evaporation",
+      "Distillation"
+    ],
+    "answer": 1,
+    "explanation": "Decantation involves carefully pouring a liquid away from settled solids."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. What is the term for animals that eat both plants and animals?",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Omnivores",
+      "Insectivores"
+    ],
+    "answer": 2,
+    "explanation": "Omnivores consume both plant and animal matter."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. Which vitamin is essential for blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "answer": 2,
+    "explanation": "Vitamin K plays a crucial role in blood clotting."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. What is the main component of the Sun?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": 2,
+    "explanation": "The Sun is composed primarily of hydrogen, undergoing nuclear fusion to produce energy."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Spinal cord"
+    ],
+    "answer": 1,
+    "explanation": "The cerebellum is responsible for balance, posture, and coordination."
+  }
+]

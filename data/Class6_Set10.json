@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of a plant helps in the process of reproduction?",
+    "options": [
+      "Stem",
+      "Root",
+      "Flower",
+      "Leaf"
+    ],
+    "answer": 2,
+    "explanation": "The flower is the reproductive part of a plant, responsible for producing seeds."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of these animals is considered cold-blooded?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Frog",
+      "Monkey"
+    ],
+    "answer": 2,
+    "explanation": "Frogs are ectothermic, meaning their body temperature depends on their environment."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which form of water can absorb more heat?",
+    "options": [
+      "Ice",
+      "Liquid water",
+      "Steam",
+      "All equally"
+    ],
+    "answer": 2,
+    "explanation": "Steam can absorb more heat due to its high energy level compared to ice and liquid water."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of the following is a type of root system found in grasses?",
+    "options": [
+      "Taproot",
+      "Fibrous root",
+      "Aerial root",
+      "Adventitious root"
+    ],
+    "answer": 1,
+    "explanation": "Grasses have fibrous roots, which spread out in the soil, providing strong anchorage."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The process of a solid changing directly into a gas without passing through a liquid state is called:",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "answer": 2,
+    "explanation": "Sublimation is the process where a solid turns directly into a gas, like dry ice."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the primary function of red blood cells in the human body?",
+    "options": [
+      "Fighting infections",
+      "Transporting oxygen",
+      "Digesting food",
+      "Removing waste"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells carry oxygen from the lungs to all body tissues."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which part of the plant cell contains chlorophyll?",
+    "options": [
+      "Nucleus",
+      "Cell wall",
+      "Cytoplasm",
+      "Chloroplast"
+    ],
+    "answer": 3,
+    "explanation": "Chloroplasts contain chlorophyll, essential for photosynthesis."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "In the process of photosynthesis, plants absorb sunlight through which part?",
+    "options": [
+      "Stem",
+      "Roots",
+      "Leaves",
+      "Flower"
+    ],
+    "answer": 2,
+    "explanation": "Leaves have chlorophyll, which captures sunlight to produce food for the plant."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of the following correctly describes the energy transformation in an electric bulb?",
+    "options": [
+      "Chemical to light",
+      "Light to heat",
+      "Electrical to light and heat",
+      "Kinetic to electrical"
+    ],
+    "answer": 2,
+    "explanation": "In a bulb, electrical energy converts to both light and heat energy."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which vitamin is crucial for blood clotting in the human body?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "answer": 2,
+    "explanation": "Vitamin K plays a vital role in the clotting process to prevent excessive bleeding."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In the solar system, which planet has the longest day?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "answer": 1,
+    "explanation": "Venus has the longest rotation period, taking about 243 Earth days to complete one rotation."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of motion does the Earth exhibit as it travels around the Sun?",
+    "options": [
+      "Oscillatory motion",
+      "Rectilinear motion",
+      "Circular motion",
+      "Rotational motion"
+    ],
+    "answer": 2,
+    "explanation": "Earth\u2019s orbit around the Sun is nearly circular, exhibiting circular motion."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The powerhouse of the cell, which generates energy, is known as the:",
+    "options": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "answer": 2,
+    "explanation": "Mitochondria produce energy (ATP) and are thus known as the powerhouse of the cell."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which is the most reactive element among the following?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "answer": 1,
+    "explanation": "Potassium is highly reactive, especially in contact with water."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In which layer of the atmosphere do most weather phenomena occur?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 0,
+    "explanation": "Most weather phenomena, including rain and storms, occur in the troposphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the pH of pure water?",
+    "options": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "Pure water has a neutral pH of 7."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The tilt of the Earth\u2019s axis causes:",
+    "options": [
+      "Day and Night",
+      "The seasons",
+      "Lunar phases",
+      "Ocean currents"
+    ],
+    "answer": 1,
+    "explanation": "The Earth\u2019s tilted axis causes seasonal changes as different parts of the Earth receive varying sunlight."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which cell structure is responsible for controlling cell activities?",
+    "options": [
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus",
+      "Endoplasmic Reticulum"
+    ],
+    "answer": 2,
+    "explanation": "The nucleus contains genetic material and controls cellular activities."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which mineral is required for the formation of hemoglobin in the blood?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Potassium"
+    ],
+    "answer": 1,
+    "explanation": "Iron is essential for hemoglobin formation, which carries oxygen in the blood."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these processes involves liquid changing to solid?",
+    "options": [
+      "Evaporation",
+      "Melting",
+      "Freezing",
+      "Sublimation"
+    ],
+    "answer": 2,
+    "explanation": "Freezing is the process where a liquid turns into a solid when cooled."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the name of the process by which plants release oxygen into the atmosphere?",
+    "options": [
+      "Respiration",
+      "Digestion",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "answer": 2,
+    "explanation": "During photosynthesis, plants convert sunlight into energy and release oxygen as a byproduct."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which component of blood helps in clotting?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": 2,
+    "explanation": "Platelets are the blood cells responsible for clotting, helping to prevent excessive bleeding."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What causes the phases of the moon?",
+    "options": [
+      "Earth\u2019s rotation",
+      "Earth\u2019s tilt",
+      "Moon\u2019s rotation",
+      "Moon\u2019s orbit around Earth"
+    ],
+    "answer": 3,
+    "explanation": "The phases of the moon occur due to the changing positions of the moon, Earth, and the sun."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is not a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Natural gas",
+      "Hydroelectric power"
+    ],
+    "answer": 2,
+    "explanation": "Natural gas is a non-renewable fossil fuel, while the others are renewable sources."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main reason we experience seasons?",
+    "options": [
+      "Earth\u2019s rotation",
+      "Earth\u2019s revolution",
+      "Earth\u2019s tilt on its axis",
+      "Distance from the sun"
+    ],
+    "answer": 2,
+    "explanation": "The tilt of Earth\u2019s axis as it orbits the sun causes seasonal changes."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which element is necessary for the formation of bones and teeth?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Potassium",
+      "Sodium"
+    ],
+    "answer": 1,
+    "explanation": "Calcium is essential for the development and maintenance of bones and teeth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which process involves plants losing water through tiny openings in leaves?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Absorption"
+    ],
+    "answer": 2,
+    "explanation": "Transpiration is the process of water movement through plants and evaporation from leaves."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The primary purpose of the human nervous system is to:",
+    "options": [
+      "Produce hormones",
+      "Support the skeletal system",
+      "Transmit signals throughout the body",
+      "Transport oxygen"
+    ],
+    "answer": 2,
+    "explanation": "The nervous system transmits electrical signals to coordinate bodily functions."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the father of genetics?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "James Watson",
+      "Alexander Fleming"
+    ],
+    "answer": 1,
+    "explanation": "Gregor Mendel is known as the father of genetics for his work on pea plants and heredity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which of these is an example of a noble gas?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Helium",
+      "Chlorine"
+    ],
+    "answer": 2,
+    "explanation": "Helium is a noble gas, known for its stability and low reactivity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the approximate boiling point of water at sea level in Fahrenheit?",
+    "options": [
+      "100\u00B0F",
+      "150\u00B0F",
+      "180\u00B0F",
+      "212\u00B0F"
+    ],
+    "answer": 3,
+    "explanation": "At sea level, water boils at 212\u00B0F or 100\u00B0C."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which vitamin is synthesized in the skin when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": 2,
+    "explanation": "The body synthesizes Vitamin D when exposed to sunlight."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the atomic number of Carbon?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Carbon has an atomic number of 6, indicating it has six protons."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Anemometer",
+      "Hygrometer"
+    ],
+    "answer": 1,
+    "explanation": "A barometer measures atmospheric pressure, often used in weather forecasting."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": 2,
+    "explanation": "Mars is called the Red Planet due to its reddish appearance, caused by iron oxide."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who formulated the laws of motion?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "James Maxwell"
+    ],
+    "answer": 1,
+    "explanation": "Isaac Newton formulated the three laws of motion, which describe the relationship between motion and forces."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which gas do plants primarily take in for photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Plants absorb carbon dioxide from the air for photosynthesis, producing oxygen as a byproduct."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What element is common in all organic compounds?",
+    "options": [
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon",
+      "Oxygen"
+    ],
+    "answer": 2,
+    "explanation": "Carbon is the essential element in all organic compounds due to its ability to form stable bonds with many elements."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known for the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Marie Curie",
+      "Michael Faraday"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein developed the theory of relativity, revolutionizing modern physics."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the main component of natural gas?",
+    "options": [
+      "Methane",
+      "Carbon dioxide",
+      "Propane",
+      "Ethane"
+    ],
+    "answer": 0,
+    "explanation": "Methane is the primary component of natural gas, making it highly combustible and efficient for energy."
+  }
+]

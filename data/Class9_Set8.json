@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "1. What is the SI unit of temperature?",
+    "options": [
+      "Fahrenheit",
+      "Celsius",
+      "Kelvin",
+      "Joule"
+    ],
+    "answer": 2,
+    "explanation": "The SI unit of temperature is Kelvin, which is the standard unit used in scientific measurements."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "2. Which of the following is an example of a unicellular organism?",
+    "options": [
+      "Amoeba",
+      "Frog",
+      "Mango tree",
+      "Earthworm"
+    ],
+    "answer": 0,
+    "explanation": "Amoeba is a single-celled organism capable of independent life functions."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "3. What is the main function of xylem in plants?",
+    "options": [
+      "Transporting food",
+      "Transporting water",
+      "Photosynthesis",
+      "Reproduction"
+    ],
+    "answer": 1,
+    "explanation": "Xylem carries water and minerals from roots to other parts of the plant."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "4. What is the formula for force according to Newton\u2019s second law?",
+    "options": [
+      "Force = Mass \u00D7 Velocity",
+      "Force = Mass \u00D7 Acceleration",
+      "Force = Acceleration / Mass",
+      "Force = Mass / Acceleration"
+    ],
+    "answer": 1,
+    "explanation": "Newton\u2019s second law states that force is the product of mass and acceleration."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "5. What is the function of chloroplasts in plant cells?",
+    "options": [
+      "Storage of food",
+      "Photosynthesis",
+      "Respiration",
+      "Protein synthesis"
+    ],
+    "answer": 1,
+    "explanation": "Chloroplasts contain chlorophyll, which traps sunlight for photosynthesis."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "6. Which of the following is an example of a physical change?",
+    "options": [
+      "Burning of paper",
+      "Rusting of iron",
+      "Melting of ice",
+      "Cooking of food"
+    ],
+    "answer": 2,
+    "explanation": "Melting of ice is a physical change as no new substance is formed."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "7. Which type of energy conversion occurs in a hydroelectric power plant?",
+    "options": [
+      "Chemical to electrical",
+      "Potential to electrical",
+      "Kinetic to electrical",
+      "Solar to electrical"
+    ],
+    "answer": 2,
+    "explanation": "Moving water (kinetic energy) is converted into electricity in hydroelectric power plants."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "8. What is the chemical symbol for Sodium?",
+    "options": [
+      "Na",
+      "S",
+      "So",
+      "Sn"
+    ],
+    "answer": 0,
+    "explanation": "Sodium is represented by the symbol Na, derived from its Latin name, Natrium."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "9. Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "answer": 1,
+    "explanation": "Mars appears red due to the presence of iron oxide (rust) on its surface."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "10. Which gas is most abundant in the Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 2,
+    "explanation": "About 78% of the Earth\u2019s atmosphere is nitrogen."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "11. What is the primary function of the large intestine?",
+    "options": [
+      "Digestion of food",
+      "Absorption of water",
+      "Production of enzymes",
+      "Absorption of nutrients"
+    ],
+    "answer": 1,
+    "explanation": "The large intestine absorbs water and forms solid waste."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "12. What type of reaction is represented by the equation: HCl \u002B NaOH \u2192 NaCl \u002B H\u2082O?",
+    "options": [
+      "Combustion",
+      "Neutralization",
+      "Displacement",
+      "Synthesis"
+    ],
+    "answer": 1,
+    "explanation": "This is a neutralization reaction between an acid and a base to form salt and water."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "13. Which of the following laws explains the relationship between pressure and volume of a gas?",
+    "options": [
+      "Boyle\u2019s Law",
+      "Charles\u2019 Law",
+      "Avogadro\u2019s Law",
+      "Pascal\u2019s Law"
+    ],
+    "answer": 0,
+    "explanation": "Boyle\u2019s Law states that pressure and volume are inversely proportional at constant temperature."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "14. What is the primary cause of day and night?",
+    "options": [
+      "Revolution of the Earth",
+      "Rotation of the Earth",
+      "Tilt of the Earth\u2019s axis",
+      "Position of the Moon"
+    ],
+    "answer": 1,
+    "explanation": "The Earth\u2019s rotation on its axis causes the cycle of day and night."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "15. Which vitamin helps in the clotting of blood?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "answer": 2,
+    "explanation": "Vitamin K is essential for the synthesis of proteins involved in blood clotting."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "16. What is the chemical formula of baking soda?",
+    "options": [
+      "NaCl",
+      "NaHCO\u2083",
+      "K\u2082CO\u2083",
+      "Na\u2082SO\u2084"
+    ],
+    "answer": 1,
+    "explanation": "Baking soda is sodium bicarbonate, NaHCO\u2083."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "17. Which part of the human brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": 1,
+    "explanation": "The cerebellum is responsible for maintaining balance and coordinating movements."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "18. Which organelle is known as the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Endoplasmic Reticulum"
+    ],
+    "answer": 1,
+    "explanation": "Mitochondria produce energy in the form of ATP through cellular respiration, hence called the powerhouse of the cell."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "19. Which type of mirror is used in the headlights of vehicles?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "Concave mirrors focus light into a beam, making them ideal for vehicle headlights."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "20. What is the valency of carbon in methane (CH\u2084)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Carbon shares four electrons with hydrogen in methane, giving it a valency of 4."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "21. Which of the following is not a chemical reaction?",
+    "options": [
+      "Rusting of iron",
+      "Melting of ice",
+      "Burning of wood",
+      "Digestion of food"
+    ],
+    "answer": 1,
+    "explanation": "Melting of ice is a physical change, as it only changes the state, not the composition."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "22. What is the unit of electric current?",
+    "options": [
+      "Watt",
+      "Volt",
+      "Ohm",
+      "Ampere"
+    ],
+    "answer": 3,
+    "explanation": "The SI unit of electric current is the ampere (A)."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "23. In humans, which blood group is known as the universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "answer": 3,
+    "explanation": "Blood group O can be donated to individuals of any other blood group due to the absence of antigens on its red blood cells."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "24. What is the charge of an electron?",
+    "options": [
+      "Positive",
+      "Neutral",
+      "Negative",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "Electrons carry a negative charge and are found outside the nucleus of an atom."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "25. Which gas is released during photosynthesis?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "During photosynthesis, oxygen is released as a byproduct when plants convert carbon dioxide and water into glucose."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "26. The phenomenon of splitting of white light into its component colors is called what?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Dispersion",
+      "Diffraction"
+    ],
+    "answer": 2,
+    "explanation": "Dispersion occurs when white light passes through a prism and splits into its component colors."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "27. Which part of the eye controls the amount of light entering it?",
+    "options": [
+      "Retina",
+      "Lens",
+      "Cornea",
+      "Iris"
+    ],
+    "answer": 3,
+    "explanation": "The iris adjusts the size of the pupil to control the amount of light entering the eye."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "28. What is the role of hemoglobin in the human body?",
+    "options": [
+      "Digestion",
+      "Oxygen transport",
+      "Hormone production",
+      "Immune response"
+    ],
+    "answer": 1,
+    "explanation": "Hemoglobin in red blood cells binds to oxygen and transports it to tissues."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "29. Which acid is present in vinegar?",
+    "options": [
+      "Sulfuric acid",
+      "Acetic acid",
+      "Hydrochloric acid",
+      "Citric acid"
+    ],
+    "answer": 1,
+    "explanation": "Vinegar contains acetic acid, which gives it its sour taste."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "30. What is the pH of pure water at 25\u00B0C?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "Pure water is neutral with a pH of 7 at 25\u00B0C."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "31. Which process is responsible for the removal of nitrogenous waste from the human body?",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Excretion",
+      "Circulation"
+    ],
+    "answer": 2,
+    "explanation": "The kidneys excrete nitrogenous waste like urea through urine, a process called excretion."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "32. What is the chemical formula of quicklime?",
+    "options": [
+      "CaO",
+      "CaCO\u2083",
+      "MgO",
+      "CaCl\u2082"
+    ],
+    "answer": 0,
+    "explanation": "Quicklime is calcium oxide (CaO), a compound used in construction and industry."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "33. Which law explains the reflection of light?",
+    "options": [
+      "Newton\u2019s First Law",
+      "Law of Conservation of Energy",
+      "Snell\u2019s Law",
+      "Laws of Reflection"
+    ],
+    "answer": 3,
+    "explanation": "The laws of reflection state that the angle of incidence equals the angle of reflection."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "34. Which part of the human brain regulates body temperature?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla"
+    ],
+    "answer": 2,
+    "explanation": "The hypothalamus regulates body temperature and other homeostatic processes."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "35. What is the molecular formula of ozone?",
+    "options": [
+      "O\u2082",
+      "O\u2083",
+      "O\u2084",
+      "O\u2086"
+    ],
+    "answer": 1,
+    "explanation": "Ozone is a triatomic molecule of oxygen with the molecular formula O\u2083."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "36. What is the primary purpose of stomata in plants?",
+    "options": [
+      "Absorption of nutrients",
+      "Photosynthesis",
+      "Gaseous exchange",
+      "Transport of water"
+    ],
+    "answer": 2,
+    "explanation": "Stomata are tiny pores in leaves that facilitate the exchange of oxygen and carbon dioxide."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. What is the lightest element in the periodic table?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Carbon"
+    ],
+    "answer": 1,
+    "explanation": "Hydrogen, with an atomic number of 1, is the lightest and simplest element."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. Who is known as the father of modern physics?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein revolutionized physics with his theories of relativity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. Which is the smallest planet in our solar system?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Venus",
+      "Pluto"
+    ],
+    "answer": 0,
+    "explanation": "Mercury is the smallest planet in the solar system."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. What is the study of fungi called?",
+    "options": [
+      "Botany",
+      "Mycology",
+      "Zoology",
+      "Ecology"
+    ],
+    "answer": 1,
+    "explanation": "Mycology is the branch of biology that deals with the study of fungi."
+  }
+]

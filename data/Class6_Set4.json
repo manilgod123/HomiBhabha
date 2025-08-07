@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of these is an example of a living thing?",
+    "options": [
+      "Rock",
+      "Tree",
+      "Sand",
+      "Water"
+    ],
+    "answer": 1,
+    "explanation": "Trees are living because they grow, reproduce, and perform life processes like photosynthesis. Rocks, sand, and water are non-living things."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Plants make their food through a process called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Digestion",
+      "Excretion"
+    ],
+    "answer": 1,
+    "explanation": "Plants use sunlight, water, and carbon dioxide to produce food (glucose) through photosynthesis, a process that occurs in chlorophyll-containing cells."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the main source of water on Earth?",
+    "options": [
+      "Lakes",
+      "Rivers",
+      "Oceans",
+      "Wells"
+    ],
+    "answer": 2,
+    "explanation": "Oceans cover over 70% of the Earth\u2019s surface and hold the majority of the planet\u2019s water."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which sense organ helps us to taste food?",
+    "options": [
+      "Nose",
+      "Eyes",
+      "Tongue",
+      "Skin"
+    ],
+    "answer": 2,
+    "explanation": "The tongue contains taste buds that allow us to detect flavors in food."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The process of water changing into water vapor is known as:",
+    "options": [
+      "Condensation",
+      "Freezing",
+      "Evaporation",
+      "Boiling"
+    ],
+    "answer": 2,
+    "explanation": "Evaporation is when water turns into vapor, generally due to an increase in temperature."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The basic unit of matter is called:",
+    "options": [
+      "Cell",
+      "Tissue",
+      "Atom",
+      "Molecule"
+    ],
+    "answer": 2,
+    "explanation": "Atoms are the smallest units of matter and form the building blocks of all substances."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The green pigment in leaves that helps in photosynthesis is called:",
+    "options": [
+      "Glucose",
+      "Chlorophyll",
+      "Carotene",
+      "Anthocyanin"
+    ],
+    "answer": 1,
+    "explanation": "Chlorophyll is the green pigment that absorbs sunlight, enabling photosynthesis in plants."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The organ responsible for filtering blood in our body is:",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidneys",
+      "Liver"
+    ],
+    "answer": 2,
+    "explanation": "Kidneys filter waste from the blood, which is then excreted as urine."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which part of the plant is responsible for taking in water from the soil?",
+    "options": [
+      "Stem",
+      "Roots",
+      "Leaf",
+      "Flower"
+    ],
+    "answer": 1,
+    "explanation": "Roots absorb water and nutrients from the soil, essential for the plant\u2019s growth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Oil",
+      "Natural gas"
+    ],
+    "answer": 0,
+    "explanation": "Solar energy is renewable because it is naturally replenished by the sun, unlike coal, oil, and natural gas."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The Earth\u2019s rotation causes:",
+    "options": [
+      "Seasons",
+      "Day and Night",
+      "Moon Phases",
+      "Tides"
+    ],
+    "answer": 1,
+    "explanation": "Earth\u2019s rotation on its axis creates the cycle of day and night as different parts of Earth face the Sun."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these is the smallest particle of a compound that retains its properties?",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "explanation": "A molecule is the smallest part of a compound with the compound\u2019s chemical properties, composed of two or more atoms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In which state of matter are molecules closest together?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": 0,
+    "explanation": "In solids, molecules are tightly packed, making solids denser than liquids or gases."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is essential for human respiration?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Humans and animals require oxygen to breathe, which is vital for cellular respiration."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What force pulls objects towards the Earth?",
+    "options": [
+      "Magnetic force",
+      "Gravitational force",
+      "Nuclear force",
+      "Electrostatic force"
+    ],
+    "answer": 1,
+    "explanation": "Gravity is the force that pulls objects toward the center of the Earth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The boiling point of water is:",
+    "options": [
+      "50\u00B0C",
+      "100\u00B0C",
+      "150\u00B0C",
+      "200\u00B0C"
+    ],
+    "answer": 1,
+    "explanation": "At standard atmospheric pressure, water boils at 100\u00B0C."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 2,
+    "explanation": "Jupiter is the largest planet, known for its giant gas composition and strong magnetic field."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The main component of air is:",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "answer": 0,
+    "explanation": "Nitrogen makes up about 78% of Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following processes releases oxygen?",
+    "options": [
+      "Respiration",
+      "Digestion",
+      "Photosynthesis",
+      "Excretion"
+    ],
+    "answer": 2,
+    "explanation": "During photosynthesis, plants release oxygen as a by-product while producing glucose."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the smallest unit of life?",
+    "options": [
+      "Cell",
+      "Organ",
+      "Tissue",
+      "System"
+    ],
+    "answer": 0,
+    "explanation": "Cells are the basic structural and functional units of all living organisms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the human body controls our thoughts and actions?",
+    "options": [
+      "Heart",
+      "Stomach",
+      "Brain",
+      "Lungs"
+    ],
+    "answer": 2,
+    "explanation": "The brain is the central organ that manages thoughts, actions, and other vital functions."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The main purpose of the heart is to:",
+    "options": [
+      "Filter blood",
+      "Digest food",
+      "Pump blood",
+      "Store oxygen"
+    ],
+    "answer": 2,
+    "explanation": "The heart pumps blood through the circulatory system, supplying oxygen and nutrients to tissues."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which layer of the Earth do we live on?",
+    "options": [
+      "Mantle",
+      "Core",
+      "Crust",
+      "Atmosphere"
+    ],
+    "answer": 2,
+    "explanation": "The Earth\u2019s crust is the outermost layer, where humans and other organisms live."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following materials is transparent?",
+    "options": [
+      "Wood",
+      "Plastic",
+      "Glass",
+      "Metal"
+    ],
+    "answer": 2,
+    "explanation": "Transparent materials like glass allow light to pass through, making objects on the other side visible."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "An object that blocks all light from passing through is called:",
+    "options": [
+      "Transparent",
+      "Translucent",
+      "Opaque",
+      "Reflective"
+    ],
+    "answer": 2,
+    "explanation": "Opaque materials do not allow any light to pass through, such as wood and metals."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "How many bones are there in an adult human skeleton?",
+    "options": [
+      "100",
+      "250",
+      "180",
+      "206"
+    ],
+    "answer": 3,
+    "explanation": "An adult human has 206 bones that provide structure and support for the body."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the name of the process by which water vapor turns back into liquid?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Freezing"
+    ],
+    "answer": 1,
+    "explanation": "Condensation is the process where water vapor cools down to form liquid water."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet is known for its rings?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ],
+    "answer": 2,
+    "explanation": "Saturn is famous for its distinct ring system, made up of ice and rock particles."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is an insulator of electricity?",
+    "options": [
+      "Plastic",
+      "Copper",
+      "Aluminum",
+      "Iron"
+    ],
+    "answer": 0,
+    "explanation": "Plastic does not conduct electricity, making it a good insulator."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The Sun appears to rise in the:",
+    "options": [
+      "North",
+      "West",
+      "East",
+      "South"
+    ],
+    "answer": 2,
+    "explanation": "Due to Earth\u2019s rotation, the Sun appears to rise in the east and set in the west."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which type of soil can hold the most water?",
+    "options": [
+      "Sandy",
+      "Clay",
+      "Gravel",
+      "Loamy"
+    ],
+    "answer": 1,
+    "explanation": "Clay particles are small and compact, allowing them to retain more water than sandy or gravel soil."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the plant develops into a fruit?",
+    "options": [
+      "Root",
+      "Flower",
+      "Stem",
+      "Leaf"
+    ],
+    "answer": 1,
+    "explanation": "The flower\u2019s ovary develops into a fruit after fertilization."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which mineral is essential for strong bones and teeth?",
+    "options": [
+      "Iron",
+      "Magnesium",
+      "Calcium",
+      "Potassium"
+    ],
+    "answer": 2,
+    "explanation": "Calcium is crucial for healthy bones and teeth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is used to measure weight?",
+    "options": [
+      "Thermometer",
+      "Balance scale",
+      "Stopwatch",
+      "Hygrometer"
+    ],
+    "answer": 1,
+    "explanation": "A balance scale measures an object\u2019s weight or mass."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Nikola Tesla",
+      "Marie Curie"
+    ],
+    "answer": 0,
+    "explanation": "Albert Einstein is often called the Father of Modern Physics due to his revolutionary contributions, such as the theory of relativity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "The study of stars and planets is called:",
+    "options": [
+      "Geology",
+      "Astronomy",
+      "Ecology",
+      "Meteorology"
+    ],
+    "answer": 1,
+    "explanation": "Astronomy is the study of celestial objects and the universe as a whole."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the chemical symbol for Gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Cu",
+      "Fe"
+    ],
+    "answer": 0,
+    "explanation": "The symbol \u201CAu\u201D for gold is derived from its Latin name \u201CAurum.\u201D"
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet is closest to the sun?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "answer": 0,
+    "explanation": "Mercury is the closest planet to the Sun in our solar system."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "options": [
+      "212\u00B0F",
+      "100\u00B0F",
+      "150\u00B0F",
+      "250\u00B0F"
+    ],
+    "answer": 0,
+    "explanation": "Water boils at 212\u00B0F (100\u00B0C) under standard atmospheric pressure."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which vitamin is also known as the \u201CSunshine Vitamin\u201D?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": 2,
+    "explanation": "The skin produces Vitamin D when exposed to sunlight."
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of these animals is known as a herbivore?",
+    "options": [
+      "Lion",
+      "Deer",
+      "Eagle",
+      "Crocodile"
+    ],
+    "answer": 1,
+    "explanation": "Herbivores are animals that eat only plants, and the deer is a classic example."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "The presence of which of the following is essential for plants to make their food?",
+    "options": [
+      "Sunlight",
+      "Soil",
+      "Rocks",
+      "Wind"
+    ],
+    "answer": 0,
+    "explanation": "Plants use sunlight to perform photosynthesis, the process by which they make food."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the primary organ used by fish to breathe?",
+    "options": [
+      "Lungs",
+      "Gills",
+      "Fins",
+      "Scales"
+    ],
+    "answer": 1,
+    "explanation": "Fish use gills to extract oxygen from water, as they do not have lungs like land animals."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of the plant is usually involved in reproduction?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Flower",
+      "Leaf"
+    ],
+    "answer": 2,
+    "explanation": "Flowers contain reproductive organs that help plants produce seeds."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the term for the change of water from liquid to gas?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Solidification"
+    ],
+    "answer": 0,
+    "explanation": "Evaporation is the process where water changes from a liquid to a vapor or gas."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The smallest structural unit of living organisms is called a:",
+    "options": [
+      "Cell",
+      "Atom",
+      "Tissue",
+      "Organ"
+    ],
+    "answer": 0,
+    "explanation": "Cells are the basic units of life, forming tissues, organs, and organisms."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which part of the plant transports water from the roots to the leaves?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Stomata",
+      "Cortex"
+    ],
+    "answer": 1,
+    "explanation": "Xylem vessels in plants transport water from the roots to other parts of the plant."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The green color in plants is due to which pigment?",
+    "options": [
+      "Chlorophyll",
+      "Carotene",
+      "Anthocyanin",
+      "Xanthophyll"
+    ],
+    "answer": 0,
+    "explanation": "Chlorophyll is the green pigment essential for photosynthesis in plants."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which process helps purify blood in the human body?",
+    "options": [
+      "Lungs",
+      "Kidneys",
+      "Stomach",
+      "Liver"
+    ],
+    "answer": 1,
+    "explanation": "Kidneys filter waste products from the blood to form urine."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the term for a change in the position of an object over time?",
+    "options": [
+      "Gravity",
+      "Motion",
+      "Force",
+      "Energy"
+    ],
+    "answer": 1,
+    "explanation": "Motion refers to the change in position of an object with respect to time."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What causes a solar eclipse?",
+    "options": [
+      "The Earth comes between the sun and the moon",
+      "The moon comes between the sun and the Earth",
+      "The sun comes between the moon and the Earth",
+      "The Earth blocks sunlight from reaching the moon"
+    ],
+    "answer": 1,
+    "explanation": "A solar eclipse occurs when the moon passes directly between the sun and Earth, blocking sunlight."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which nutrient is the primary source of energy for the body?",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Vitamins",
+      "Minerals"
+    ],
+    "answer": 1,
+    "explanation": "Carbohydrates are broken down into glucose, providing energy for bodily functions."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The phenomenon of day and night on Earth is caused by:",
+    "options": [
+      "Earth\u2019s revolution",
+      "Earth\u2019s rotation",
+      "Moon\u2019s orbit",
+      "Sun\u2019s movement"
+    ],
+    "answer": 1,
+    "explanation": "The rotation of Earth on its axis leads to the cycle of day and night."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is absorbed by plants during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "During photosynthesis, plants absorb carbon dioxide to produce glucose and release oxygen."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the function of the digestive system?",
+    "options": [
+      "Circulate blood",
+      "Break down food",
+      "Remove waste",
+      "Control breathing"
+    ],
+    "answer": 1,
+    "explanation": "The digestive system breaks down food into nutrients the body can absorb."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the brain controls voluntary actions?",
+    "options": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla",
+      "Spinal Cord"
+    ],
+    "answer": 1,
+    "explanation": "The cerebrum is responsible for voluntary actions, thinking, and decision-making."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of soil is best for growing crops?",
+    "options": [
+      "Sandy",
+      "Clayey",
+      "Loamy",
+      "Gravel"
+    ],
+    "answer": 2,
+    "explanation": "Loamy soil is rich in nutrients and holds water, making it ideal for agriculture."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What does a microscope help us observe?",
+    "options": [
+      "Planets",
+      "Small organisms",
+      "Stars",
+      "Distant mountains"
+    ],
+    "answer": 1,
+    "explanation": "Microscopes are used to observe tiny organisms and details that are invisible to the naked eye."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which force opposes the motion of an object?",
+    "options": [
+      "Magnetic force",
+      "Gravitational force",
+      "Frictional force",
+      "Nuclear force"
+    ],
+    "answer": 2,
+    "explanation": "Frictional force resists the movement of objects, opposing motion."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is most abundant in Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 1,
+    "explanation": "The ozone layer is located in the stratosphere, protecting Earth from harmful UV radiation."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 1,
+    "explanation": "The ozone layer is located in the stratosphere, protecting Earth from harmful UV radiation."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "CO\u2082",
+      "H\u2082O",
+      "O\u2082",
+      "H\u2082SO\u2084"
+    ],
+    "answer": 1,
+    "explanation": "Water is composed of two hydrogen atoms and one oxygen atom, represented by the formula H\u2082O."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The process of breaking down food in the body to release energy is known as:",
+    "options": [
+      "Digestion",
+      "Photosynthesis",
+      "Respiration",
+      "Excretion"
+    ],
+    "answer": 2,
+    "explanation": "Respiration is the process by which cells break down glucose and oxygen to produce energy."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which component of the blood helps in clotting?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": 2,
+    "explanation": "Platelets are blood components that help stop bleeding by forming clots."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In which organ does the digestion of food begin?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Mouth",
+      "Large intestine"
+    ],
+    "answer": 2,
+    "explanation": "Digestion begins in the mouth with the action of saliva and chewing."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is an example of a non-renewable resource?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Coal",
+      "Water"
+    ],
+    "answer": 2,
+    "explanation": "Coal is a non-renewable resource as it cannot be replenished once used."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which type of joint is found in the shoulder?",
+    "options": [
+      "Hinge joint",
+      "Fixed joint",
+      "Ball and socket joint",
+      "Gliding joint"
+    ],
+    "answer": 2,
+    "explanation": "The ball and socket joint in the shoulder allows for a wide range of movement."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet is known as Earth\u2019s \u201Ctwin\u201D due to its similar size and composition?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": 1,
+    "explanation": "Venus is often called Earth\u2019s \u201Ctwin\u201D because of its similar size, mass, and composition."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of energy is stored in food?",
+    "options": [
+      "Electrical energy",
+      "Chemical energy",
+      "Mechanical energy",
+      "Nuclear energy"
+    ],
+    "answer": 1,
+    "explanation": "Food contains chemical energy, which the body converts to fuel for activities."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which natural disaster is measured on the Richter scale?",
+    "options": [
+      "Hurricane",
+      "Tsunami",
+      "Earthquake",
+      "Flood"
+    ],
+    "answer": 2,
+    "explanation": "The Richter scale measures the magnitude of earthquakes."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which blood vessels carry blood back to the heart?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Platelets"
+    ],
+    "answer": 1,
+    "explanation": "Veins carry deoxygenated blood back to the heart for reoxygenation."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main purpose of chloroplasts in plant cells?",
+    "options": [
+      "Provide structure",
+      "Store nutrients",
+      "Conduct photosynthesis",
+      "Store genetic material"
+    ],
+    "answer": 2,
+    "explanation": "Chloroplasts contain chlorophyll, which is essential for photosynthesis, allowing plants to make their food."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the father of modern physics?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Stephen Hawking"
+    ],
+    "answer": 0,
+    "explanation": "Albert Einstein is often regarded as the father of modern physics due to his contributions to theoretical physics."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Skin",
+      "Brain"
+    ],
+    "answer": 2,
+    "explanation": "The skin is the body\u2019s largest organ, serving as a protective barrier."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "The speed of light is approximately:",
+    "options": [
+      "300,000 km/s",
+      "300,000 m/s",
+      "150,000 km/s",
+      "150,000 m/s"
+    ],
+    "answer": 0,
+    "explanation": "Light travels at approximately 300,000 kilometers per second in a vacuum."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": 2,
+    "explanation": "Mars is called the \u201CRed Planet\u201D due to its reddish appearance from iron oxide."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribonucleic acid",
+      "Dextroribonucleic acid",
+      "Deoxynucleic acid",
+      "Denseribosomal acid"
+    ],
+    "answer": 0,
+    "explanation": "DNA, which stands for deoxyribonucleic acid, carries genetic information."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "The energy produced by moving water is called:",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Nuclear energy",
+      "Hydroelectric energy"
+    ],
+    "answer": 3,
+    "explanation": "Hydroelectric energy is generated by the movement of water, usually in dams."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet has the most extensive ring system?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Saturn",
+      "Jupiter"
+    ],
+    "answer": 2,
+    "explanation": "Saturn is famous for its large and complex ring system."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "The pH scale measures the:",
+    "options": [
+      "Temperature of substances",
+      "Acidity or alkalinity of substances",
+      "Density of liquids",
+      "Speed of chemical reactions"
+    ],
+    "answer": 1,
+    "explanation": "The pH scale ranges from 0 to 14, indicating whether a substance is acidic, neutral, or alkaline."
+  }
+]

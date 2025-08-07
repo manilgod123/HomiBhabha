@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "1. Which of the following is the primary source of energy for all life on Earth?",
+    "options": [
+      "Wind energy",
+      "Solar energy",
+      "Geothermal energy",
+      "Tidal energy"
+    ],
+    "answer": 1,
+    "explanation": "Solar energy from the Sun is the primary source of energy for most life on Earth, driving photosynthesis and the climate."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "2. In which type of climate would you expect to find a high diversity of plant and animal species?",
+    "options": [
+      "Desert",
+      "Tundra",
+      "Tropical rainforest",
+      "Grassland"
+    ],
+    "answer": 2,
+    "explanation": "Tropical rainforests have high biodiversity due to warm temperatures, high rainfall, and abundant resources."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "3. What is the process by which plants lose water vapor through small openings on their leaves?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Osmosis"
+    ],
+    "answer": 2,
+    "explanation": "Transpiration is the process by which water vapor is lost through stomata, helping regulate temperature and water balance."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "4. Which of the following is a non-renewable resource?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Wind energy",
+      "Hydroelectric energy"
+    ],
+    "answer": 1,
+    "explanation": "Coal is a fossil fuel that cannot be replenished quickly, making it a non-renewable resource."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "5. Which component of the blood is responsible for transporting oxygen?",
+    "options": [
+      "White blood cells",
+      "Platelets",
+      "Red blood cells",
+      "Plasma"
+    ],
+    "answer": 2,
+    "explanation": "Red blood cells contain hemoglobin, which binds with oxygen and transports it throughout the body."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "6. The process by which heat is transferred through a fluid by the movement of the fluid itself is called:",
+    "options": [
+      "Conduction",
+      "Radiation",
+      "Convection",
+      "Diffusion"
+    ],
+    "answer": 2,
+    "explanation": "Convection involves the movement of molecules within fluids, transferring heat in the process."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "7. Which plant tissue is responsible for transporting water and nutrients from roots to other parts of the plant?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Cambium",
+      "Epidermis"
+    ],
+    "answer": 1,
+    "explanation": "Xylem transports water and dissolved minerals from the roots to the rest of the plant."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "8. What type of reaction is represented by the equation A \u002B B \u2192 AB\\text{A \u002B B \u2192 AB}A \u002B B \u2192 AB?",
+    "options": [
+      "Decomposition reaction",
+      "Displacement reaction",
+      "Synthesis reaction",
+      "Redox reaction"
+    ],
+    "answer": 2,
+    "explanation": "A synthesis reaction combines two or more simple substances to form a more complex compound."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "9. Which of the following is a chemical change?",
+    "options": [
+      "Melting of ice",
+      "Evaporation of water",
+      "Burning of wood",
+      "Dissolving salt in water"
+    ],
+    "answer": 2,
+    "explanation": "Burning wood is a chemical change as it produces new substances, such as ash and gases."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "10. The force of gravity on an object is also known as its:",
+    "options": [
+      "Mass",
+      "Weight",
+      "Density",
+      "Volume"
+    ],
+    "answer": 1,
+    "explanation": "Weight is the force exerted by gravity on an object, measured as mass multiplied by gravitational acceleration."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "11. Which of the following organisms is capable of nitrogen fixation?",
+    "options": [
+      "Humans",
+      "Blue-green algae",
+      "Fish",
+      "Insects"
+    ],
+    "answer": 1,
+    "explanation": "Some blue-green algae (cyanobacteria) can fix atmospheric nitrogen into a usable form for plants."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "12. In an ecosystem, which group of organisms is responsible for breaking down dead matter and returning nutrients to the soil?",
+    "options": [
+      "Producers",
+      "Consumers",
+      "Decomposers",
+      "Herbivores"
+    ],
+    "answer": 2,
+    "explanation": "Decomposers break down dead organic matter, recycling nutrients into the ecosystem."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "13. What is the unit of electric power?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Coulomb",
+      "Volt"
+    ],
+    "answer": 1,
+    "explanation": "Electric power is measured in watts, which is the rate at which electrical energy is used or produced."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "14. Which of the following elements is an alkali metal?",
+    "options": [
+      "Helium",
+      "Sodium",
+      "Oxygen",
+      "Carbon"
+    ],
+    "answer": 1,
+    "explanation": "Alkali metals are in Group 1 of the periodic table, and sodium is one of them."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "15. What property of sound changes when the pitch changes?",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Speed",
+      "Wavelength"
+    ],
+    "answer": 1,
+    "explanation": "Pitch is related to frequency; a higher frequency corresponds to a higher pitch."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "16. What is the function of the mitochondria in a cell?",
+    "options": [
+      "Protein synthesis",
+      "Storage of genetic material",
+      "Energy production",
+      "Transport of materials"
+    ],
+    "answer": 2,
+    "explanation": "Mitochondria are the \u201Cpowerhouses\u201D of the cell, where energy (ATP) is produced through cellular respiration."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "17. In the human body, which organ filters blood to remove waste and excess fluids?",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Heart",
+      "Kidneys"
+    ],
+    "answer": 3,
+    "explanation": "The kidneys filter blood, removing waste products and excess fluid, which are excreted as urine."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "18. Which of the following is the longest bone in the human body?",
+    "options": [
+      "Humerus",
+      "Femur",
+      "Tibia",
+      "Radius"
+    ],
+    "answer": 1,
+    "explanation": "The femur, or thigh bone, is the longest and strongest bone in the human body."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "19. The pH of pure water at 25\u00B0C is approximately:",
+    "options": [
+      "3",
+      "7",
+      "9",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "Pure water is neutral with a pH of 7 at 25\u00B0C, meaning it has an equal concentration of hydrogen and hydroxide ions."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "20. In an electric circuit, if the voltage is increased while resistance remains constant, what happens to the current?",
+    "options": [
+      "Decreases",
+      "Remains the same",
+      "Increases",
+      "Stops"
+    ],
+    "answer": 2,
+    "explanation": "According to Ohm\u2019s Law (V = IR), if voltage increases and resistance is constant, the current will increase."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "21. Which disease is caused by the deficiency of vitamin D?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Beriberi",
+      "Anemia"
+    ],
+    "answer": 1,
+    "explanation": "Vitamin D deficiency can cause rickets, leading to weak and deformed bones in children."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "22. In which part of the eye is the image formed?",
+    "options": [
+      "Cornea",
+      "Retina",
+      "Iris",
+      "Pupil"
+    ],
+    "answer": 1,
+    "explanation": "The retina is the light-sensitive layer of the eye where images are focused and then sent to the brain."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "23. What is the primary purpose of chlorophyll in plants?",
+    "options": [
+      "To absorb carbon dioxide",
+      "To transport nutrients",
+      "To absorb sunlight",
+      "To protect from insects"
+    ],
+    "answer": 2,
+    "explanation": "Chlorophyll is a green pigment that absorbs sunlight, enabling photosynthesis in plants."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "24. Which gas is most abundant in the Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth\u2019s atmosphere, making it the most abundant gas."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "25. Which of the following is a good conductor of electricity?",
+    "options": [
+      "Wood",
+      "Rubber",
+      "Copper",
+      "Glass"
+    ],
+    "answer": 2,
+    "explanation": "Copper is a metal and an excellent conductor of electricity, commonly used in wiring."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "26. Which of the following pairs are homologous structures?",
+    "options": [
+      "Wings of a bat and wings of a butterfly",
+      "Forelimbs of a human and forelimbs of a cat",
+      "Wings of a bird and wings of a bat",
+      "Fins of a fish and legs of a frog"
+    ],
+    "answer": 1,
+    "explanation": "Homologous structures have a similar origin but may serve different functions, like human and cat forelimbs."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "27. In which organ does the process of digestion begin?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Mouth"
+    ],
+    "answer": 3,
+    "explanation": "Digestion begins in the mouth, where enzymes in saliva start breaking down food."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "28. Which type of mirror is used in car headlights to reflect light in a parallel beam?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "Spherical mirror"
+    ],
+    "answer": 2,
+    "explanation": "Concave mirrors focus light into a parallel beam, making them ideal for use in headlights."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "29. When light passes from air into glass, it:",
+    "options": [
+      "Speeds up",
+      "Slows down",
+      "Does not change speed",
+      "Stops completely"
+    ],
+    "answer": 1,
+    "explanation": "Light slows down when it passes into a denser medium like glass, causing it to refract."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "30. Which of these is NOT a renewable source of energy?",
+    "options": [
+      "Wind",
+      "Solar",
+      "Coal",
+      "Hydropower"
+    ],
+    "answer": 2,
+    "explanation": "Coal is a non-renewable energy source as it takes millions of years to form."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "31. The theory that all living things are composed of cells is known as the:",
+    "options": [
+      "Gene Theory",
+      "Evolution Theory",
+      "Cell Theory",
+      "Germ Theory"
+    ],
+    "answer": 2,
+    "explanation": "The Cell Theory states that all organisms are composed of cells, the basic unit of life."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "32. Which of the following processes does NOT involve a chemical reaction?",
+    "options": [
+      "Burning of wood",
+      "Rusting of iron",
+      "Melting of ice",
+      "Digestion of food"
+    ],
+    "answer": 2,
+    "explanation": "Melting of ice is a physical change, not a chemical reaction, as no new substances are formed."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "33. In which layer of Earth\u2019s atmosphere does weather occur?",
+    "options": [
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere",
+      "Troposphere"
+    ],
+    "answer": 3,
+    "explanation": "Weather occurs in the troposphere, the layer closest to Earth\u2019s surface where air movement is most active."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "34. Which particle in an atom has a negative charge?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "explanation": "Electrons have a negative charge, while protons are positive and neutrons are neutral."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "35. What type of bond is formed when two atoms share electrons?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": 1,
+    "explanation": "In a covalent bond, atoms share electrons to achieve a stable electronic configuration."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "36. The boiling point of water at sea level is:",
+    "options": [
+      "50\u00B0C",
+      "75\u00B0C",
+      "100\u00B0C",
+      "120\u00B0C"
+    ],
+    "answer": 2,
+    "explanation": "Water boils at 100\u00B0C at sea level under standard atmospheric pressure."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. The scientist who discovered penicillin was:",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Gregor Mendel"
+    ],
+    "answer": 1,
+    "explanation": "Alexander Fleming discovered penicillin, the first antibiotic, in 1928, revolutionizing medicine."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. Which planet has the largest number of moons?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": 2,
+    "explanation": "Saturn has the largest number of confirmed moons in our solar system, surpassing Jupiter."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. The SI unit of temperature is:",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "answer": 2,
+    "explanation": "Kelvin is the SI base unit of temperature, often used in scientific measurements."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. Which gas is commonly used in balloons because it is lighter than air and non-flammable?",
+    "options": [
+      "Hydrogen",
+      "Nitrogen",
+      "Helium",
+      "Oxygen"
+    ],
+    "answer": 2,
+    "explanation": "Helium is lighter than air and non-flammable, making it a safe choice for filling balloons."
+  }
+]

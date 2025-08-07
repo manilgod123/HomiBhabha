@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "1. Which organelle is known as the \u201Ccontrol center\u201D of a cell?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "answer": 1,
+    "explanation": "The nucleus controls cell activities and stores the cell\u2019s genetic information."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "2. Which of the following is NOT a characteristic of living organisms?",
+    "options": [
+      "Growth",
+      "Reproduction",
+      "Respiration",
+      "Freezing"
+    ],
+    "answer": 3,
+    "explanation": "Freezing is a physical process, not a characteristic of living organisms."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "3. Which gas is released during photosynthesis?",
+    "options": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Oxygen is released as a byproduct of photosynthesis."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "4. What is the role of the xylem in plants?",
+    "options": [
+      "Transport of water and minerals",
+      "Transport of food",
+      "Protection against infection",
+      "Storage of food"
+    ],
+    "answer": 0,
+    "explanation": "Xylem transports water and dissolved minerals from roots to other parts of the plant."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "5. Which type of reproduction occurs in yeast?",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Fragmentation",
+      "Regeneration"
+    ],
+    "answer": 1,
+    "explanation": "Yeast reproduces by budding, where a new cell grows out from the body of the parent cell."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "6. What is the primary function of red blood cells?",
+    "options": [
+      "Transport oxygen",
+      "Fight infections",
+      "Produce antibodies",
+      "Regulate temperature"
+    ],
+    "answer": 0,
+    "explanation": "Red blood cells contain hemoglobin, which transports oxygen throughout the body."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "7. Which of the following is NOT an endocrine gland?",
+    "options": [
+      "Thyroid",
+      "Pancreas",
+      "Salivary gland",
+      "Adrenal gland"
+    ],
+    "answer": 2,
+    "explanation": "The salivary gland is not an endocrine gland; it secretes saliva into the mouth."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "8. What is the chemical formula for methane?",
+    "options": [
+      "CH\u2084",
+      "C\u2082H\u2086",
+      "CO\u2082",
+      "C\u2083H\u2088"
+    ],
+    "answer": 0,
+    "explanation": "Methane consists of one carbon atom and four hydrogen atoms, represented as CH\u2084."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "9. Which gas is used in fire extinguishers?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Methane"
+    ],
+    "answer": 2,
+    "explanation": "Carbon dioxide displaces oxygen, extinguishing fires effectively."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "10. The SI unit of force is:",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "answer": 1,
+    "explanation": "Newton is the SI unit of force, named after Sir Isaac Newton."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "11. What type of lens is used to correct short-sightedness (myopia)?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Plane lens",
+      "Cylindrical lens"
+    ],
+    "answer": 1,
+    "explanation": "Concave lenses help diverge light rays, correcting myopia."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "12. The deficiency of which vitamin causes night blindness?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 0,
+    "explanation": "Vitamin A is essential for healthy vision, and its deficiency leads to night blindness."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "13. What is the chemical formula of acetic acid?",
+    "options": [
+      "HCl",
+      "C\u2082H\u2086O",
+      "CH\u2083COOH",
+      "C\u2086H\u2086"
+    ],
+    "answer": 2,
+    "explanation": "Acetic acid, the main component of vinegar, has the formula CH\u2083COOH."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "14. Which layer of the atmosphere contains the ozone layer?",
+    "options": [
+      "Troposphere",
+      "Mesosphere",
+      "Stratosphere",
+      "Thermosphere"
+    ],
+    "answer": 2,
+    "explanation": "The ozone layer, which protects Earth from UV radiation, is located in the stratosphere."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "15. What is the primary component of natural gas?",
+    "options": [
+      "Ethane",
+      "Propane",
+      "Butane",
+      "Methane"
+    ],
+    "answer": 3,
+    "explanation": "Natural gas primarily consists of methane, a hydrocarbon."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "16. Which part of the brain is responsible for balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": 1,
+    "explanation": "The cerebellum controls balance, posture, and coordination."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "17. In which type of reaction is energy absorbed?",
+    "options": [
+      "Exothermic reaction",
+      "Endothermic reaction",
+      "Neutralization reaction",
+      "Redox reaction"
+    ],
+    "answer": 1,
+    "explanation": "Endothermic reactions absorb energy from their surroundings."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "18. The number of chromosomes in a human gamete is:",
+    "options": [
+      "23",
+      "46",
+      "22",
+      "24"
+    ],
+    "answer": 0,
+    "explanation": "Human gametes have 23 chromosomes, half the number found in somatic cells."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "19. What is Newton\u2019s Third Law of Motion?",
+    "options": [
+      "Every action has an equal and opposite reaction",
+      "Force equals mass times acceleration",
+      "An object in motion stays in motion",
+      "Gravitational force attracts objects"
+    ],
+    "answer": 0,
+    "explanation": "Newton\u2019s Third Law states that forces between two objects are equal in magnitude and opposite in direction."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "20. Which of the following is a greenhouse gas?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide traps heat in the atmosphere, contributing to global warming."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "21. What type of reaction occurs when hydrochloric acid reacts with sodium hydroxide?",
+    "options": [
+      "Combustion",
+      "Synthesis",
+      "Neutralization",
+      "Decomposition"
+    ],
+    "answer": 2,
+    "explanation": "The reaction between an acid and a base produces water and salt, called a neutralization reaction."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "22. Which part of the cell contains genetic material?",
+    "options": [
+      "Mitochondria",
+      "Cytoplasm",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": 2,
+    "explanation": "The nucleus contains DNA, which stores the cell\u2019s genetic information."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "23. The process of splitting water into hydrogen and oxygen using electricity is called:",
+    "options": [
+      "Distillation",
+      "Electrolysis",
+      "Filtration",
+      "Crystallization"
+    ],
+    "answer": 1,
+    "explanation": "Electrolysis uses electric current to break water molecules into hydrogen and oxygen."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "24. What type of mirror is used as a rear-view mirror in vehicles?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "Spherical mirror"
+    ],
+    "answer": 1,
+    "explanation": "Convex mirrors provide a wider field of view, making them suitable for rear-view mirrors."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "25. Which of the following elements is not required for plant growth?",
+    "options": [
+      "Nitrogen",
+      "Phosphorus",
+      "Mercury",
+      "Potassium"
+    ],
+    "answer": 2,
+    "explanation": "Mercury is not essential for plant growth; in fact, it is toxic to plants."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "26. In which of the following does the speed of sound travel fastest?",
+    "options": [
+      "Air",
+      "Water",
+      "Steel",
+      "Vacuum"
+    ],
+    "answer": 2,
+    "explanation": "Sound travels fastest in solids like steel due to tightly packed molecules, enabling efficient transmission of vibrations."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "27. Which gas is evolved when an acid reacts with a metal?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "When acids react with metals, they produce hydrogen gas as a byproduct."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "28. Which of the following acids is found in citrus fruits like oranges and lemons?",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Tartaric acid",
+      "Hydrochloric acid"
+    ],
+    "answer": 1,
+    "explanation": "Citric acid gives citrus fruits their sour taste."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "29. Which process is responsible for water loss in plants through stomata?",
+    "options": [
+      "Transpiration",
+      "Photosynthesis",
+      "Absorption",
+      "Digestion"
+    ],
+    "answer": 0,
+    "explanation": "Transpiration is the process of water evaporation from plant leaves through stomata."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "30. What is the pH level of a neutral solution at 25\u00B0C?",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "A pH of 7 indicates a neutral solution, meaning it is neither acidic nor basic."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "31. Which vitamin is produced in the human skin when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "Sunlight triggers the production of vitamin D in the skin, essential for bone health."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "32. What is the name of the process by which plants prepare their own food using sunlight?",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Digestion"
+    ],
+    "answer": 2,
+    "explanation": "Photosynthesis is the process through which plants convert sunlight into energy, producing food."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "33. Which component of the blood helps in clotting?",
+    "options": [
+      "White blood cells",
+      "Platelets",
+      "Plasma",
+      "Red blood cells"
+    ],
+    "answer": 1,
+    "explanation": "Platelets are responsible for blood clotting, preventing excessive bleeding."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "34. What is the SI unit of power?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 1,
+    "explanation": "Power is measured in watts, which indicates the rate of energy transfer."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "35. The study of heredity and variation is known as:",
+    "options": [
+      "Physiology",
+      "Genetics",
+      "Ecology",
+      "Botany"
+    ],
+    "answer": 1,
+    "explanation": "Genetics deals with the study of genes, heredity, and variation in living organisms."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "36. In an electric circuit, which device is used to prevent excessive current?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Fuse",
+      "Switch"
+    ],
+    "answer": 2,
+    "explanation": "A fuse protects an electric circuit by breaking the circuit if current exceeds safe levels."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": 1,
+    "explanation": "Mars is called the \u201CRed Planet\u201D due to its reddish appearance, caused by iron oxide on its surface."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Graphite",
+      "Diamond",
+      "Iron"
+    ],
+    "answer": 2,
+    "explanation": "Diamond is the hardest known natural material due to its strong carbon bonding."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. Which metal is a liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Mercury",
+      "Silver",
+      "Lead"
+    ],
+    "answer": 1,
+    "explanation": "Mercury is the only metal that is liquid at room temperature."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Marie Curie"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein is known as the \u201CFather of Modern Physics\u201D due to his revolutionary contributions."
+  }
+]

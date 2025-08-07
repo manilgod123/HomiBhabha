@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of the following is an example of a non-living thing?",
+    "options": [
+      "Dog",
+      "Tree",
+      "Rock",
+      "Fish"
+    ],
+    "answer": 2,
+    "explanation": "A rock does not grow, move, or reproduce, so it is considered non-living."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What do plants release during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "Photosynthesis allows plants to convert sunlight into energy, releasing oxygen as a byproduct."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of these animals is a herbivore?",
+    "options": [
+      "Lion",
+      "Cow",
+      "Eagle",
+      "Snake"
+    ],
+    "answer": 1,
+    "explanation": "Herbivores like cows feed on plants, whereas carnivores like lions feed on animals."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the main purpose of roots in a plant?",
+    "options": [
+      "Produce food",
+      "Absorb water",
+      "Attract sunlight",
+      "Release oxygen"
+    ],
+    "answer": 1,
+    "explanation": "Roots help absorb water and nutrients from the soil, which are vital for plant growth."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which form of water exists naturally in all three states of matter?",
+    "options": [
+      "Ice",
+      "Water",
+      "Snow",
+      "Vapor"
+    ],
+    "answer": 1,
+    "explanation": "Water can be found as a liquid (water), solid (ice), and gas (water vapor) in nature."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the function of the chlorophyll in plants?",
+    "options": [
+      "Absorb sunlight",
+      "Absorb oxygen",
+      "Absorb nitrogen",
+      "Absorb carbon dioxide"
+    ],
+    "answer": 0,
+    "explanation": "Chlorophyll captures sunlight, which plants use to create food through photosynthesis."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which body system includes the heart and blood vessels?",
+    "options": [
+      "Nervous system",
+      "Respiratory system",
+      "Circulatory system",
+      "Digestive system"
+    ],
+    "answer": 2,
+    "explanation": "The circulatory system, consisting of the heart and blood vessels, transports blood and nutrients throughout the body."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which gas do humans exhale during respiration?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "answer": 2,
+    "explanation": "Humans exhale carbon dioxide as a waste product of respiration."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which is an example of a simple machine?",
+    "options": [
+      "Battery",
+      "Lever",
+      "Motor",
+      "Magnet"
+    ],
+    "answer": 1,
+    "explanation": "A lever is a simple machine that helps lift or move loads with less effort."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which process changes liquid water into vapor?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Melting"
+    ],
+    "answer": 1,
+    "explanation": "Evaporation occurs when liquid water absorbs heat and changes into vapor."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main source of energy for life on Earth?",
+    "options": [
+      "Water",
+      "Plants",
+      "Sun",
+      "Animals"
+    ],
+    "answer": 2,
+    "explanation": "The Sun provides energy necessary for life on Earth, fueling processes like photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which type of rock is formed from lava?",
+    "options": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Fossilized"
+    ],
+    "answer": 0,
+    "explanation": "Igneous rocks form when lava or magma cools and solidifies."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the smallest unit of an element?",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Compound"
+    ],
+    "answer": 0,
+    "explanation": "Atoms are the smallest units that make up elements."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is most abundant in Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of the Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What process is responsible for the formation of clouds?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Freezing"
+    ],
+    "answer": 1,
+    "explanation": "Clouds form when water vapor condenses into tiny droplets in the atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      "Transport oxygen",
+      "Fight infections",
+      "Produce hormones",
+      "Aid in digestion"
+    ],
+    "answer": 0,
+    "explanation": "Red blood cells carry oxygen from the lungs to other parts of the body."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In which layer of the Earth do we live?",
+    "options": [
+      "Core",
+      "Mantle",
+      "Crust",
+      "Outer core"
+    ],
+    "answer": 2,
+    "explanation": "The Earth\u2019s crust is the outermost layer where humans and other organisms live."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the term for an animal that eats both plants and animals?",
+    "options": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Detritivore"
+    ],
+    "answer": 2,
+    "explanation": "Omnivores eat both plants and animals as part of their diet."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "answer": 1,
+    "explanation": "Mars is often called the Red Planet due to its reddish appearance caused by iron oxide."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the unit used to measure electric current?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Watt"
+    ],
+    "answer": 2,
+    "explanation": "The ampere is the standard unit for measuring electric current."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these is a non-renewable energy resource?",
+    "options": [
+      "Wind",
+      "Solar",
+      "Oil",
+      "Biomass"
+    ],
+    "answer": 2,
+    "explanation": "Oil is a fossil fuel, a non-renewable resource that takes millions of years to form."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "0\u00B0C",
+      "50\u00B0C",
+      "100\u00B0C",
+      "200\u00B0C"
+    ],
+    "answer": 2,
+    "explanation": "Water boils at 100\u00B0C under standard atmospheric pressure."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the cell contains genetic material?",
+    "options": [
+      "Cytoplasm",
+      "Cell wall",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 2,
+    "explanation": "The nucleus holds the cell\u2019s genetic material in the form of DNA."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What kind of energy transformation occurs in a battery-powered flashlight?",
+    "options": [
+      "Light to chemical",
+      "Chemical to electrical",
+      "Electrical to sound",
+      "Mechanical to thermal"
+    ],
+    "answer": 1,
+    "explanation": "In a flashlight, stored chemical energy in the battery converts to electrical energy, powering the light."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What term describes a change from gas to liquid?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Freezing",
+      "Melting"
+    ],
+    "answer": 1,
+    "explanation": "Condensation is the process by which water vapor cools and becomes liquid."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the human body controls movements and balance?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Brain",
+      "Stomach"
+    ],
+    "answer": 2,
+    "explanation": "The brain\u2019s cerebellum regulates movement and balance."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet is known as the largest in the solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": 1,
+    "explanation": "Jupiter is the largest planet, with a massive volume and gravitational pull."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of blood vessel carries blood away from the heart?",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph nodes"
+    ],
+    "answer": 1,
+    "explanation": "Arteries carry oxygenated blood from the heart to the body."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which organ in humans is primarily responsible for absorbing nutrients?",
+    "options": [
+      "Stomach",
+      "Liver",
+      "Small intestine",
+      "Large intestine"
+    ],
+    "answer": 2,
+    "explanation": "The small intestine absorbs nutrients into the bloodstream."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The force that causes objects to fall to the ground is:",
+    "options": [
+      "Magnetism",
+      "Friction",
+      "Gravity",
+      "Elasticity"
+    ],
+    "answer": 2,
+    "explanation": "Gravity is the force that attracts objects toward Earth."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the \u201CFather of Physics\u201D?",
+    "options": [
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "answer": 2,
+    "explanation": "Newton\u2019s contributions to mechanics and gravity earned him the title."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which vitamin is known as the \u201CSunshine Vitamin\u201D?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "Vitamin D is synthesized in the skin when exposed to sunlight."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "CO\u2082",
+      "H\u2082O",
+      "O\u2082",
+      "H\u2082"
+    ],
+    "answer": 1,
+    "explanation": "H\u2082O represents water, composed of two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the approximate age of the Earth?",
+    "options": [
+      "4.5 billion years",
+      "10 million years",
+      "500 million years",
+      "3.2 billion years"
+    ],
+    "answer": 0,
+    "explanation": "Scientific research estimates that Earth formed around 4.5 billion years ago."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which element is essential for the production of hemoglobin in blood?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Potassium",
+      "Sodium"
+    ],
+    "answer": 1,
+    "explanation": "Iron is a key component of hemoglobin, which carries oxygen in the blood."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet is known as the \u201CMorning Star\u201D?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1,
+    "explanation": "Venus appears bright in the sky just before sunrise, hence the name \u201CMorning Star.\u201D"
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Hg",
+      "Fe"
+    ],
+    "answer": 0,
+    "explanation": "The symbol for gold is Au, derived from its Latin name, \u201CAurum.\u201D"
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which scientist is known for the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Marie Curie"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein developed the theory of relativity, which revolutionized our understanding of space, time, and gravity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the unit of measure for electric resistance?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Watt",
+      "Ohm"
+    ],
+    "answer": 3,
+    "explanation": "Ohm is the unit used to measure electrical resistance."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the main function of the ozone layer in Earth\u2019s atmosphere?",
+    "options": [
+      "Absorb oxygen",
+      "Reflect light",
+      "Absorb ultraviolet radiation",
+      "Increase heat"
+    ],
+    "answer": 2,
+    "explanation": "The ozone layer absorbs harmful ultraviolet rays from the sun, protecting life on Earth."
+  }
+]

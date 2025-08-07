@@ -1,6 +1,9 @@
 const params = new URLSearchParams(window.location.search);
 const setName = params.get('set');
 const dataPath = `data/${setName}.json`;
+const setNameStore = 'Set_'+setName
+const totalQuestions = 50;
+let currentQuestionIndex = 0;
 
 let questions = [];
 let currentIndex = 0;
@@ -14,6 +17,14 @@ fetch(dataPath)
   .then(res => res.json())
   .then(data => {
     questions = data;
+    if(localStorage.getItem(setNameStore)>0){
+      if(confirm("Do you want to resume your earlier session?")){
+        currentIndex=parseInt(localStorage.getItem(setNameStore));
+      }
+      else {
+        currentIndex=0;
+      }
+    }
     showQuestion();
   })
   .catch(() => {
@@ -34,6 +45,7 @@ function showQuestion() {
     btn.onclick = () => handleAnswer(i, q.answer, q.explanation, btn);
     optionsEl.appendChild(btn);
   });
+  localStorage.setItem(setNameStore,currentIndex);
 }
 
 function handleAnswer(selected, correct, explanation, clickedBtn) {

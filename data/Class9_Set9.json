@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "1. What is the main function of the xylem in plants?",
+    "options": [
+      "Transport of food",
+      "Transport of water",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "answer": 1,
+    "explanation": "Xylem transports water and minerals from the roots to the rest of the plant."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "2. What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Pascal",
+      "Joule",
+      "Watt"
+    ],
+    "answer": 0,
+    "explanation": "Force is measured in Newtons (N), named after Sir Isaac Newton."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "3. Which gas is necessary for photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Plants use carbon dioxide during photosynthesis to produce glucose and oxygen."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "4. Which of the following is an example of a reversible change?",
+    "options": [
+      "Burning of paper",
+      "Rusting of iron",
+      "Melting of ice",
+      "Cooking of food"
+    ],
+    "answer": 2,
+    "explanation": "Melting of ice is reversible as water can freeze back into ice."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "5. What type of energy is stored in a stretched rubber band?",
+    "options": [
+      "Kinetic energy",
+      "Potential energy",
+      "Heat energy",
+      "Chemical energy"
+    ],
+    "answer": 1,
+    "explanation": "A stretched rubber band stores potential energy due to its position."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "6. What is the main constituent of biogas?",
+    "options": [
+      "Carbon dioxide",
+      "Methane",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Biogas primarily consists of methane, which is used as a fuel."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "7. What is the chemical formula of common salt?",
+    "options": [
+      "KCl",
+      "NaCl",
+      "CaCl\u2082",
+      "MgCl\u2082"
+    ],
+    "answer": 1,
+    "explanation": "Sodium chloride (NaCl) is the chemical formula for common salt."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "8. Which part of the human digestive system is primarily responsible for nutrient absorption?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "answer": 1,
+    "explanation": "The small intestine absorbs nutrients from digested food."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "9. What is the boiling point of water at standard atmospheric pressure?",
+    "options": [
+      "90\u00B0C",
+      "100\u00B0C",
+      "120\u00B0C",
+      "80\u00B0C"
+    ],
+    "answer": 1,
+    "explanation": "Water boils at 100\u00B0C under standard atmospheric pressure."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "10. Which of the following is an example of a heterogeneous mixture?",
+    "options": [
+      "Saltwater",
+      "Air",
+      "Oil and water",
+      "Vinegar"
+    ],
+    "answer": 2,
+    "explanation": "Oil and water do not mix uniformly, making it a heterogeneous mixture."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "11. What is the function of white blood cells in the human body?",
+    "options": [
+      "Transport oxygen",
+      "Provide immunity",
+      "Clot blood",
+      "Digest food"
+    ],
+    "answer": 1,
+    "explanation": "White blood cells protect the body by fighting infections."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "12. Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": 2,
+    "explanation": "Mars appears red due to iron oxide on its surface."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "13. What is the chemical formula for limewater?",
+    "options": [
+      "Ca(OH)\u2082",
+      "NaOH",
+      "KOH",
+      "Mg(OH)\u2082"
+    ],
+    "answer": 0,
+    "explanation": "Limewater is a solution of calcium hydroxide (Ca(OH)\u2082)."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "14. What is the focal length of a plane mirror?",
+    "options": [
+      "0",
+      "Infinite",
+      "Positive",
+      "Negative"
+    ],
+    "answer": 1,
+    "explanation": "A plane mirror has an infinite focal length as its reflective surface is flat."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "15. What is the primary structural component of cell walls in plants?",
+    "options": [
+      "Cellulose",
+      "Proteins",
+      "Lipids",
+      "Starch"
+    ],
+    "answer": 0,
+    "explanation": "Cellulose provides strength and rigidity to plant cell walls."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "**16. The frequency of a wave is inversely proportional to its:",
+    "options": [
+      "Amplitude",
+      "Velocity",
+      "Wavelength",
+      "Period"
+    ],
+    "answer": 2,
+    "explanation": "Frequency is inversely proportional to the wavelength in wave mechanics."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "17. What is the primary source of energy for life on Earth?",
+    "options": [
+      "Wind",
+      "Fossil fuels",
+      "The Sun",
+      "Geothermal energy"
+    ],
+    "answer": 2,
+    "explanation": "The Sun is the ultimate source of energy for almost all life forms on Earth."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "18. What is the SI unit of electric current?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Coulomb",
+      "Ohm"
+    ],
+    "answer": 1,
+    "explanation": "Electric current is measured in amperes (A), which is the flow of electric charge per second."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "19. Which subatomic particle is negatively charged?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Positron"
+    ],
+    "answer": 2,
+    "explanation": "Electrons are negatively charged subatomic particles orbiting the nucleus."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "20. What happens to the pressure of a gas if its volume is halved at constant temperature?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Becomes zero"
+    ],
+    "answer": 0,
+    "explanation": "According to Boyle\u2019s Law, pressure and volume are inversely proportional at constant temperature."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "21. Which organelle is known as the \u201Cpowerhouse of the cell\u201D?",
+    "options": [
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondrion",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "explanation": "Mitochondria generate energy in the form of ATP for cellular activities."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "22. What is the acceleration due to gravity on Earth?",
+    "options": [
+      "8.9 m/s\u00B2",
+      "9.8 m/s\u00B2",
+      "10.8 m/s\u00B2",
+      "11.8 m/s\u00B2"
+    ],
+    "answer": 1,
+    "explanation": "The standard acceleration due to gravity on Earth is approximately 9.8 m/s\u00B2."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "23. Which of the following is an exothermic reaction?",
+    "options": [
+      "Photosynthesis",
+      "Melting of ice",
+      "Combustion of fuel",
+      "Boiling of water"
+    ],
+    "answer": 2,
+    "explanation": "Combustion releases heat and light, making it an exothermic reaction."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "24. What is the chemical name of washing soda?",
+    "options": [
+      "Sodium carbonate",
+      "Sodium bicarbonate",
+      "Calcium carbonate",
+      "Potassium carbonate"
+    ],
+    "answer": 0,
+    "explanation": "Washing soda is chemically known as sodium carbonate (Na\u2082CO\u2083)."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "25. Which law states that \u201Cenergy can neither be created nor destroyed\u201D?",
+    "options": [
+      "Newton\u2019s First Law",
+      "Law of Conservation of Energy",
+      "Boyle\u2019s Law",
+      "Charles\u2019 Law"
+    ],
+    "answer": 1,
+    "explanation": "This law states that energy can only transform from one form to another."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "26. What is the primary function of the human liver?",
+    "options": [
+      "Produce bile",
+      "Pump blood",
+      "Filter oxygen",
+      "Store glycogen"
+    ],
+    "answer": 0,
+    "explanation": "The liver produces bile, which aids in the digestion of fats."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "27. Which type of bond is present in an oxygen molecule (O\u2082)?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen atoms share electrons through a covalent double bond in an O\u2082 molecule."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "28. What is the term for the phenomenon of bending of light when it passes through a prism?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Dispersion",
+      "Diffraction"
+    ],
+    "answer": 2,
+    "explanation": "Dispersion occurs when light splits into its constituent colors while passing through a prism."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "29. What is the main cause of tides in the Earth\u2019s oceans?",
+    "options": [
+      "Wind",
+      "Moon\u2019s gravitational pull",
+      "Sun\u2019s heat",
+      "Earth\u2019s rotation"
+    ],
+    "answer": 1,
+    "explanation": "Tides are primarily caused by the gravitational interaction between the Earth and the Moon."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "30. Which gas is commonly used in fire extinguishers?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Methane"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide displaces oxygen and helps to smother the fire."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "31. What is the pH of pure water at 25\u00B0C?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "Pure water is neutral with a pH of 7 at 25\u00B0C."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "32. What is the smallest structural and functional unit of life?",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "Organism"
+    ],
+    "answer": 2,
+    "explanation": "The cell is the basic unit of life in all living organisms."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "33. What is the formula for calculating speed?",
+    "options": [
+      "Distance \u00D7 Time",
+      "Distance / Time",
+      "Time \u00D7 Acceleration",
+      "Acceleration / Time"
+    ],
+    "answer": 1,
+    "explanation": "Speed is defined as the distance traveled per unit of time."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "34. Which vitamin is essential for blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "answer": 2,
+    "explanation": "Vitamin K helps in the synthesis of proteins required for blood clotting."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "35. What is the term for an organism that makes its own food?",
+    "options": [
+      "Heterotroph",
+      "Autotroph",
+      "Parasite",
+      "Saprophyte"
+    ],
+    "answer": 1,
+    "explanation": "Autotrophs like plants produce their own food through photosynthesis."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "36. Which of the following is an example of a scalar quantity?",
+    "options": [
+      "Force",
+      "Velocity",
+      "Energy",
+      "Acceleration"
+    ],
+    "answer": 2,
+    "explanation": "Energy is a scalar quantity as it has magnitude but no direction."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. Which element is the most abundant in the Earth\u2019s crust?",
+    "options": [
+      "Iron",
+      "Oxygen",
+      "Silicon",
+      "Aluminum"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen makes up about 46% of the Earth\u2019s crust by weight."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. What is the SI unit of temperature?",
+    "options": [
+      "Celsius",
+      "Kelvin",
+      "Fahrenheit",
+      "Rankine"
+    ],
+    "answer": 1,
+    "explanation": "Kelvin is the SI unit of temperature measurement."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. Which device is used to measure atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Altimeter"
+    ],
+    "answer": 1,
+    "explanation": "A barometer measures atmospheric pressure."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. What is the approximate age of the Earth?",
+    "options": [
+      "3.5 billion years",
+      "4.5 billion years",
+      "5.5 billion years",
+      "6.5 billion years"
+    ],
+    "answer": 1,
+    "explanation": "Scientific evidence suggests that Earth is approximately 4.5 billion years old."
+  }
+]

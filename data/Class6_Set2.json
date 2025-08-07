@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "1. Which of these is an example of an insect?",
+    "options": [
+      "Frog",
+      "Butterfly",
+      "Lizard",
+      "Snake"
+    ],
+    "answer": 1,
+    "explanation": "Butterflies are insects, characterized by three body segments and wings."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "2. Which organ do humans use primarily to breathe?",
+    "options": [
+      "Heart",
+      "Stomach",
+      "Lungs",
+      "Kidneys"
+    ],
+    "answer": 2,
+    "explanation": "The lungs are the main organs for respiration, allowing oxygen to enter the bloodstream."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "3. Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Venus",
+      "Saturn",
+      "Jupiter",
+      "Mars"
+    ],
+    "answer": 3,
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "4. What is the main source of light for the Earth?",
+    "options": [
+      "Moon",
+      "Stars",
+      "Sun",
+      "Planets"
+    ],
+    "answer": 2,
+    "explanation": "The Sun provides the Earth with light and warmth, making life possible."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "5. The green pigment in plants that absorbs sunlight is called:",
+    "options": [
+      "Hemoglobin",
+      "Chlorophyll",
+      "Carotene",
+      "Anthocyanin"
+    ],
+    "answer": 1,
+    "explanation": "Chlorophyll helps plants absorb sunlight for photosynthesis."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "6. What is the main function of roots in a plant?",
+    "options": [
+      "Make food",
+      "Support the plant",
+      "Absorb water and nutrients",
+      "Reproduce"
+    ],
+    "answer": 2,
+    "explanation": "Roots take up water and essential nutrients from the soil."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "7. Which of the following is a renewable energy source?",
+    "options": [
+      "Coal",
+      "Oil",
+      "Solar energy",
+      "Natural gas"
+    ],
+    "answer": 2,
+    "explanation": "Solar energy is renewable because it is naturally replenished by the Sun."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "8. Water in rivers and lakes comes mostly from:",
+    "options": [
+      "Wells",
+      "Rainfall",
+      "Oceans",
+      "Groundwater"
+    ],
+    "answer": 1,
+    "explanation": "Rainfall is the primary source of freshwater in rivers and lakes."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "9. In which layer of soil are most plant roots found?",
+    "options": [
+      "Bedrock",
+      "Subsoil",
+      "Topsoil",
+      "Sand"
+    ],
+    "answer": 2,
+    "explanation": "Topsoil is rich in nutrients and holds water, making it ideal for plant roots."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "10. What type of gas is essential for human respiration?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen is required for respiration and is taken up by the lungs."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "11. Which planet has the most extensive ring system?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 3,
+    "explanation": "Saturn is famous for its large and beautiful ring system."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "12. In what form does water vapor condense to become visible?",
+    "options": [
+      "Steam",
+      "Dew",
+      "Snow",
+      "Fog"
+    ],
+    "answer": 3,
+    "explanation": "Fog is condensed water vapor in the air, making it visible near the ground."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "13. Which type of joint is found in the shoulder?",
+    "options": [
+      "Hinge joint",
+      "Pivot joint",
+      "Ball and socket joint",
+      "Fixed joint"
+    ],
+    "answer": 2,
+    "explanation": "The ball-and-socket joint allows a wide range of movement, as in the shoulder."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "14. The primary component of air is:",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Nitrogen makes up about 78% of Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "15. What is the function of stomata in plants?",
+    "options": [
+      "Water absorption",
+      "Seed dispersal",
+      "Gas exchange",
+      "Reproduction"
+    ],
+    "answer": 2,
+    "explanation": "Stomata are small openings that allow plants to take in CO\u2082 and release O\u2082."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "16. Which of these materials is an example of an insulator?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Wood",
+      "Aluminum"
+    ],
+    "answer": 2,
+    "explanation": "Wood is an insulator, meaning it does not conduct electricity well."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "17. The primary source of energy in an ecosystem is:",
+    "options": [
+      "Soil",
+      "Water",
+      "Sunlight",
+      "Rocks"
+    ],
+    "answer": 2,
+    "explanation": "Sunlight provides the energy needed for photosynthesis, starting the food chain."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "18. Which part of the cell contains genetic material?",
+    "options": [
+      "Cell membrane",
+      "Nucleus",
+      "Cytoplasm",
+      "Cell wall"
+    ],
+    "answer": 1,
+    "explanation": "The nucleus houses DNA, which contains genetic information."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "19. What gas is given off during photosynthesis?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis produces oxygen as a byproduct."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "20. Which planet is known as Earth\u2019s \u201Csister planet\u201D?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": 0,
+    "explanation": "Venus is similar in size and structure to Earth and is often called its sister planet."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "21. Which part of the plant is responsible for making food through photosynthesis?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 2,
+    "explanation": "Leaves contain chlorophyll, which helps plants absorb sunlight and carry out photosynthesis to make food."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "22. What type of rock is formed from molten lava?",
+    "options": [
+      "Sedimentary rock",
+      "Metamorphic rock",
+      "Igneous rock",
+      "Clay"
+    ],
+    "answer": 2,
+    "explanation": "Igneous rocks form from the cooling and solidification of molten lava or magma."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "23. Which part of the digestive system is primarily responsible for nutrient absorption?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "answer": 1,
+    "explanation": "The small intestine has villi that increase the surface area for nutrient absorption into the blood."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "24. What does blood transport to all parts of the body?",
+    "options": [
+      "Waste materials",
+      "Carbon dioxide",
+      "Oxygen",
+      "Bones"
+    ],
+    "answer": 2,
+    "explanation": "Blood carries oxygen from the lungs to all cells in the body for respiration."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "25. Which is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 2,
+    "explanation": "Jupiter is the largest planet in our solar system, with a massive atmosphere and many moons."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "26. In which layer of the atmosphere do most weather events occur?",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 1,
+    "explanation": "The troposphere is the lowest layer of Earth\u2019s atmosphere, where weather changes happen."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "27. Which of these animals is a mammal?",
+    "options": [
+      "Shark",
+      "Lizard",
+      "Whale",
+      "Frog"
+    ],
+    "answer": 2,
+    "explanation": "Whales are mammals as they have lungs, give live birth, and nurse their young."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "28. What type of blood vessels carry blood away from the heart?",
+    "options": [
+      "Veins",
+      "Capillaries",
+      "Arteries",
+      "Bronchi"
+    ],
+    "answer": 2,
+    "explanation": "Arteries are blood vessels that carry oxygenated blood away from the heart to the body."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "29. The force that pulls objects toward the center of the Earth is called:",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Elasticity"
+    ],
+    "answer": 1,
+    "explanation": "Gravity is the force that attracts objects toward the Earth\u2019s center."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "30. Which nutrient is mainly responsible for the growth and repair of body tissues?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Vitamins"
+    ],
+    "answer": 1,
+    "explanation": "Proteins are essential for building and repairing tissues in the body."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "31. The smallest unit of life is:",
+    "options": [
+      "Tissue",
+      "Cell",
+      "Organ",
+      "Molecule"
+    ],
+    "answer": 1,
+    "explanation": "The cell is the basic structural and functional unit of all living organisms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "32. During which process does a caterpillar change into a butterfly?",
+    "options": [
+      "Germination",
+      "Pollination",
+      "Photosynthesis",
+      "Metamorphosis"
+    ],
+    "answer": 3,
+    "explanation": "Metamorphosis is the process where a caterpillar undergoes transformation into a butterfly."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "33. The main function of white blood cells is to:",
+    "options": [
+      "Carry oxygen",
+      "Fight infections",
+      "Transport nutrients",
+      "Form clots"
+    ],
+    "answer": 1,
+    "explanation": "White blood cells are part of the immune system and help defend the body against infections."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "34. Which gas do animals exhale that plants need for photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Carbon dioxide exhaled by animals is used by plants during photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "35. Which of these planets is known for its prominent rings?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": 2,
+    "explanation": "Saturn is famous for its complex ring system, made up of ice and rock particles."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "36. Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "James Maxwell"
+    ],
+    "answer": 1,
+    "explanation": "Einstein\u2019s theories of relativity transformed modern physics."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. What is the primary purpose of a telescope?",
+    "options": [
+      "Study sound",
+      "Observe distant objects",
+      "Measure weight",
+      "Produce light"
+    ],
+    "answer": 1,
+    "explanation": "Telescopes are used to view objects far away, like stars and planets."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. The symbol for the chemical element Gold is:",
+    "options": [
+      "Au",
+      "Ag",
+      "Cu",
+      "Fe"
+    ],
+    "answer": 0,
+    "explanation": "Au is derived from the Latin word \u201CAurum,\u201D meaning gold."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. Which vitamin is primarily obtained from sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": 2,
+    "explanation": "Vitamin D is synthesized by the skin when exposed to sunlight."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. The largest organ in the human body is:",
+    "options": [
+      "Liver",
+      "Skin",
+      "Lungs",
+      "Heart"
+    ],
+    "answer": 1,
+    "explanation": "The skin is the body\u2019s largest organ and provides protection and regulation."
+  }
+]

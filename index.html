@@ -8,14 +8,120 @@
       const set = document.getElementById("questionSet").value;
       if (set) window.location.href = `quiz.html?set=${set}`;
     }
+    function back() {
+      window.location.href = "index.html";
+    }
+    function loadClass6Data() {
+      document.getElementById("btnClass6").style.display = "none";
+      document.getElementById("btnClass9").style.display = "none";
+      document.getElementById("btnBack").style.display = "inline-block";
+      const select = document.getElementById("questionSet");
+      select.style.display = "block";
+      select.innerHTML = `
+        <option value="">-- Select Set --</option>
+        <optgroup label="Difficulty : Easy">
+          <option value="Class6_Set1">Set 1</option>
+          <option value="Class6_Set2">Set 2</option>
+          <option value="Class6_Set3">Set 3</option>
+        </optgroup>
+        <optgroup label="Difficulty : Meduim">
+          <option value="Class6_Set4">Set 4</option>
+          <option value="Class6_Set5">Set 5</option>
+          <option value="Class6_Set6">Set 6</option>
+          <option value="Class6_Set7">Set 7</option>
+          <option value="Class6_Set8">Set 8</option>
+          <option value="Class6_Set9">Set 9</option>   
+        </optgroup>
+        <optgroup label="Difficulty : Hard">
+          <option value="Class6_Set10">Set 10</option>
+          <option value="Class6_Set11">Set 11</option>
+          <option value="Class6_Set12">Set 12</option> 
+        </optgroup>
+      `;
+      document.querySelector("#btnStartQuiz").style.display = "inline-block";
+    }
+    function loadClass9Data() {
+       document.getElementById("btnClass6").style.display = "none";
+      document.getElementById("btnClass9").style.display = "none";
+      document.getElementById("btnBack").style.display = "inline-block";
+      const select = document.getElementById("questionSet");
+      select.style.display = "block";
+      select.innerHTML = `
+        <option value="">-- Select Set --</option>
+        <optgroup label="Difficulty : Easy">
+          <option value="Class9_Set1">Set 1</option>
+          <option value="Class9_Set2">Set 2</option>
+          <option value="Class9_Set3">Set 3</option>
+        </optgroup>
+        <optgroup label="Difficulty : Meduim">
+          <option value="Class9_Set4">Set 4</option>
+          <option value="Class9_Set5">Set 5</option>
+          <option value="Class9_Set6">Set 6</option>
+          <option value="Class9_Set7">Set 7</option>
+          <option value="Class9_Set8">Set 8</option>
+          <option value="Class9_Set9">Set 9</option>   
+        </optgroup>
+        <optgroup label="Difficulty : Hard">
+          <option value="Class9_Set10">Set 10</option>
+          <option value="Class9_Set11">Set 11</option>
+          <option value="Class9_Set12">Set 12</option> 
+        </optgroup>
+      `;
+      document.querySelector("#btnStartQuiz").style.display = "inline-block";
+    }
   </script>
+  <style>
+    .btnClass {
+      font-size: 1.5rem;
+      padding: 1rem 2.5rem;
+      font-weight: bold;
+      border: none;
+      border-radius: 2rem;
+      background: linear-gradient(90deg, #ff7e5f, #feb47b);
+      color: white;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      transition: transform 0.2s;
+      cursor: pointer; 
+    }
+    .btnClass:active {
+      transform: scale(0.97);
+    }
+     #questionSet {
+    font-size: 1.3rem;
+    padding: 1rem 2.5rem;
+    border-radius: 2rem;
+    border: none;
+    background: linear-gradient(90deg, #43cea2, #185a9d);
+    color: rgb(23 2 105);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.10);
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    width: 280px;
+  }
+    @media (max-width: 600px) {
+      .btnClass {
+        width: 90vw;
+        font-size: 2rem;
+        padding: 1.2rem 0;
+      }
+      #questionSet {
+      width: 90vw;
+      font-size: 1.7rem;
+      padding: 1.2rem 0;
+      }
+    }
+  </style>
 </head>
 <body class="p-8 text-center bg-gray-100">
   <h1 class="text-3xl font-bold mb-4">Welcome to the Quiz</h1>
-  <select id="questionSet" class="p-2 border rounded">
+  <input type="button" id="btnClass6" value="Class 6" class="btnClass" onclick="loadClass6Data()" />
+  <input type="button" id="btnClass9" value="Class 9" class="rounded btnClass" onclick="loadClass9Data()" />
+  <select id="questionSet" style="display: none;" class="p-2 border rounded">
     <option value="">-- Select Subject --</option>
     <option value="science">Science</option>
   </select>
-  <button onclick="startQuiz()" class="ml-4 px-4 py-2 bg-blue-500 text-white rounded">Start</button>
+  <input type="button" id="btnStartQuiz" onclick="startQuiz()" style="display: none;" class="btnClass" value="Start" />
+  <input type="button" id="btnBack" onclick="back()" style="display: none;" class="btnClass" value="Back" />
 </body>
 </html>

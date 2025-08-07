@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of these is a non-living thing?",
+    "options": [
+      "Tree",
+      "Dog",
+      "Stone",
+      "Fish"
+    ],
+    "answer": 2,
+    "explanation": "Stones do not have life processes like growth or reproduction, so they are considered non-living."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of a plant is responsible for producing seeds?",
+    "options": [
+      "Leaf",
+      "Stem",
+      "Root",
+      "Flower"
+    ],
+    "answer": 3,
+    "explanation": "Flowers are the reproductive part of plants where seeds are produced after pollination."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "In which season do most plants bear fruits and flowers?",
+    "options": [
+      "Summer",
+      "Winter",
+      "Spring",
+      "Autumn"
+    ],
+    "answer": 2,
+    "explanation": "Spring is known for its favorable conditions, allowing plants to flower and bear fruits."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What does a seed need to grow?",
+    "options": [
+      "Air, water, and light",
+      "Soil, food, and fertilizer",
+      "Water, carbon dioxide, and food",
+      "Heat, ice, and wind"
+    ],
+    "answer": 0,
+    "explanation": "Seeds require air, water, and light to germinate and grow into plants."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of the following is a type of sedimentary rock?",
+    "options": [
+      "Granite",
+      "Basalt",
+      "Sandstone",
+      "Marble"
+    ],
+    "answer": 2,
+    "explanation": "Sandstone is formed from compressed layers of sand and is classified as a sedimentary rock."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The organ that pumps blood throughout the human body is the:",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Brain",
+      "Stomach"
+    ],
+    "answer": 1,
+    "explanation": "The heart is responsible for pumping blood through the circulatory system."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of these gases is commonly used in fire extinguishers?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide is used in fire extinguishers because it displaces oxygen, which helps to stop combustion."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The part of the plant that anchors it in the soil is called the:",
+    "options": [
+      "Leaf",
+      "Stem",
+      "Root",
+      "Flower"
+    ],
+    "answer": 2,
+    "explanation": "Roots provide support and absorb water and nutrients from the soil."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The natural satellite of the Earth is:",
+    "options": [
+      "Mars",
+      "Venus",
+      "Moon",
+      "Sun"
+    ],
+    "answer": 2,
+    "explanation": "The Moon is Earth\u2019s only natural satellite and orbits around it."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of the following materials is commonly used in making glass?",
+    "options": [
+      "Sand",
+      "Wood",
+      "Clay",
+      "Metal"
+    ],
+    "answer": 0,
+    "explanation": "Sand is the primary raw material used in the production of glass."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Water pollution is mainly caused by:",
+    "options": [
+      "Green plants",
+      "Waste materials",
+      "Animals",
+      "Rocks"
+    ],
+    "answer": 1,
+    "explanation": "Waste materials from industries and households contaminate water sources, causing pollution."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The small pores on the surface of leaves that allow gas exchange are called:",
+    "options": [
+      "Chloroplasts",
+      "Stomata",
+      "Nerves",
+      "Phloem"
+    ],
+    "answer": 1,
+    "explanation": "Stomata are tiny openings on leaves that facilitate gas exchange."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which type of tissue in plants conducts water and nutrients from roots to leaves?",
+    "options": [
+      "Xylem",
+      "Phloem",
+      "Cortex",
+      "Cambium"
+    ],
+    "answer": 0,
+    "explanation": "Xylem tissue transports water and dissolved minerals from roots to other parts of the plant."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The process by which plants release water vapor into the atmosphere is called:",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Transpiration",
+      "Precipitation"
+    ],
+    "answer": 2,
+    "explanation": "Transpiration is the process where plants lose water vapor through their leaves."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet has the longest day (rotation period) among all planets in our solar system?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": 2,
+    "explanation": "Venus has the longest day, with one rotation taking approximately 243 Earth days."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The basic building block of proteins is the:",
+    "options": [
+      "Glucose",
+      "Amino acid",
+      "Fatty acid",
+      "Nucleotide"
+    ],
+    "answer": 1,
+    "explanation": "Amino acids link together to form proteins, essential for cell function."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is found in the greatest quantity in Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up around 78% of the Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In an electric circuit, which device allows the flow of electricity?",
+    "options": [
+      "Battery",
+      "Switch",
+      "Bulb",
+      "Fuse"
+    ],
+    "answer": 1,
+    "explanation": "A switch controls the flow of electricity in a circuit, allowing it to be turned on or off."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the brain is responsible for coordination and balance?",
+    "options": [
+      "Cerebrum",
+      "Medulla",
+      "Cerebellum",
+      "Hypothalamus"
+    ],
+    "answer": 2,
+    "explanation": "The cerebellum helps coordinate muscle movements and maintain balance."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main reason for the occurrence of seasons on Earth?",
+    "options": [
+      "Earth\u2019s rotation on its axis",
+      "Earth\u2019s tilt on its axis",
+      "Earth\u2019s distance from the Sun",
+      "The Moon\u2019s gravity"
+    ],
+    "answer": 1,
+    "explanation": "Earth\u2019s axial tilt leads to varying sun angles, causing seasonal changes."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which scientist is known as the \u201CFather of Chemistry\u201D?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Antoine Lavoisier",
+      "Galileo Galilei"
+    ],
+    "answer": 2,
+    "explanation": "Lavoisier is known as the \u201CFather of Chemistry\u201D for his work in defining elements and chemical reactions."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the unit of measurement for sound intensity?",
+    "options": [
+      "Ampere",
+      "Joule",
+      "Newton",
+      "Decibel"
+    ],
+    "answer": 3,
+    "explanation": "Sound intensity is measured in decibels, reflecting the sound\u2019s volume or loudness."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet in the solar system is famous for its prominent ring system?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Neptune",
+      "Saturn"
+    ],
+    "answer": 3,
+    "explanation": "Saturn is known for its extensive ring system, composed of ice particles and rock."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The chemical symbol \u2018Fe\u2019 represents which element?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Silver",
+      "Lead"
+    ],
+    "answer": 1,
+    "explanation": "The symbol \u2018Fe\u2019 stands for iron, derived from its Latin name \u201Cferrum.\u201D"
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "answer": 2,
+    "explanation": "Diamond is the hardest natural material, due to its strong carbon bond structure."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which vitamin is essential for the clotting of blood?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "answer": 3,
+    "explanation": "Vitamin K plays a crucial role in blood clotting and wound healing."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The device used to measure atmospheric pressure is called:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Anemometer",
+      "Hygrometer"
+    ],
+    "answer": 1,
+    "explanation": "A barometer measures atmospheric pressure, important for weather forecasting."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "options": [
+      "100\u00B0F",
+      "150\u00B0F",
+      "212\u00B0F",
+      "250\u00B0F"
+    ],
+    "answer": 2,
+    "explanation": "Water boils at 212\u00B0F (100\u00B0C) under standard atmospheric pressure."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Who discovered the law of gravitation?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "answer": 1,
+    "explanation": "Newton formulated the law of universal gravitation, explaining how objects attract each other."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In what form do bees communicate with each other?",
+    "options": [
+      "Sound waves",
+      "Vibrations",
+      "Light signals",
+      "Dances"
+    ],
+    "answer": 3,
+    "explanation": "Bees perform a \u201Cwaggle dance\u201D to communicate the location of food to other bees."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which scientist formulated the Theory of Relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Michael Faraday"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein developed the Theory of Relativity, which includes the famous equation E=mc2E=mc^2E=mc2."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the primary source of energy for Earth\u2019s climate system?",
+    "options": [
+      "Wind",
+      "Water",
+      "Sun",
+      "Volcanoes"
+    ],
+    "answer": 2,
+    "explanation": "The Sun provides the energy that drives Earth\u2019s weather, climate, and supports life through photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following has the highest pH value?",
+    "options": [
+      "Vinegar",
+      "Lemon juice",
+      "Baking soda",
+      "Soap"
+    ],
+    "answer": 3,
+    "explanation": "Soap is basic and has a high pH level compared to acidic substances like vinegar and lemon juice."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is used in the process of photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "answer": 2,
+    "explanation": "Plants take in carbon dioxide from the air and use it to produce glucose and oxygen during photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following has the highest boiling point?",
+    "options": [
+      "Water",
+      "Alcohol",
+      "Mercury",
+      "Ethanol"
+    ],
+    "answer": 2,
+    "explanation": "Mercury has a high boiling point compared to common liquids like water, alcohol, and ethanol."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which vitamin is produced by the body when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "The skin synthesizes Vitamin D when exposed to sunlight, which is essential for bone health."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the process of converting water vapor into liquid water called?",
+    "options": [
+      "Evaporation",
+      "Transpiration",
+      "Condensation",
+      "Sublimation"
+    ],
+    "answer": 2,
+    "explanation": "Condensation is the process in which water vapor cools and changes into liquid, forming clouds and dew."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which metal is most commonly used in electrical wiring?",
+    "options": [
+      "Silver",
+      "Iron",
+      "Copper",
+      "Aluminum"
+    ],
+    "answer": 2,
+    "explanation": "Copper is widely used in electrical wiring due to its excellent conductivity and flexibility."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the process by which plants lose water through small openings in their leaves?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Evaporation"
+    ],
+    "answer": 2,
+    "explanation": "Transpiration is the loss of water vapor through stomata in plant leaves, aiding in nutrient transport."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the primary gas found in the atmosphere of Mars?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Methane",
+      "Carbon Dioxide"
+    ],
+    "answer": 3,
+    "explanation": "Mars\u2019 atmosphere is composed mostly of carbon dioxide, unlike Earth\u2019s nitrogen-rich atmosphere."
+  }
+]

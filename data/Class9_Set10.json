@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "1. Which process allows water to move from the soil into the roots of a plant?",
+    "options": [
+      "Transpiration",
+      "Capillary action",
+      "Diffusion",
+      "Osmosis"
+    ],
+    "answer": 3,
+    "explanation": "Osmosis is the process through which water moves from a region of lower solute concentration (soil) to a region of higher solute concentration (roots) through a semi-permeable membrane."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "2. Which organ in the human body is primarily responsible for detoxifying chemicals and metabolizing drugs?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidneys",
+      "Stomach"
+    ],
+    "answer": 1,
+    "explanation": "The liver detoxifies harmful substances and metabolizes drugs, preparing them for excretion."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "3. Which of these organisms can reproduce both sexually and asexually?",
+    "options": [
+      "Amoeba",
+      "Hydra",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 1,
+    "explanation": "Hydra can reproduce asexually by budding and sexually during certain conditions."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "4. What kind of teeth are primarily used for cutting food?",
+    "options": [
+      "Molars",
+      "Canines",
+      "Premolars",
+      "Incisors"
+    ],
+    "answer": 3,
+    "explanation": "Incisors are the sharp-edged teeth at the front of the mouth used for cutting food."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "5. Which of the following is a non-renewable energy source?",
+    "options": [
+      "Solar",
+      "Wind",
+      "Natural Gas",
+      "Geothermal"
+    ],
+    "answer": 2,
+    "explanation": "Natural gas is a fossil fuel, which is a non-renewable energy source."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "6. The presence of which pigment makes plants appear green?",
+    "options": [
+      "Xanthophyll",
+      "Chlorophyll",
+      "Anthocyanin",
+      "Carotene"
+    ],
+    "answer": 1,
+    "explanation": "Chlorophyll absorbs light, mostly blue and red wavelengths, making plants appear green."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "7. Which gland in the human body is known as the \u201Cmaster gland\u201D?",
+    "options": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pancreas"
+    ],
+    "answer": 1,
+    "explanation": "The pituitary gland controls the functions of other endocrine glands and regulates various body functions."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "8. Which microorganism is responsible for nitrogen fixation in the roots of leguminous plants?",
+    "options": [
+      "Algae",
+      "Fungi",
+      "Rhizobium",
+      "Virus"
+    ],
+    "answer": 2,
+    "explanation": "Rhizobium bacteria form symbiotic relationships with leguminous plants, helping to fix atmospheric nitrogen into a form plants can use."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "9. In which part of the human digestive system does most of the digestion and absorption of nutrients occur?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "answer": 1,
+    "explanation": "The small intestine is where most digestion and nutrient absorption occur, thanks to enzymes and bile."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "10. Which property of metals allows them to be drawn into wires?",
+    "options": [
+      "Ductility",
+      "Malleability",
+      "Hardness",
+      "Brittleness"
+    ],
+    "answer": 0,
+    "explanation": "Ductility is the property that allows metals to be drawn into wires without breaking."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "11. Which is the hardest naturally occurring substance?",
+    "options": [
+      "Quartz",
+      "Diamond",
+      "Iron",
+      "Corundum"
+    ],
+    "answer": 1,
+    "explanation": "Diamond is the hardest natural substance, ranking at the top of the Mohs hardness scale."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "12. Which acid is found in the human stomach?",
+    "options": [
+      "Acetic acid",
+      "Lactic acid",
+      "Hydrochloric acid",
+      "Sulfuric acid"
+    ],
+    "answer": 2,
+    "explanation": "Hydrochloric acid helps break down food and kill bacteria in the stomach."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "13. The atomic number represents the number of:",
+    "options": [
+      "Neutrons",
+      "Protons",
+      "Electrons plus neutrons",
+      "Electrons plus protons"
+    ],
+    "answer": 1,
+    "explanation": "The atomic number is the number of protons in an atom\u2019s nucleus, which determines the element\u2019s identity."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "14. The speed of light in vacuum is approximately:",
+    "options": [
+      "3 \u00D7 10\u2076 m/s",
+      "3 \u00D7 10\u2077 m/s",
+      "3 \u00D7 10\u2078 m/s",
+      "3 \u00D7 10\u2079 m/s"
+    ],
+    "answer": 2,
+    "explanation": "The speed of light in vacuum is approximately 3 \u00D7 10\u2078 meters per second."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "15. Which law of motion explains why passengers move forward when a car suddenly stops?",
+    "options": [
+      "Newton\u2019s First Law",
+      "Newton\u2019s Second Law",
+      "Newton\u2019s Third Law",
+      "Law of Gravitation"
+    ],
+    "answer": 0,
+    "explanation": "Newton\u2019s First Law, or the law of inertia, states that an object in motion stays in motion unless acted on by an external force."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "16. Which one of the following elements is the most electronegative?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine",
+      "Chlorine"
+    ],
+    "answer": 2,
+    "explanation": "Fluorine has the highest electronegativity of all elements, meaning it strongly attracts electrons."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "17. In what form do plants primarily absorb nitrogen?",
+    "options": [
+      "Nitrogen gas",
+      "Nitrate ions",
+      "Nitrite ions",
+      "Ammonium ions"
+    ],
+    "answer": 1,
+    "explanation": "Plants absorb nitrogen mainly in the form of nitrate ions (NO\u2083\u207B) from the soil."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "18. What is the main function of red blood cells?",
+    "options": [
+      "To fight infections",
+      "To carry oxygen",
+      "To clot blood",
+      "To produce antibodies"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells contain hemoglobin, which binds to oxygen for transport to body tissues."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "19. Which of these elements has a full outer electron shell naturally?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Carbon"
+    ],
+    "answer": 0,
+    "explanation": "Helium has a complete outer shell with two electrons, making it stable and non-reactive."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "20. The refractive index is defined as the ratio of:",
+    "options": [
+      "Speed of light in vacuum to speed of light in medium",
+      "Speed of light in medium to speed of light in vacuum",
+      "Speed of sound in medium to speed of sound in vacuum",
+      "Speed of sound in vacuum to speed of sound in medium"
+    ],
+    "answer": 0,
+    "explanation": "Refractive index is a measure of how much light bends when it enters a medium."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "21. Which organ in humans is responsible for regulating body temperature?",
+    "options": [
+      "Heart",
+      "Hypothalamus",
+      "Liver",
+      "Lungs"
+    ],
+    "answer": 1,
+    "explanation": "The hypothalamus in the brain monitors and regulates body temperature."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "22. Which property of water allows it to dissolve many substances?",
+    "options": [
+      "Cohesion",
+      "Polarity",
+      "Density",
+      "Specific heat"
+    ],
+    "answer": 1,
+    "explanation": "Water is polar, meaning it has a positive and negative side, which helps it dissolve many ionic and polar substances."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "23. Which of the following organisms is classified as a prokaryote?",
+    "options": [
+      "Fungi",
+      "Bacteria",
+      "Protozoa",
+      "Algae"
+    ],
+    "answer": 1,
+    "explanation": "Prokaryotes are organisms without a true nucleus; bacteria are the primary examples of prokaryotic cells."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "24. What is the main component of biogas?",
+    "options": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": 1,
+    "explanation": "Methane is the primary component of biogas, produced by the anaerobic decomposition of organic matter."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "25. Which of the following is responsible for regulating blood sugar levels in the human body?",
+    "options": [
+      "Adrenaline",
+      "Thyroxine",
+      "Insulin",
+      "Cortisol"
+    ],
+    "answer": 2,
+    "explanation": "Insulin, produced by the pancreas, helps control blood sugar levels by allowing glucose to enter cells."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "26. During photosynthesis, which molecule is broken down to release oxygen?",
+    "options": [
+      "Glucose",
+      "Water",
+      "Carbon dioxide",
+      "Chlorophyll"
+    ],
+    "answer": 1,
+    "explanation": "Water is split during the light-dependent reactions of photosynthesis, releasing oxygen as a by-product."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "27. Which type of bond is formed by the sharing of electrons between atoms?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "answer": 1,
+    "explanation": "A covalent bond is formed when atoms share electrons, typically between non-metals."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "28. What is the pH of a neutral solution at 25\u00B0C?",
+    "options": [
+      "1",
+      "5",
+      "7",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "A neutral solution has a pH of 7 at 25\u00B0C, indicating a balance of hydrogen ions (H\u207A) and hydroxide ions (OH\u207B)."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "29. Which part of the brain is responsible for coordinating voluntary muscle movements?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": 1,
+    "explanation": "The cerebellum is involved in coordinating voluntary movements and maintaining balance and posture."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "30. The acceleration of an object moving in a circle at constant speed is directed:",
+    "options": [
+      "Tangential to the circle",
+      "Away from the center",
+      "Toward the center",
+      "Along the direction of motion"
+    ],
+    "answer": 2,
+    "explanation": "This is called centripetal acceleration, directed toward the center of the circular path."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "31. Which property of sound determines its pitch?",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Wavelength",
+      "Speed"
+    ],
+    "answer": 1,
+    "explanation": "The pitch of a sound is directly related to its frequency; higher frequency corresponds to a higher pitch."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "32. The SI unit of electric charge is:",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Watt"
+    ],
+    "answer": 1,
+    "explanation": "Coulomb is the unit of electric charge, representing the quantity of electricity transported in one second by a current of one ampere."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "33. Which gas is commonly used in fire extinguishers?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide displaces oxygen and is used in fire extinguishers to suffocate and stop the combustion process."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "34. Which hormone regulates the sleep-wake cycle in humans?",
+    "options": [
+      "Melatonin",
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "answer": 0,
+    "explanation": "Melatonin, produced by the pineal gland, helps regulate the sleep-wake cycle in response to light and darkness."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "35. Which element has the highest atomic number among the following?",
+    "options": [
+      "Neon",
+      "Oxygen",
+      "Fluorine",
+      "Argon"
+    ],
+    "answer": 3,
+    "explanation": "Among the listed elements, argon has the highest atomic number, 18, in the periodic table."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "36. The ability of an atom to attract shared electrons in a chemical bond is called:",
+    "options": [
+      "Ionization energy",
+      "Electronegativity",
+      "Electron affinity",
+      "Atomic radius"
+    ],
+    "answer": 1,
+    "explanation": "Electronegativity is a measure of an atom\u2019s tendency to attract and hold onto electrons in a chemical bond."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. Who proposed the theory of evolution by natural selection?",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Albert Einstein"
+    ],
+    "answer": 2,
+    "explanation": "Charles Darwin developed the theory of evolution by natural selection in his book On the Origin of Species."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. What type of galaxy is the Milky Way?",
+    "options": [
+      "Elliptical",
+      "Spiral",
+      "Irregular",
+      "Barred spiral"
+    ],
+    "answer": 3,
+    "explanation": "The Milky Way is classified as a barred spiral galaxy, with a central bar-shaped structure of stars."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. Who is known as the \u201CFather of Microbiology\u201D?",
+    "options": [
+      "Louis Pasteur",
+      "Antonie van Leeuwenhoek",
+      "Alexander Fleming",
+      "Robert Hooke"
+    ],
+    "answer": 1,
+    "explanation": "Antonie van Leeuwenhoek is known as the \u201CFather of Microbiology\u201D for his pioneering work in observing microorganisms with a microscope."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. Which scientist is famous for formulating the laws of motion and universal gravitation?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": 1,
+    "explanation": "Isaac Newton formulated the three laws of motion and the law of universal gravitation, which form the foundation of classical mechanics."
+  }
+]

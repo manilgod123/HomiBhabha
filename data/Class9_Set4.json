@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "Which of the following processes is a type of chemical change?",
+    "options": [
+      "Melting of ice",
+      "Dissolving salt in water",
+      "Rusting of iron",
+      "Boiling water"
+    ],
+    "answer": 2,
+    "explanation": "Rusting of iron is a chemical change as it forms a new substance, iron oxide."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "Which gas is most commonly found in Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Nitrogen makes up around 78% of Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "Which organ in the human body pumps blood to all parts of the body?",
+    "options": [
+      "Brain",
+      "Heart",
+      "Lungs",
+      "Kidney"
+    ],
+    "answer": 1,
+    "explanation": "The heart pumps blood, supplying oxygen and nutrients throughout the body."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "Which of the following can be classified as a decomposer?",
+    "options": [
+      "Grasshopper",
+      "Fish",
+      "Fungi",
+      "Sparrow"
+    ],
+    "answer": 2,
+    "explanation": "Fungi are decomposers as they break down dead organic matter."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which part of the plant is mainly responsible for photosynthesis?",
+    "options": [
+      "Roots",
+      "Stems",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 2,
+    "explanation": "Leaves contain chlorophyll, which captures sunlight to perform photosynthesis."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "What is the chemical formula of water?",
+    "options": [
+      "H\u2082",
+      "O\u2082",
+      "H\u2082O",
+      "CO\u2082"
+    ],
+    "answer": 2,
+    "explanation": "Water is chemically represented by H\u2082O, indicating two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which gas is produced when hydrochloric acid reacts with zinc?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "explanation": "When hydrochloric acid reacts with zinc, hydrogen gas is released."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which of the following is a source of renewable energy?",
+    "options": [
+      "Coal",
+      "Natural gas",
+      "Wind",
+      "Diesel"
+    ],
+    "answer": 2,
+    "explanation": "Wind energy is renewable as it is naturally replenished."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "What type of mirror is used in vehicles as rearview mirrors?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "Spherical mirror"
+    ],
+    "answer": 1,
+    "explanation": "Convex mirrors provide a wider field of view, helpful for rear visibility in vehicles."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which vitamin is produced in the skin in response to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B"
+    ],
+    "answer": 2,
+    "explanation": "Sunlight triggers the production of Vitamin D in the skin."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "What is the primary function of red blood cells?",
+    "options": [
+      "Fight infections",
+      "Transport oxygen",
+      "Clot blood",
+      "Produce enzymes"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells contain hemoglobin, which binds and transports oxygen."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which process in plants releases oxygen as a byproduct?",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Germination"
+    ],
+    "answer": 2,
+    "explanation": "Photosynthesis in plants produces oxygen as a byproduct."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which law of motion states that \u201Cfor every action, there is an equal and opposite reaction\u201D?",
+    "options": [
+      "Newton\u2019s First Law",
+      "Newton\u2019s Third Law",
+      "Newton\u2019s Second Law",
+      "Law of conservation of energy"
+    ],
+    "answer": 1,
+    "explanation": "Newton\u2019s Third Law states that every action has an equal and opposite reaction."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which cell organelle is known as the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Lysosome"
+    ],
+    "answer": 2,
+    "explanation": "Mitochondria generate energy (ATP) for cellular functions."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "The atomic number of an element represents the number of:",
+    "options": [
+      "Protons only",
+      "Electrons only",
+      "Protons and electrons",
+      "Neutrons only"
+    ],
+    "answer": 2,
+    "explanation": "The atomic number equals the number of protons, and in a neutral atom, also the number of electrons."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the formula of methane?",
+    "options": [
+      "C\u2082H\u2086",
+      "CH\u2084",
+      "CO\u2082",
+      "H\u2082O"
+    ],
+    "answer": 1,
+    "explanation": "Methane is CH\u2084, containing one carbon atom bonded to four hydrogen atoms."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which part of the human brain controls voluntary actions?",
+    "options": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": 1,
+    "explanation": "The cerebrum controls voluntary actions, such as movement and speech."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the unit of electric current?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ampere",
+      "Ohm"
+    ],
+    "answer": 2,
+    "explanation": "Current is measured in amperes, representing the flow of electric charge per unit time."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which planet is known as the \u201CBlue Planet\u201D?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "answer": 2,
+    "explanation": "Earth is called the Blue Planet due to its large water bodies, making it appear blue from space."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the function of stomata in plants?",
+    "options": [
+      "Transport water",
+      "Exchange gases",
+      "Absorb sunlight",
+      "Store food"
+    ],
+    "answer": 1,
+    "explanation": "Stomata are small openings on leaves that facilitate gas exchange."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which substance has a pH level below 7?",
+    "options": [
+      "Water",
+      "Vinegar",
+      "Soap",
+      "Baking soda"
+    ],
+    "answer": 1,
+    "explanation": "Vinegar is acidic with a pH below 7."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which of the following has the highest frequency?",
+    "options": [
+      "Radio waves",
+      "Microwaves",
+      "Gamma rays",
+      "Infrared"
+    ],
+    "answer": 2,
+    "explanation": "Gamma rays have the highest frequency and the shortest wavelength in the electromagnetic spectrum."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "The unit of force is:",
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 2,
+    "explanation": "Force is measured in newtons, defined as the product of mass and acceleration."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which gas is essential for combustion?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen supports combustion and is essential for burning."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the main cause of tides on Earth?",
+    "options": [
+      "Earth\u2019s rotation",
+      "Sun\u2019s gravitational pull",
+      "Moon\u2019s gravitational pull",
+      "Wind"
+    ],
+    "answer": 2,
+    "explanation": "The gravitational pull of the moon causes the rise and fall of ocean tides."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which organ is primarily responsible for detoxification in the human body?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Kidneys"
+    ],
+    "answer": 1,
+    "explanation": "The liver detoxifies chemicals and metabolizes drugs."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which is the SI unit of work?",
+    "options": [
+      "Pascal",
+      "Joule",
+      "Watt",
+      "Newton"
+    ],
+    "answer": 1,
+    "explanation": "Work is measured in joules, which equals one newton meter."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which of the following has the largest atomic size?",
+    "options": [
+      "Fluorine",
+      "Oxygen",
+      "Potassium",
+      "Carbon"
+    ],
+    "answer": 2,
+    "explanation": "Potassium, being further down the periodic table, has a larger atomic radius."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the father of modern physics?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Niels Bohr"
+    ],
+    "answer": 0,
+    "explanation": "Galileo is often regarded as the father of modern physics for his contributions to motion and observational astronomy."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Mercury",
+      "Silver",
+      "Lead"
+    ],
+    "answer": 1,
+    "explanation": "Mercury is the only metal that remains liquid at room temperature."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which scientist developed the periodic table?",
+    "options": [
+      "Isaac Newton",
+      "Dmitri Mendeleev",
+      "Albert Einstein",
+      "Nikola Tesla"
+    ],
+    "answer": 1,
+    "explanation": "Dmitri Mendeleev created the first periodic table of elements."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which element is found in diamonds?",
+    "options": [
+      "Silicon",
+      "Oxygen",
+      "Carbon",
+      "Iron"
+    ],
+    "answer": 2,
+    "explanation": "Diamonds are composed purely of carbon atoms."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who proposed the theory of relativity?",
+    "options": [
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Niels Bohr",
+      "James Clerk Maxwell"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein developed the theory of relativity, which includes the famous equation E=mc\u00B2."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet has the shortest day, completing a rotation on its axis in about 10 hours?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Jupiter",
+      "Mars"
+    ],
+    "answer": 2,
+    "explanation": "Jupiter has the shortest day, completing one rotation in approximately 10 hours."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the main gas found in the air exhaled by humans?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Exhaled air has a higher concentration of carbon dioxide than inhaled air due to respiration."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is credited with the discovery of penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Robert Koch"
+    ],
+    "answer": 0,
+    "explanation": "Alexander Fleming discovered penicillin in 1928, revolutionizing the treatment of bacterial infections."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxynucleotide acid",
+      "Deoxyribose nucleic acid",
+      "Deoxyribonucleic acid",
+      "Deoxyribonucleotide acid"
+    ],
+    "answer": 2,
+    "explanation": "DNA stands for Deoxyribonucleic Acid, which contains genetic information in living organisms."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which gas is known as a noble gas?",
+    "options": [
+      "Oxygen",
+      "Argon",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Argon is one of the noble gases, known for its lack of chemical reactivity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which element has the highest melting point?",
+    "options": [
+      "Iron",
+      "Tungsten",
+      "Gold",
+      "Silver"
+    ],
+    "answer": 1,
+    "explanation": "Tungsten has the highest melting point of all elements, used in applications requiring extreme heat."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the main component of the sun?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 3,
+    "explanation": "The sun is primarily composed of hydrogen, which fuels the nuclear fusion process to emit energy."
+  }
+]

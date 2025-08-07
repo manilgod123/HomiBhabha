@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of the following is a living thing?",
+    "options": [
+      "Stone",
+      "Tree",
+      "Plastic",
+      "Paper"
+    ],
+    "answer": 1,
+    "explanation": "Trees are living things as they grow, reproduce, and respond to their environment."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What do animals use to breathe?",
+    "options": [
+      "Gills",
+      "Lungs",
+      "Skin",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Animals use different organs for breathing: fish use gills, mammals use lungs, and amphibians can breathe through their skin."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of a plant is responsible for making seeds?",
+    "options": [
+      "Leaf",
+      "Stem",
+      "Flower",
+      "Root"
+    ],
+    "answer": 2,
+    "explanation": "Flowers contain reproductive organs that produce seeds after pollination and fertilization."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of the following is a natural source of water?",
+    "options": [
+      "Well",
+      "River",
+      "Dam",
+      "Tap"
+    ],
+    "answer": 1,
+    "explanation": "Rivers are natural sources of water, whereas wells, dams, and taps are human-made."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which organ controls all the functions of the human body?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": 1,
+    "explanation": "The brain is the control center of the body and regulates all its activities."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of these is an example of a non-luminous object?",
+    "options": [
+      "Sun",
+      "Candle",
+      "Moon",
+      "Torch"
+    ],
+    "answer": 2,
+    "explanation": "Non-luminous objects like the Moon do not emit their own light but reflect light from other sources."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What are the three forms of water?",
+    "options": [
+      "Ice, Rain, Cloud",
+      "Water, Ice, Steam",
+      "Snow, Hail, Dew",
+      "Solid, Gas, Vapor"
+    ],
+    "answer": 1,
+    "explanation": "Water exists in three states: liquid (water), solid (ice), and gas (steam)."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of the following animals is cold-blooded?",
+    "options": [
+      "Dog",
+      "Lizard",
+      "Elephant",
+      "Monkey"
+    ],
+    "answer": 1,
+    "explanation": "Cold-blooded animals, like lizards, rely on their environment to regulate body temperature."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which part of the human body helps in digestion by producing bile?",
+    "options": [
+      "Stomach",
+      "Liver",
+      "Intestine",
+      "Pancreas"
+    ],
+    "answer": 1,
+    "explanation": "The liver produces bile, which helps in the digestion and absorption of fats."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What do you call the movement of water from the Earth to the atmosphere and back?",
+    "options": [
+      "Water Cycle",
+      "Carbon Cycle",
+      "Nitrogen Cycle",
+      "Oxygen Cycle"
+    ],
+    "answer": 0,
+    "explanation": "The water cycle involves the continuous movement of water through evaporation, condensation, and precipitation."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the primary purpose of roots in plants?",
+    "options": [
+      "To store food",
+      "To absorb water and nutrients",
+      "To produce seeds",
+      "To provide shade"
+    ],
+    "answer": 1,
+    "explanation": "Roots absorb water and nutrients from the soil to support the plant\u2019s growth."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which planet is the smallest in our solar system?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Venus",
+      "Pluto"
+    ],
+    "answer": 0,
+    "explanation": "Mercury is the smallest planet in the solar system."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the unit of force?",
+    "options": [
+      "Meter",
+      "Kilogram",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 2,
+    "explanation": "The SI unit of force is the newton, named after Sir Isaac Newton."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which organelle in a plant cell contains chlorophyll?",
+    "options": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole"
+    ],
+    "answer": 1,
+    "explanation": "Chloroplasts contain chlorophyll, which is essential for photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the phenomenon of bending of light called?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffusion",
+      "Absorption"
+    ],
+    "answer": 1,
+    "explanation": "Refraction is the bending of light as it passes from one medium to another."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is NOT a property of light?",
+    "options": [
+      "Light travels in a straight line",
+      "Light can bend around corners",
+      "Light can be reflected",
+      "Light can be refracted"
+    ],
+    "answer": 1,
+    "explanation": "Light travels in straight lines and can only appear to \u201Cbend\u201D due to reflection or refraction."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the speed of sound in air at room temperature?",
+    "options": [
+      "150 m/s",
+      "343 m/s",
+      "1000 m/s",
+      "3000 m/s"
+    ],
+    "answer": 1,
+    "explanation": "At room temperature (about 20\u00B0C), the speed of sound in air is approximately 343 m/s."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following substances is a good conductor of electricity?",
+    "options": [
+      "Plastic",
+      "Wood",
+      "Copper",
+      "Rubber"
+    ],
+    "answer": 2,
+    "explanation": "Copper is a good conductor of electricity due to its free-flowing electrons."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which phenomenon is responsible for the twinkling of stars?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Scattering"
+    ],
+    "answer": 1,
+    "explanation": "Twinkling occurs because of the refraction of starlight by the Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "CO\u2082",
+      "H\u2082O",
+      "NaCl",
+      "O\u2082"
+    ],
+    "answer": 1,
+    "explanation": "Water is composed of two hydrogen atoms and one oxygen atom, hence its formula H\u2082O."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is released during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "Plants release oxygen as a byproduct of photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the smallest particle of an element?",
+    "options": [
+      "Molecule",
+      "Atom",
+      "Ion",
+      "Proton"
+    ],
+    "answer": 1,
+    "explanation": "Atoms are the smallest particles of an element that retain its properties."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these is NOT a mixture?",
+    "options": [
+      "Air",
+      "Salt solution",
+      "Water",
+      "Soil"
+    ],
+    "answer": 2,
+    "explanation": "Pure water (H\u2082O) is a compound, not a mixture."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the process of converting a solid directly into gas called?",
+    "options": [
+      "Melting",
+      "Sublimation",
+      "Evaporation",
+      "Condensation"
+    ],
+    "answer": 1,
+    "explanation": "Sublimation is the process where a solid changes directly into gas without becoming liquid."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is NOT a type of carbohydrate?",
+    "options": [
+      "Glucose",
+      "Protein",
+      "Starch",
+      "Cellulose"
+    ],
+    "answer": 1,
+    "explanation": "Proteins are made of amino acids, not carbohydrates."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which organ in the human body is responsible for filtering blood?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Heart",
+      "Lungs"
+    ],
+    "answer": 1,
+    "explanation": "The kidneys filter waste products and excess substances from the blood."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which force pulls objects towards the center of the Earth?",
+    "options": [
+      "Friction",
+      "Magnetic Force",
+      "Gravitational Force",
+      "Nuclear Force"
+    ],
+    "answer": 2,
+    "explanation": "Gravity is the force that pulls objects towards the center of the Earth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What happens to the volume of water when it freezes?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains the same",
+      "It vanishes"
+    ],
+    "answer": 0,
+    "explanation": "Water expands when it freezes due to the unique arrangement of hydrogen bonds in ice."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the function of red blood cells in the human body?",
+    "options": [
+      "To fight infections",
+      "To transport oxygen",
+      "To help in clotting",
+      "To produce hormones"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells carry oxygen from the lungs to other parts of the body using hemoglobin."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which one of these is NOT an example of kinetic energy?",
+    "options": [
+      "A moving car",
+      "Water flowing in a river",
+      "A ball at the top of a hill",
+      "A spinning fan"
+    ],
+    "answer": 2,
+    "explanation": "A ball at the top of a hill possesses potential energy, not kinetic energy."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the common name of sodium bicarbonate?",
+    "options": [
+      "Table salt",
+      "Baking soda",
+      "Bleaching powder",
+      "Vinegar"
+    ],
+    "answer": 1,
+    "explanation": "Sodium bicarbonate is commonly known as baking soda and is used in cooking."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the human eye is responsible for focusing light?",
+    "options": [
+      "Retina",
+      "Cornea",
+      "Lens",
+      "Iris"
+    ],
+    "answer": 2,
+    "explanation": "The lens adjusts its shape to focus light onto the retina for clear vision."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the energy source for the water cycle?",
+    "options": [
+      "The Moon",
+      "The Sun",
+      "The Earth\u2019s Core",
+      "Stars"
+    ],
+    "answer": 1,
+    "explanation": "The Sun provides the heat energy required for evaporation in the water cycle."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is essential for respiration?",
+    "options": [
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Oxygen is essential for the process of respiration in most living organisms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of energy is stored in a stretched rubber band?",
+    "options": [
+      "Kinetic Energy",
+      "Potential Energy",
+      "Thermal Energy",
+      "Electrical Energy"
+    ],
+    "answer": 1,
+    "explanation": "A stretched rubber band stores potential energy, which is released when it is let go."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein is called the \u201CFather of Modern Physics\u201D for his contributions to the theory of relativity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the largest planet in the solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": 1,
+    "explanation": "Jupiter is the largest planet in the solar system, with a diameter of about 139,822 km."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury",
+      "Iron",
+      "Gold",
+      "Silver"
+    ],
+    "answer": 0,
+    "explanation": "Mercury is a metal that remains in liquid form at room temperature."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the main component of natural gas?",
+    "options": [
+      "Hydrogen",
+      "Methane",
+      "Oxygen",
+      "Carbon Dioxide"
+    ],
+    "answer": 1,
+    "explanation": "Natural gas primarily consists of methane, which is a hydrocarbon."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who invented the telescope?",
+    "options": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Hans Lippershey"
+    ],
+    "answer": 3,
+    "explanation": "Hans Lippershey is credited with inventing the telescope in the early 17th century."
+  }
+]

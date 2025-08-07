@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the process by which plants make their own food?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Germination"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis is the process by which plants use sunlight, carbon dioxide, and water to produce glucose and oxygen."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of these animals lays eggs?",
+    "options": [
+      "Dog",
+      "Frog",
+      "Rabbit",
+      "Whale"
+    ],
+    "answer": 1,
+    "explanation": "Frogs are amphibians that reproduce by laying eggs, usually in water."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of the plant is responsible for absorbing water and nutrients?",
+    "options": [
+      "Stem",
+      "Leaf",
+      "Root",
+      "Flower"
+    ],
+    "answer": 2,
+    "explanation": "Roots absorb water and nutrients from the soil and anchor the plant in the ground."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the primary source of energy for Earth?",
+    "options": [
+      "Moon",
+      "Sun",
+      "Stars",
+      "Volcanoes"
+    ],
+    "answer": 1,
+    "explanation": "The Sun is the primary source of energy for life on Earth, providing light and heat."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the function of stomata in plants?",
+    "options": [
+      "Transport water",
+      "Store food",
+      "Exchange gases",
+      "Absorb sunlight"
+    ],
+    "answer": 2,
+    "explanation": "Stomata are tiny openings on the surface of leaves that allow the exchange of oxygen and carbon dioxide."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which organ in the human body is responsible for pumping blood?",
+    "options": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "answer": 2,
+    "explanation": "The heart is a muscular organ that pumps blood throughout the body via the circulatory system."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1,
+    "explanation": "Mars is called the \u201CRed Planet\u201D due to its reddish appearance caused by iron oxide on its surface."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What are the three states of matter?",
+    "options": [
+      "Solid, Liquid, Gas",
+      "Metal, Non-metal, Gas",
+      "Water, Ice, Steam",
+      "Earth, Fire, Water"
+    ],
+    "answer": 0,
+    "explanation": "The three states of matter are solid, liquid, and gas, based on the arrangement of particles."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of these is a natural magnet?",
+    "options": [
+      "Iron",
+      "Lodestone",
+      "Steel",
+      "Copper"
+    ],
+    "answer": 1,
+    "explanation": "Lodestone is a naturally occurring magnetized mineral, primarily composed of magnetite."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the function of chlorophyll in plants?",
+    "options": [
+      "To absorb water",
+      "To absorb sunlight",
+      "To provide structure",
+      "To store energy"
+    ],
+    "answer": 1,
+    "explanation": "Chlorophyll is the green pigment in plants that absorbs sunlight for photosynthesis."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What do you call animals that eat only plants?",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Omnivores",
+      "Scavengers"
+    ],
+    "answer": 0,
+    "explanation": "Herbivores are animals that eat only plant-based food."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which gas do humans exhale during respiration?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "During respiration, humans exhale carbon dioxide as a byproduct of cellular activity."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the function of the xylem in plants?",
+    "options": [
+      "Transport food",
+      "Transport water",
+      "Transport nutrients",
+      "Transport gases"
+    ],
+    "answer": 1,
+    "explanation": "Xylem tissues in plants carry water and dissolved minerals from the roots to the rest of the plant."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the boiling point of water at sea level?",
+    "options": [
+      "50\u00B0C",
+      "100\u00B0C",
+      "150\u00B0C",
+      "200\u00B0C"
+    ],
+    "answer": 1,
+    "explanation": "At sea level, water boils at 100\u00B0C under normal atmospheric pressure."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the smallest unit of life?",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Tissue"
+    ],
+    "answer": 2,
+    "explanation": "The cell is the basic structural and functional unit of all living organisms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Altimeter"
+    ],
+    "answer": 1,
+    "explanation": "A barometer measures atmospheric pressure, essential for weather forecasting."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Watt"
+    ],
+    "answer": 0,
+    "explanation": "The SI unit of force is named after Sir Isaac Newton and is represented as N."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which mirror is used in a car\u2019s rearview mirror?",
+    "options": [
+      "Plane mirror",
+      "Concave mirror",
+      "Convex mirror",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "Convex mirrors provide a wider field of view, making them ideal for rearview mirrors."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the phenomenon of splitting light into its colors called?",
+    "options": [
+      "Refraction",
+      "Diffusion",
+      "Dispersion",
+      "Reflection"
+    ],
+    "answer": 2,
+    "explanation": "Dispersion occurs when light passes through a prism and splits into its constituent colors."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the gravitational acceleration on Earth\u2019s surface?",
+    "options": [
+      "9.8 m/s\u00B2",
+      "8.9 m/s\u00B2",
+      "10.8 m/s\u00B2",
+      "6.5 m/s\u00B2"
+    ],
+    "answer": 0,
+    "explanation": "The acceleration due to gravity near Earth\u2019s surface is approximately 9.8 m/s\u00B2."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these materials is a poor conductor of heat?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Wood",
+      "Iron"
+    ],
+    "answer": 2,
+    "explanation": "Wood is a poor conductor of heat and is often used as an insulator."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these substances is a metal?",
+    "options": [
+      "Sulfur",
+      "Iron",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answer": 1,
+    "explanation": "Iron is a metal with properties such as conductivity, ductility, and malleability."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "G",
+      "Go",
+      "Au",
+      "Ag"
+    ],
+    "answer": 2,
+    "explanation": "The chemical symbol for gold is Au, derived from its Latin name \u201CAurum.\u201D"
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas turns lime water milky?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": 1,
+    "explanation": "When carbon dioxide is passed through lime water, it forms calcium carbonate, which makes the solution appear milky."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which acid is found in lemon?",
+    "options": [
+      "Hydrochloric acid",
+      "Sulfuric acid",
+      "Citric acid",
+      "Acetic acid"
+    ],
+    "answer": 2,
+    "explanation": "Lemon contains citric acid, responsible for its sour taste."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the state of matter that has no definite shape but a definite volume?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": 1,
+    "explanation": "Liquids take the shape of their container but maintain a fixed volume."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the process of rusting?",
+    "options": [
+      "Oxidation",
+      "Reduction",
+      "Neutralization",
+      "Sublimation"
+    ],
+    "answer": 0,
+    "explanation": "Rusting is the oxidation of iron in the presence of water and oxygen, forming iron oxide."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which organ is responsible for pumping blood throughout the body?",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": 1,
+    "explanation": "The heart is a muscular organ that pumps oxygenated blood to the body and deoxygenated blood to the lungs."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the primary pigment in plants that captures sunlight?",
+    "options": [
+      "Hemoglobin",
+      "Chlorophyll",
+      "Melanin",
+      "Carotene"
+    ],
+    "answer": 1,
+    "explanation": "Chlorophyll in chloroplasts captures sunlight for photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the basic function of roots in plants?",
+    "options": [
+      "Absorb water and nutrients",
+      "Photosynthesis",
+      "Transport food",
+      "Produce seeds"
+    ],
+    "answer": 0,
+    "explanation": "Roots absorb water and minerals from the soil and anchor the plant."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the cell contains genetic material?",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Cell membrane",
+      "Mitochondria"
+    ],
+    "answer": 1,
+    "explanation": "The nucleus houses DNA, which contains genetic instructions for the organism."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main function of white blood cells?",
+    "options": [
+      "Transport oxygen",
+      "Fight infections",
+      "Clot blood",
+      "Digest food"
+    ],
+    "answer": 1,
+    "explanation": "White blood cells are part of the immune system and help fight infections."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the process by which plants make their food?",
+    "options": [
+      "Transpiration",
+      "Respiration",
+      "Photosynthesis",
+      "Germination"
+    ],
+    "answer": 2,
+    "explanation": "Photosynthesis is the process where plants convert sunlight into food using carbon dioxide and water."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which type of joint is present in the human knee?",
+    "options": [
+      "Ball and socket joint",
+      "Hinge joint",
+      "Pivot joint",
+      "Fixed joint"
+    ],
+    "answer": 1,
+    "explanation": "The hinge joint in the knee allows movement in one direction."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the term for animals that eat both plants and animals?",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Omnivores",
+      "Scavengers"
+    ],
+    "answer": 2,
+    "explanation": "Omnivores consume both plant and animal matter for energy."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Marie Curie",
+      "Thomas Edison"
+    ],
+    "answer": 0,
+    "explanation": "Alexander Fleming discovered penicillin, the first widely used antibiotic."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": 1,
+    "explanation": "Saturn has the most moons of any planet in the solar system."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "CO\u2082",
+      "H\u2082O",
+      "O\u2082",
+      "NH\u2083"
+    ],
+    "answer": 1,
+    "explanation": "Water is composed of two hydrogen atoms and one oxygen atom, represented as H\u2082O."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "answer": 2,
+    "explanation": "The skin is the largest organ, covering and protecting the entire body."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the nearest star to Earth?",
+    "options": [
+      "Sirius",
+      "Alpha Centauri",
+      "Proxima Centauri",
+      "The Sun"
+    ],
+    "answer": 3,
+    "explanation": "The Sun is the closest star to Earth and provides light and heat necessary for life."
+  }
+]

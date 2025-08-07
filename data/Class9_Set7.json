@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "1. Which organelle is known as the \u201Cpowerhouse of the cell\u201D?",
+    "options": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "answer": 2,
+    "explanation": "Mitochondria generate energy in the form of ATP, hence they are called the powerhouse of the cell."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "2. What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Pascal",
+      "Watt"
+    ],
+    "answer": 1,
+    "explanation": "The SI unit of force is Newton (N), named after Sir Isaac Newton."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "3. What is the chemical formula for common salt?",
+    "options": [
+      "HCl",
+      "NaCl",
+      "KCl",
+      "MgCl\u2082"
+    ],
+    "answer": 1,
+    "explanation": "Common salt is sodium chloride, represented by the chemical formula NaCl."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "4. Which part of a plant is responsible for photosynthesis?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 2,
+    "explanation": "Leaves contain chlorophyll in chloroplasts, which trap sunlight for photosynthesis."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "5. Which gas is evolved when a metal reacts with an acid?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": 2,
+    "explanation": "Metals react with acids to produce hydrogen gas and a salt."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "6. Which planet has the most moons in the solar system?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": 1,
+    "explanation": "Saturn has the highest number of moons in the solar system as of recent discoveries."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "7. What is the primary component of biogas?",
+    "options": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": 1,
+    "explanation": "Biogas consists mainly of methane, which is a renewable energy source."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "8. What is the main purpose of the ozone layer?",
+    "options": [
+      "To trap heat",
+      "To provide oxygen",
+      "To protect against UV radiation",
+      "To balance pressure"
+    ],
+    "answer": 2,
+    "explanation": "The ozone layer absorbs harmful ultraviolet rays from the Sun."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "9. Which vitamin is known as the \u201Csunshine vitamin\u201D?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "Vitamin D is synthesized in the skin when exposed to sunlight."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "10. What is the process of water moving through a plant called?",
+    "options": [
+      "Photosynthesis",
+      "Transpiration",
+      "Respiration",
+      "Germination"
+    ],
+    "answer": 1,
+    "explanation": "Transpiration is the movement of water from roots to leaves and its evaporation."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "11. What is the most abundant gas in Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "12. What is the pH value of pure water?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Pure water is neutral with a pH of 7."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "13. Which law states that energy can neither be created nor destroyed?",
+    "options": [
+      "Newton\u2019s First Law",
+      "Law of Conservation of Energy",
+      "Pascal\u2019s Law",
+      "Archimedes\u2019 Principle"
+    ],
+    "answer": 1,
+    "explanation": "This law asserts that the total energy of an isolated system remains constant."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "14. What is the chemical name for quicklime?",
+    "options": [
+      "Calcium carbonate",
+      "Calcium oxide",
+      "Calcium hydroxide",
+      "Magnesium oxide"
+    ],
+    "answer": 1,
+    "explanation": "Quicklime is chemically calcium oxide (CaO)."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "15. Which blood cells help in clotting?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": 2,
+    "explanation": "Platelets are responsible for blood clotting to prevent bleeding."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "16. Which phenomenon explains the splitting of white light into colors?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "answer": 3,
+    "explanation": "Dispersion occurs when white light passes through a prism, separating into colors."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "17. What is the SI unit of electric current?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Watt",
+      "Ohm"
+    ],
+    "answer": 0,
+    "explanation": "Electric current is measured in amperes (A)."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "18. Which is the simplest hydrocarbon?",
+    "options": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": 1,
+    "explanation": "Methane (CH\u2084) is the simplest hydrocarbon, consisting of one carbon atom and four hydrogen atoms."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "19. What is the cause of tides on Earth?",
+    "options": [
+      "Wind currents",
+      "Sun\u2019s heat",
+      "Moon\u2019s gravitational pull",
+      "Earth\u2019s rotation"
+    ],
+    "answer": 2,
+    "explanation": "Tides are primarily caused by the gravitational pull of the Moon on Earth\u2019s oceans."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "20. What is the primary pigment involved in photosynthesis?",
+    "options": [
+      "Hemoglobin",
+      "Chlorophyll",
+      "Melanin",
+      "Carotene"
+    ],
+    "answer": 1,
+    "explanation": "Chlorophyll absorbs sunlight and plays a key role in photosynthesis."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "21. Which organ in the human body is responsible for filtering blood?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Kidney",
+      "Lungs"
+    ],
+    "answer": 2,
+    "explanation": "Kidneys filter blood to remove waste and excess fluids, forming urine."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "22. What is the main reason for the blue color of the sky?",
+    "options": [
+      "Reflection of sunlight",
+      "Scattering of sunlight",
+      "Refraction of light",
+      "Absorption of blue light"
+    ],
+    "answer": 1,
+    "explanation": "The blue color is due to Rayleigh scattering, where shorter wavelengths scatter more."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "23. Which of the following is not a physical change?",
+    "options": [
+      "Melting of ice",
+      "Boiling of water",
+      "Rusting of iron",
+      "Dissolving salt in water"
+    ],
+    "answer": 2,
+    "explanation": "Rusting of iron is a chemical change as it forms a new substance (iron oxide)."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "24. What is the main function of stomata in plants?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Absorption of nutrients"
+    ],
+    "answer": 2,
+    "explanation": "Stomata regulate the loss of water through transpiration and allow gas exchange."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "25. What is the speed of light in a vacuum?",
+    "options": [
+      "3 \u00D7 10\u2075 m/s",
+      "3 \u00D7 10\u2076 m/s",
+      "3 \u00D7 10\u2077 m/s",
+      "3 \u00D7 10\u2078 m/s"
+    ],
+    "answer": 3,
+    "explanation": "The speed of light in a vacuum is approximately 3 \u00D7 10\u2078 meters per second."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "26. What is the chemical formula for limewater?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 1,
+    "explanation": "Limewater is a dilute solution of calcium hydroxide, Ca(OH)\u2082."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "27. Which blood group is considered a universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "answer": 3,
+    "explanation": "Blood group O can be donated to any other blood type, making it a universal donor."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "28. What does DNA stand for?",
+    "options": [
+      "Deoxynucleic Acid",
+      "Deoxyribonucleic Acid",
+      "Dextroribonucleic Acid",
+      "Dinucleic Acid"
+    ],
+    "answer": 1,
+    "explanation": "DNA, or Deoxyribonucleic Acid, carries genetic instructions in living organisms."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "29. What is the unit of work in the SI system?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 0,
+    "explanation": "Work is measured in Joules (J), which is the product of force and displacement."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "30. What is the term for the uppermost layer of Earth\u2019s atmosphere?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Exosphere"
+    ],
+    "answer": 3,
+    "explanation": "The exosphere is the outermost layer, where the atmosphere transitions into space."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "31. What is the term for organisms that can prepare their own food?",
+    "options": [
+      "Parasites",
+      "Heterotrophs",
+      "Saprophytes",
+      "Autotrophs"
+    ],
+    "answer": 3,
+    "explanation": "Autotrophs, like plants, synthesize their own food through photosynthesis."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "32. Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": 0,
+    "explanation": "A barometer measures atmospheric pressure and helps in weather forecasting."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "33. What is the function of white blood cells (WBCs)?",
+    "options": [
+      "Transport oxygen",
+      "Aid in clotting",
+      "Fight infections",
+      "Regulate body temperature"
+    ],
+    "answer": 2,
+    "explanation": "WBCs are part of the immune system and protect the body from infections."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "34. What is the product of anaerobic respiration in yeast?",
+    "options": [
+      "Water",
+      "Lactic acid",
+      "Ethanol",
+      "Glucose"
+    ],
+    "answer": 2,
+    "explanation": "Yeast produces ethanol and carbon dioxide during anaerobic respiration."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "35. What type of mirror is used in a car\u2019s side mirror?",
+    "options": [
+      "Plane mirror",
+      "Concave mirror",
+      "Convex mirror",
+      "Parabolic mirror"
+    ],
+    "answer": 2,
+    "explanation": "Convex mirrors provide a wider field of view, making them suitable for vehicles."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "36. Which gas is the most abundant in the Sun?",
+    "options": [
+      "Oxygen",
+      "Helium",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": 2,
+    "explanation": "The Sun primarily consists of hydrogen, which undergoes nuclear fusion to form helium."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. What is the unit of measurement for sound intensity?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Decibel",
+      "Pascal"
+    ],
+    "answer": 2,
+    "explanation": "Decibel (dB) is the unit for measuring the intensity of sound."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. What is the lightest element in the periodic table?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Carbon"
+    ],
+    "answer": 0,
+    "explanation": "Hydrogen, with an atomic number of 1, is the lightest element."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. Which gas is commonly used in balloons?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "Helium is lightweight, non-flammable, and safe for use in balloons."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. Who invented the periodic table?",
+    "options": [
+      "Isaac Newton",
+      "Dmitri Mendeleev",
+      "Marie Curie",
+      "Ernest Rutherford"
+    ],
+    "answer": 1,
+    "explanation": "Dmitri Mendeleev organized elements into the periodic table based on atomic weights and properties."
+  }
+]

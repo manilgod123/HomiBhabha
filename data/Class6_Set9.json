@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the process by which plants prepare their food?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Digestion",
+      "Germination"
+    ],
+    "answer": 0,
+    "explanation": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to produce food and release oxygen."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of a plant absorbs water from the soil?",
+    "options": [
+      "Leaf",
+      "Stem",
+      "Root",
+      "Flower"
+    ],
+    "answer": 2,
+    "explanation": "Roots absorb water and nutrients from the soil and transport them to other parts of the plant."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the shape of the Earth?",
+    "options": [
+      "Flat",
+      "Sphere",
+      "Cubical",
+      "Oval"
+    ],
+    "answer": 1,
+    "explanation": "The Earth is an oblate sphere, slightly flattened at the poles and bulging at the equator."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the source of energy for the water cycle?",
+    "options": [
+      "Moon",
+      "Sun",
+      "Stars",
+      "Earth\u2019s core"
+    ],
+    "answer": 1,
+    "explanation": "The Sun\u2019s heat causes water to evaporate, initiating the water cycle."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which organ helps fish breathe underwater?",
+    "options": [
+      "Lungs",
+      "Gills",
+      "Fins",
+      "Scales"
+    ],
+    "answer": 1,
+    "explanation": "Fish use gills to extract oxygen dissolved in water."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the primary function of the stem in plants?",
+    "options": [
+      "Absorb water",
+      "Transport nutrients",
+      "Photosynthesis",
+      "Protect seeds"
+    ],
+    "answer": 1,
+    "explanation": "The stem carries water and nutrients from the roots to the leaves and supports the plant structure."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of the following animals lays eggs?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Snake",
+      "Whale"
+    ],
+    "answer": 2,
+    "explanation": "Snakes are oviparous, meaning they lay eggs."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which gas is most abundant in the Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of the Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is a baby frog called?",
+    "options": [
+      "Tadpole",
+      "Larva",
+      "Pupa",
+      "Hatchling"
+    ],
+    "answer": 0,
+    "explanation": "A tadpole is the larval stage in the life cycle of a frog."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which part of the plant is responsible for reproduction?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Flowers",
+      "Stem"
+    ],
+    "answer": 2,
+    "explanation": "Flowers contain reproductive organs that help in pollination and seed formation."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What causes day and night?",
+    "options": [
+      "Earth\u2019s revolution",
+      "Earth\u2019s rotation",
+      "Sun\u2019s movement",
+      "Moon\u2019s orbit"
+    ],
+    "answer": 1,
+    "explanation": "The rotation of Earth on its axis causes day and night."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which gas do humans exhale during respiration?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Humans exhale carbon dioxide as a waste product of cellular respiration."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of lens is used in a magnifying glass?",
+    "options": [
+      "Concave",
+      "Convex",
+      "Cylindrical",
+      "Plane"
+    ],
+    "answer": 1,
+    "explanation": "Convex lenses converge light rays and magnify objects."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Pascal",
+      "Watt"
+    ],
+    "answer": 1,
+    "explanation": "Force is measured in newtons, named after Sir Isaac Newton."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is an example of chemical energy?",
+    "options": [
+      "A moving car",
+      "A battery",
+      "A stretched rubber band",
+      "A spinning wheel"
+    ],
+    "answer": 1,
+    "explanation": "A battery stores chemical energy that can be converted into electrical energy."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "3 \u00D7 10\u2076 m/s",
+      "3 \u00D7 10\u2077 m/s",
+      "3 \u00D7 10\u2078 m/s",
+      "3 \u00D7 10\u2079 m/s"
+    ],
+    "answer": 2,
+    "explanation": "The speed of light in a vacuum is approximately 3 \u00D7 10\u2078 meters per second."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is NOT a form of energy?",
+    "options": [
+      "Heat",
+      "Sound",
+      "Light",
+      "Friction"
+    ],
+    "answer": 3,
+    "explanation": "Friction is a force, not a form of energy."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the primary source of energy for Earth?",
+    "options": [
+      "Wind",
+      "Sun",
+      "Fossil fuels",
+      "Water"
+    ],
+    "answer": 1,
+    "explanation": "The Sun provides energy in the form of light and heat, driving most natural processes on Earth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following materials is a good conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Copper",
+      "Wood"
+    ],
+    "answer": 2,
+    "explanation": "Copper is a good conductor due to its free electrons, which allow electricity to flow easily."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is measured in hertz (Hz)?",
+    "options": [
+      "Speed",
+      "Frequency",
+      "Energy",
+      "Force"
+    ],
+    "answer": 1,
+    "explanation": "Hertz is the unit of frequency, representing cycles per second."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What happens when a white light passes through a prism?",
+    "options": [
+      "Reflection",
+      "Dispersion",
+      "Diffusion",
+      "Absorption"
+    ],
+    "answer": 1,
+    "explanation": "A prism splits white light into its constituent colors, a process called dispersion."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is a compound?",
+    "options": [
+      "Oxygen",
+      "Water",
+      "Hydrogen",
+      "Gold"
+    ],
+    "answer": 1,
+    "explanation": "Water (H\u2082O) is a compound made of hydrogen and oxygen atoms bonded together."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the pH of a neutral substance?",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "A neutral substance, like pure water, has a pH of 7."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is produced when calcium carbonate reacts with hydrochloric acid?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Methane"
+    ],
+    "answer": 1,
+    "explanation": "The reaction produces carbon dioxide gas along with calcium chloride and water."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the chemical formula of common salt?",
+    "options": [
+      "Na\u2082CO\u2083",
+      "NaCl",
+      "KCl",
+      "MgCl\u2082"
+    ],
+    "answer": 1,
+    "explanation": "Common salt is sodium chloride, NaCl."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "answer": 1,
+    "explanation": "Calcium is vital for strong bones and teeth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the process of converting a liquid into a gas called?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Melting"
+    ],
+    "answer": 1,
+    "explanation": "Evaporation is the process where liquid turns into gas at its surface."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these is an example of a physical change?",
+    "options": [
+      "Burning wood",
+      "Melting ice",
+      "Rusting iron",
+      "Digesting food"
+    ],
+    "answer": 1,
+    "explanation": "Melting ice is a reversible physical change that does not alter the chemical composition."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which organ in the human body produces bile?",
+    "options": [
+      "Stomach",
+      "Pancreas",
+      "Liver",
+      "Small intestine"
+    ],
+    "answer": 2,
+    "explanation": "The liver produces bile, which helps in the digestion of fats."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the basic structural and functional unit of life?",
+    "options": [
+      "Tissue",
+      "Cell",
+      "Organ",
+      "System"
+    ],
+    "answer": 1,
+    "explanation": "Cells are the building blocks of life and perform essential functions."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the process by which plants lose water through their leaves?",
+    "options": [
+      "Transpiration",
+      "Photosynthesis",
+      "Respiration",
+      "Germination"
+    ],
+    "answer": 0,
+    "explanation": "Transpiration is the process of water loss in the form of vapor from plant leaves."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the primary function of red blood cells?",
+    "options": [
+      "Fighting infections",
+      "Transporting oxygen",
+      "Clotting blood",
+      "Producing energy"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells contain hemoglobin, which carries oxygen to body tissues."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of teeth are used for cutting and biting food?",
+    "options": [
+      "Molars",
+      "Premolars",
+      "Canines",
+      "Incisors"
+    ],
+    "answer": 3,
+    "explanation": "Incisors are sharp and flat, ideal for cutting and biting food."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which gas is essential for respiration?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen is required by cells for energy production through respiration."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the name of the process by which a seed grows into a new plant?",
+    "options": [
+      "Germination",
+      "Fertilization",
+      "Pollination",
+      "Photosynthesis"
+    ],
+    "answer": 0,
+    "explanation": "Germination is the development of a seed into a seedling under suitable conditions."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Hg",
+      "Fe"
+    ],
+    "answer": 0,
+    "explanation": "The chemical symbol for gold is Au, derived from its Latin name Aurum."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1,
+    "explanation": "Mars is called the Red Planet due to its reddish appearance caused by iron oxide on its surface."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the primary component of natural gas?",
+    "options": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": 1,
+    "explanation": "Methane makes up the majority of natural gas."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the unit used to measure electric current?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Watt",
+      "Ohm"
+    ],
+    "answer": 1,
+    "explanation": "Electric current is measured in amperes, symbolized as \u201CA\u201D."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein is regarded as the Father of Modern Physics for his revolutionary contributions, including the theory of relativity."
+  }
+]

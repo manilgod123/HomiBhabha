@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "What is the process by which plants make their food?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Digestion"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis is the process through which plants convert sunlight, carbon dioxide, and water into glucose and oxygen."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "Which of the following is not a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Coal",
+      "Hydropower"
+    ],
+    "answer": 2,
+    "explanation": "Coal is a fossil fuel and a non-renewable source of energy, unlike solar and wind energy, which are renewable."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "What is the primary function of the roots in plants?",
+    "options": [
+      "Photosynthesis",
+      "Absorption of water and minerals",
+      "Storage of food",
+      "Reproduction"
+    ],
+    "answer": 1,
+    "explanation": "Roots anchor the plant and absorb water and nutrients from the soil."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "Which part of the cell contains genetic material?",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Cell membrane",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "explanation": "The nucleus houses the cell\u2019s genetic material (DNA), controlling cell functions and reproduction."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which gas is most abundant in the Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Nitrogen makes up about 78% of the Earth\u2019s atmosphere, making it the most abundant gas."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "What is the basic unit of life?",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "Organism"
+    ],
+    "answer": 2,
+    "explanation": "The cell is the smallest structural and functional unit of life."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which of the following is a non-renewable resource?",
+    "options": [
+      "Natural gas",
+      "Solar energy",
+      "Wind energy",
+      "Geothermal energy"
+    ],
+    "answer": 0,
+    "explanation": "Natural gas is a fossil fuel and is considered a non-renewable resource."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "What is the function of the digestive system?",
+    "options": [
+      "Circulation of blood",
+      "Breaking down food",
+      "Respiration",
+      "Excretion"
+    ],
+    "answer": 1,
+    "explanation": "The digestive system breaks down food into smaller molecules for absorption."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which type of simple machine is a lever?",
+    "options": [
+      "Wheel and axle",
+      "Inclined plane",
+      "Pulley",
+      "Wedge"
+    ],
+    "answer": 0,
+    "explanation": "A lever is a simple machine that consists of a beam or rod pivoted at a fixed hinge, or fulcrum."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "Which organ in the human body is primarily responsible for filtering blood?",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Liver",
+      "Lungs"
+    ],
+    "answer": 1,
+    "explanation": "The kidneys filter blood to remove waste and excess substances, producing urine."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "What type of wave is sound?",
+    "options": [
+      "Electromagnetic",
+      "Longitudinal",
+      "Transverse",
+      "Surface"
+    ],
+    "answer": 1,
+    "explanation": "Sound waves are longitudinal waves where particles of the medium move parallel to the direction of wave propagation."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "What is the main component of air?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Nitrogen is the primary gas in the atmosphere, accounting for about 78%."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which of the following is a vector quantity?",
+    "options": [
+      "Mass",
+      "Velocity",
+      "Temperature",
+      "Time"
+    ],
+    "answer": 1,
+    "explanation": "Velocity is a vector quantity that has both magnitude and direction."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "H\u2082O\u2082",
+      "CO\u2082",
+      "H\u2082O",
+      "O\u2082"
+    ],
+    "answer": 2,
+    "explanation": "Water is composed of two hydrogen atoms and one oxygen atom, represented by the formula H\u2082O."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What type of bond is formed when electrons are shared?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": 1,
+    "explanation": "A covalent bond is formed when two atoms share electrons."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the process of converting a solid directly into a gas called?",
+    "options": [
+      "Melting",
+      "Condensation",
+      "Sublimation",
+      "Evaporation"
+    ],
+    "answer": 2,
+    "explanation": "Sublimation is the process where a solid turns directly into a gas without becoming liquid."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which gas is produced during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "Oxygen is produced as a byproduct of photosynthesis in plants."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the function of chloroplasts in plant cells?",
+    "options": [
+      "Energy production",
+      "Photosynthesis",
+      "Respiration",
+      "Protein synthesis"
+    ],
+    "answer": 1,
+    "explanation": "Chloroplasts contain chlorophyll and are responsible for converting sunlight into energy through photosynthesis."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the law of conservation of mass?",
+    "options": [
+      "Mass can be created",
+      "Mass cannot be created or destroyed",
+      "Mass is always lost",
+      "Mass is always gained"
+    ],
+    "answer": 1,
+    "explanation": "The law states that in a chemical reaction, the total mass of reactants equals the total mass of products."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Medulla"
+    ],
+    "answer": 1,
+    "explanation": "The cerebellum is responsible for balance and coordination of voluntary movements."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What type of reaction occurs when an acid reacts with a base?",
+    "options": [
+      "Neutralization",
+      "Combustion",
+      "Synthesis",
+      "Decomposition"
+    ],
+    "answer": 0,
+    "explanation": "A neutralization reaction occurs when an acid and a base react to form water and salt."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which of the following is not a function of the liver?",
+    "options": [
+      "Detoxification",
+      "Bile production",
+      "Oxygen transport",
+      "Metabolism"
+    ],
+    "answer": 2,
+    "explanation": "The liver does not transport oxygen; that function is performed by red blood cells."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the boiling point of water at sea level?",
+    "options": [
+      "50\u00B0C",
+      "100\u00B0C",
+      "200\u00B0C",
+      "150\u00B0C"
+    ],
+    "answer": 1,
+    "explanation": "Water boils at 100\u00B0C under standard atmospheric pressure at sea level."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which of the following is a primary consumer in an ecosystem?",
+    "options": [
+      "Grass",
+      "Herbivore",
+      "Carnivore",
+      "Omnivore"
+    ],
+    "answer": 1,
+    "explanation": "Primary consumers are herbivores that eat plants."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      "Transport oxygen",
+      "Fight infection",
+      "Clot blood",
+      "Regulate temperature"
+    ],
+    "answer": 0,
+    "explanation": "Red blood cells carry oxygen from the lungs to the body\u2019s tissues."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the phenomenon of light bending called?",
+    "options": [
+      "Reflection",
+      "Diffraction",
+      "Refraction",
+      "Absorption"
+    ],
+    "answer": 2,
+    "explanation": "Refraction is the bending of light as it passes from one medium to another."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the primary function of the immune system?",
+    "options": [
+      "Fight infections",
+      "Regulate body temperature",
+      "Digest food",
+      "Circulate blood"
+    ],
+    "answer": 0,
+    "explanation": "The immune system protects the body against pathogens and foreign invaders."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What type of energy is stored in food?",
+    "options": [
+      "Kinetic energy",
+      "Chemical energy",
+      "Potential energy",
+      "Thermal energy"
+    ],
+    "answer": 1,
+    "explanation": "Food contains chemical energy that is released during metabolism."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the most abundant element in the universe?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon",
+      "Helium"
+    ],
+    "answer": 1,
+    "explanation": "Hydrogen is the simplest and most abundant element in the universe."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which part of a plant is responsible for photosynthesis?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 2,
+    "explanation": "Leaves contain chlorophyll and are the primary site for photosynthesis."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What type of bond holds the atoms in a molecule of water together?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "answer": 1,
+    "explanation": "Water molecules are held together by covalent bonds formed between oxygen and hydrogen atoms."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Au",
+      "Fe"
+    ],
+    "answer": 2,
+    "explanation": "The chemical symbol for gold is Au, derived from the Latin name \u2018aurum.\u2019"
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the primary source of energy for the Earth?",
+    "options": [
+      "Wind",
+      "Sun",
+      "Water",
+      "Geothermal"
+    ],
+    "answer": 1,
+    "explanation": "The Sun is the primary source of energy for the Earth, driving climate and weather."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which of the following structures is found in prokaryotic cells?",
+    "options": [
+      "Mitochondria",
+      "Ribosomes",
+      "Nucleus",
+      "Endoplasmic reticulum"
+    ],
+    "answer": 1,
+    "explanation": "Prokaryotic cells lack a nucleus but contain ribosomes for protein synthesis."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "What is the main function of the respiratory system?",
+    "options": [
+      "Gas exchange",
+      "Nutrient absorption",
+      "Blood circulation",
+      "Waste removal"
+    ],
+    "answer": 0,
+    "explanation": "The respiratory system facilitates the exchange of oxygen and carbon dioxide in the body."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "Which of the following is not a characteristic of living things?",
+    "options": [
+      "Growth",
+      "Reproduction",
+      "Inability to adapt",
+      "Metabolism"
+    ],
+    "answer": 2,
+    "explanation": "All living organisms can adapt to their environment, which is a key characteristic of life."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
+    "answer": 1,
+    "explanation": "Jupiter is the largest planet in our solar system, known for its Great Red Spot and many moons."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who proposed the theory of evolution by natural selection?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Albert Einstein",
+      "Isaac Newton"
+    ],
+    "answer": 0,
+    "explanation": "Charles Darwin is known for his theory of evolution by natural selection, published in \u201COn the Origin of Species.\u201D"
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the most abundant gas in the Earth\u2019s atmosphere?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "answer": 0,
+    "explanation": "Nitrogen makes up about 78% of the Earth\u2019s atmosphere, making it the most abundant gas."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which scientist is known for the laws of motion?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Galileo Galilei"
+    ],
+    "answer": 0,
+    "explanation": "Isaac Newton formulated the three laws of motion, laying the foundation for classical mechanics."
+  }
+]

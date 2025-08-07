@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "1. Which gas is released during photosynthesis?",
+    "options": [
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Methane"
+    ],
+    "answer": 2,
+    "explanation": "Photosynthesis produces oxygen as a byproduct when plants convert carbon dioxide and water into glucose using sunlight."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "2. Which organ in the human body is primarily responsible for filtering blood?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidneys",
+      "Lungs"
+    ],
+    "answer": 2,
+    "explanation": "The kidneys filter blood, removing waste products and excess substances to form urine."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "3. What is the main function of the stomata in plant leaves?",
+    "options": [
+      "Absorb water",
+      "Perform photosynthesis",
+      "Exchange gases",
+      "Produce seeds"
+    ],
+    "answer": 2,
+    "explanation": "Stomata are small openings on leaves that allow for gas exchange, primarily oxygen and carbon dioxide."
+  },
+  {
+    "section": "Section A: 7th Standard Syllabus (10%)",
+    "question": "4. What type of rock is formed from volcanic activity?",
+    "options": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Shale"
+    ],
+    "answer": 0,
+    "explanation": "Igneous rocks are formed from the cooling and solidification of molten lava or magma."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "5. What is the primary source of energy for the water cycle?",
+    "options": [
+      "Wind",
+      "Sun",
+      "Moon",
+      "Volcanoes"
+    ],
+    "answer": 1,
+    "explanation": "The sun provides the energy that drives the water cycle by causing evaporation of water."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "6. Which component of blood fights infection?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": 1,
+    "explanation": "White blood cells help the body fight infections by attacking bacteria, viruses, and other pathogens."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "7. The rate of change of velocity of an object is known as:",
+    "options": [
+      "Speed",
+      "Acceleration",
+      "Force",
+      "Momentum"
+    ],
+    "answer": 1,
+    "explanation": "Acceleration refers to how quickly an object\u2019s velocity changes over time."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "8. What is the boiling point of water at sea level?",
+    "options": [
+      "0\u00B0C",
+      "50\u00B0C",
+      "100\u00B0C",
+      "200\u00B0C"
+    ],
+    "answer": 2,
+    "explanation": "At sea level, water boils at 100\u00B0C (212\u00B0F) under standard atmospheric pressure."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "9. Which organ is responsible for pumping blood throughout the body?",
+    "options": [
+      "Brain",
+      "Lungs",
+      "Liver",
+      "Heart"
+    ],
+    "answer": 3,
+    "explanation": "The heart is a muscular organ that pumps blood to all parts of the body."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "10. What is the term for substances that speed up chemical reactions in living organisms?",
+    "options": [
+      "Enzymes",
+      "Proteins",
+      "Carbohydrates",
+      "Acids"
+    ],
+    "answer": 0,
+    "explanation": "Enzymes are biological catalysts that accelerate chemical reactions in living organisms."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "11. In which layer of the atmosphere is the ozone layer located?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 1,
+    "explanation": "The ozone layer, which absorbs harmful UV radiation, is located in the stratosphere."
+  },
+  {
+    "section": "Section B: 8th Standard Syllabus (20%)",
+    "question": "12. Which substance makes up the cell walls of plants?",
+    "options": [
+      "Cellulose",
+      "Protein",
+      "Glucose",
+      "Chitin"
+    ],
+    "answer": 0,
+    "explanation": "Cellulose is a complex carbohydrate that forms the rigid cell walls in plant cells."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "13. What is the formula for calculating work done when force and displacement are known?",
+    "options": [
+      "Force \u00D7 Time",
+      "Force \u00D7 Displacement",
+      "Displacement / Time",
+      "Force / Area"
+    ],
+    "answer": 1,
+    "explanation": "Work is calculated by multiplying the force applied by the displacement of the object in the direction of the force."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "14. Which disease is caused by the deficiency of Vitamin D?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Beriberi",
+      "Anemia"
+    ],
+    "answer": 1,
+    "explanation": "Rickets, which causes softening and weakening of bones, is caused by a lack of vitamin D."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "15. What is the SI unit of electric current?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Watt"
+    ],
+    "answer": 2,
+    "explanation": "The ampere is the SI unit used to measure electric current."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "16. The process of purifying ore by heating it in the absence of air is known as:",
+    "options": [
+      "Smelting",
+      "Roasting",
+      "Calcination",
+      "Electrolysis"
+    ],
+    "answer": 2,
+    "explanation": "Calcination is the process of heating an ore to remove volatile impurities, typically in the absence of air."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "17. What type of reaction is represented by the equation: Zn \u002B CuSO\u2084 \u2192 ZnSO\u2084 \u002B Cu?",
+    "options": [
+      "Synthesis",
+      "Decomposition",
+      "Displacement",
+      "Combustion"
+    ],
+    "answer": 2,
+    "explanation": "In this displacement reaction, zinc replaces copper in copper sulfate."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "18. Which law states that pressure and volume of a gas are inversely proportional at constant temperature?",
+    "options": [
+      "Boyle\u2019s Law",
+      "Charles\u2019s Law",
+      "Avogadro\u2019s Law",
+      "Ideal Gas Law"
+    ],
+    "answer": 0,
+    "explanation": "Boyle\u2019s Law states that at constant temperature, the pressure and volume of a gas have an inverse relationship."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "19. What is the atomic number of calcium?",
+    "options": [
+      "12",
+      "16",
+      "20",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "Calcium has an atomic number of 20, meaning it has 20 protons in its nucleus."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "20. Which of the following organisms is classified as an amphibian?",
+    "options": [
+      "Whale",
+      "Crocodile",
+      "Frog",
+      "Eagle"
+    ],
+    "answer": 2,
+    "explanation": "Frogs are amphibians, meaning they can live both in water and on land."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "21. Which of the following metals is extracted using the electrolysis process?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminium",
+      "Zinc"
+    ],
+    "answer": 2,
+    "explanation": "Aluminium is extracted using electrolysis from its ore, bauxite."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "22. Which of the following is a property of acids?",
+    "options": [
+      "Bitter taste",
+      "Turns blue litmus paper red",
+      "Slippery feel",
+      "Does not react with metals"
+    ],
+    "answer": 1,
+    "explanation": "Acids turn blue litmus paper red and have a sour taste."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "23. What is the molecular formula of glucose?",
+    "options": [
+      "C\u2086H\u2081\u2082O\u2086",
+      "C\u2081\u2082H\u2082O\u2086",
+      "C\u2086H\u2086O\u2086",
+      "C\u2086H\u2081\u2080O\u2086"
+    ],
+    "answer": 0,
+    "explanation": "Glucose is a simple sugar with the molecular formula C\u2086H\u2081\u2082O\u2086."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "24. In a series circuit, how does the current behave when additional resistors are added?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains the same",
+      "Fluctuates"
+    ],
+    "answer": 1,
+    "explanation": "In a series circuit, adding more resistors increases the total resistance, which causes the current to decrease."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "25. What is the product formed when hydrochloric acid reacts with sodium hydroxide?",
+    "options": [
+      "Sodium chloride and water",
+      "Sodium chloride and oxygen",
+      "Sodium hydroxide and water",
+      "Hydrogen and oxygen"
+    ],
+    "answer": 0,
+    "explanation": "The reaction between hydrochloric acid and sodium hydroxide produces sodium chloride (salt) and water."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "26. Which of the following is a renewable source of energy?",
+    "options": [
+      "Coal",
+      "Natural gas",
+      "Solar energy",
+      "Nuclear energy"
+    ],
+    "answer": 2,
+    "explanation": "Solar energy is a renewable resource, as it is replenished by the Sun."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "27. What is the process of changing a liquid to gas called?",
+    "options": [
+      "Freezing",
+      "Melting",
+      "Evaporation",
+      "Condensation"
+    ],
+    "answer": 2,
+    "explanation": "Evaporation is the process where a liquid turns into a gas, typically due to heat."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "28. The force that pulls objects toward the Earth\u2019s surface is called:",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Tension"
+    ],
+    "answer": 1,
+    "explanation": "Gravity is the force that attracts objects towards the Earth\u2019s center."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "29. Which of the following elements is a noble gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Neon",
+      "Carbon"
+    ],
+    "answer": 2,
+    "explanation": "Neon is a noble gas, known for its inertness and lack of reactivity."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "30. What is the main function of the digestive system in humans?",
+    "options": [
+      "Circulates blood",
+      "Breaks down food to absorb nutrients",
+      "Removes waste from the body",
+      "Controls body temperature"
+    ],
+    "answer": 1,
+    "explanation": "The digestive system breaks down food into nutrients, which are absorbed into the bloodstream."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "31. Which of the following is a part of the electromagnetic spectrum?",
+    "options": [
+      "Sound waves",
+      "Water waves",
+      "Radio waves",
+      "Earthquake waves"
+    ],
+    "answer": 2,
+    "explanation": "Radio waves are a type of electromagnetic wave used in communication and broadcasting."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "32. What is the name of the force that resists the motion of an object sliding over another surface?",
+    "options": [
+      "Tension",
+      "Friction",
+      "Gravity",
+      "Pressure"
+    ],
+    "answer": 1,
+    "explanation": "Friction is the force that opposes the motion of objects sliding over each other."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "33. Which of the following gases is primarily responsible for the greenhouse effect?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Carbon dioxide is a greenhouse gas that traps heat in the Earth\u2019s atmosphere, contributing to global warming."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "34. What is the atomic number of oxygen?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen has an atomic number of 8, which means it has 8 protons in its nucleus."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "35. Which of the following is a characteristic of an exothermic reaction?",
+    "options": [
+      "Absorbs heat",
+      "Releases heat",
+      "Requires light",
+      "Needs electricity"
+    ],
+    "answer": 1,
+    "explanation": "Exothermic reactions release energy, often in the form of heat."
+  },
+  {
+    "section": "Section C: 9th Standard Syllabus (60%)",
+    "question": "36. The process by which a solid changes directly into a gas is called:",
+    "options": [
+      "Melting",
+      "Freezing",
+      "Sublimation",
+      "Condensation"
+    ],
+    "answer": 2,
+    "explanation": "Sublimation is the process where a solid turns directly into a gas without passing through the liquid phase, as seen in dry ice."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "37. Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Michael Faraday"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein\u2019s contributions, especially his theory of relativity, earned him the title \u201CFather of Modern Physics.\u201D"
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "38. What is the primary component of natural gas?",
+    "options": [
+      "Ethane",
+      "Butane",
+      "Methane",
+      "Propane"
+    ],
+    "answer": 2,
+    "explanation": "Methane makes up about 70-90% of natural gas."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "39. Who invented the electric bulb?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Watt"
+    ],
+    "answer": 1,
+    "explanation": "Thomas Edison is credited with inventing the practical electric light bulb."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "40. Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1,
+    "explanation": "Mars is called the \u201CRed Planet\u201D due to its reddish appearance, which is caused by iron oxide on its surface."
+  }
+]

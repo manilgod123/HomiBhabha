@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of the following is necessary for all living things to survive?",
+    "options": [
+      "Food",
+      "Clothes",
+      "Toys",
+      "Books"
+    ],
+    "answer": 0,
+    "explanation": "Food provides energy for growth and survival in all living organisms."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of a plant grows above the soil?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flower"
+    ],
+    "answer": 1,
+    "explanation": "The stem grows above the ground and supports branches, leaves, and flowers."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What is the function of the heart in the human body?",
+    "options": [
+      "To digest food",
+      "To pump blood",
+      "To absorb nutrients",
+      "To store energy"
+    ],
+    "answer": 1,
+    "explanation": "The heart circulates blood, which carries oxygen and nutrients to cells."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which one of these is a natural source of water?",
+    "options": [
+      "Tap",
+      "River",
+      "Pipeline",
+      "Faucet"
+    ],
+    "answer": 1,
+    "explanation": "Rivers are natural bodies of water that provide water for various uses."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of the following animals is a herbivore?",
+    "options": [
+      "Tiger",
+      "Cow",
+      "Bear",
+      "Lion"
+    ],
+    "answer": 1,
+    "explanation": "Herbivores are animals that eat only plants; cows consume grass and plants."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The solid state of water is called:",
+    "options": [
+      "Ice",
+      "Vapor",
+      "Steam",
+      "Rain"
+    ],
+    "answer": 0,
+    "explanation": "Ice is the solid form of water, formed when water freezes."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which part of the plant makes seeds?",
+    "options": [
+      "Stem",
+      "Leaf",
+      "Flower",
+      "Root"
+    ],
+    "answer": 2,
+    "explanation": "Flowers contain reproductive organs and are responsible for seed production."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of these can float on water?",
+    "options": [
+      "Stone",
+      "Wood",
+      "Iron",
+      "Glass"
+    ],
+    "answer": 1,
+    "explanation": "Wood is less dense than water, which allows it to float."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "The process by which plants make their own food is called:",
+    "options": [
+      "Germination",
+      "Photosynthesis",
+      "Digestion",
+      "Respiration"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis is the process by which plants use sunlight to produce food."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is a non-renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Wind energy",
+      "Hydropower"
+    ],
+    "answer": 1,
+    "explanation": "Coal is a fossil fuel that cannot be renewed once it is used up."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The unit of energy is:",
+    "options": [
+      "Newton",
+      "Joule",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": 1,
+    "explanation": "Energy is measured in joules in the International System of Units (SI)."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The Earth completes one rotation on its axis in approximately:",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "365 days",
+      "30 days"
+    ],
+    "answer": 1,
+    "explanation": "One full rotation of Earth on its axis takes roughly 24 hours, creating day and night."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the name of the force that pulls objects towards the Earth?",
+    "options": [
+      "Gravitational force",
+      "Magnetic force",
+      "Nuclear force",
+      "Electrostatic force"
+    ],
+    "answer": 0,
+    "explanation": "Gravity is the force that attracts objects toward Earth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "In which state of matter do molecules move freely?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": 2,
+    "explanation": "In gases, molecules have the most freedom to move and spread out."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main gas found in the Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The boiling point of water in degrees Celsius is:",
+    "options": [
+      "50\u00B0C",
+      "100\u00B0C",
+      "150\u00B0C",
+      "200\u00B0C"
+    ],
+    "answer": 1,
+    "explanation": "Water boils at 100\u00B0C under standard atmospheric pressure."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The organ that helps us in breathing is the:",
+    "options": [
+      "Heart",
+      "Liver",
+      "Stomach",
+      "Lungs"
+    ],
+    "answer": 3,
+    "explanation": "Lungs are responsible for the exchange of oxygen and carbon dioxide in the body."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which layer of the Earth is made up of molten rock?",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Outer Core",
+      "Inner Core"
+    ],
+    "answer": 1,
+    "explanation": "The mantle contains semi-molten rock known as magma."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of a plant absorbs sunlight for photosynthesis?",
+    "options": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 2,
+    "explanation": "Leaves contain chlorophyll that captures sunlight, essential for photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which organ in the human body pumps blood?",
+    "options": [
+      "Lungs",
+      "Brain",
+      "Heart",
+      "Kidney"
+    ],
+    "answer": 2,
+    "explanation": "The heart pumps blood throughout the body to supply oxygen and nutrients."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the smallest unit of matter?",
+    "options": [
+      "Cell",
+      "Atom",
+      "Molecule",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "explanation": "Atoms are the fundamental building blocks of matter."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet in our solar system is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Saturn"
+    ],
+    "answer": 1,
+    "explanation": "Mars has a reddish appearance due to iron oxide (rust) on its surface."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these processes is necessary for plant growth?",
+    "options": [
+      "Digestion",
+      "Photosynthesis",
+      "Respiration",
+      "Excretion"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis allows plants to create food and energy."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the process of liquid water changing to gas called?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Boiling"
+    ],
+    "answer": 1,
+    "explanation": "Evaporation is the process of water turning into vapor at temperatures below boiling."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The sun is primarily composed of which gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "explanation": "The sun is mostly made of hydrogen, which fuels nuclear fusion."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the function of the skeletal system?",
+    "options": [
+      "Circulation",
+      "Support and protection",
+      "Digestion",
+      "Respiration"
+    ],
+    "answer": 1,
+    "explanation": "The skeletal system supports the body structure and protects internal organs."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which type of soil is best for growing plants?",
+    "options": [
+      "Clay",
+      "Sandy",
+      "Loamy",
+      "Rocky"
+    ],
+    "answer": 2,
+    "explanation": "Loamy soil has a good balance of sand, silt, and clay, ideal for plant growth."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": 0,
+    "explanation": "Einstein made major contributions to theoretical physics, especially the theory of relativity."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which vitamin is produced in the skin upon exposure to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "The body produces Vitamin D when exposed to sunlight."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the symbol for Iron?",
+    "options": [
+      "Fe",
+      "Au",
+      "Ag",
+      "H"
+    ],
+    "answer": 0,
+    "explanation": "Fe is derived from the Latin name \u201CFerrum,\u201D which means iron."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "The study of the weather and atmosphere is called:",
+    "options": [
+      "Astronomy",
+      "Geology",
+      "Meteorology",
+      "Ecology"
+    ],
+    "answer": 2,
+    "explanation": "Meteorology is the scientific study of the atmosphere and weather patterns."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": 2,
+    "explanation": "Mercury is the closest planet to the Sun in our solar system."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the chemical symbol for Sodium?",
+    "options": [
+      "Na",
+      "S",
+      "K",
+      "Sn"
+    ],
+    "answer": 0,
+    "explanation": "Na is the chemical symbol for Sodium, derived from its Latin name \u201CNatrium.\u201D"
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What instrument is used to measure temperature?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hydrometer",
+      "Manometer"
+    ],
+    "answer": 0,
+    "explanation": "A thermometer measures temperature by using substances like mercury or alcohol that expand with heat."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which scientist developed the first successful polio vaccine?",
+    "options": [
+      "Alexander Fleming",
+      "Jonas Salk",
+      "Marie Curie",
+      "Gregor Mendel"
+    ],
+    "answer": 1,
+    "explanation": "Jonas Salk developed the first safe and effective polio vaccine in the 1950s."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which gas is the main component of natural gas?",
+    "options": [
+      "Methane",
+      "Propane",
+      "Butane",
+      "Carbon Dioxide"
+    ],
+    "answer": 0,
+    "explanation": "Methane is the primary component of natural gas, used as a fuel source."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which planet is known as the \u201CBlue Planet\u201D?",
+    "options": [
+      "Mars",
+      "Earth",
+      "Neptune",
+      "Jupiter"
+    ],
+    "answer": 1,
+    "explanation": "Earth is called the \u201CBlue Planet\u201D due to the large amounts of water covering its surface."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the process by which plants release oxygen into the air?",
+    "options": [
+      "Respiration",
+      "Germination",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "answer": 2,
+    "explanation": "During photosynthesis, plants produce oxygen as a byproduct of converting sunlight into energy."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the name of our galaxy?",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Nebula",
+      "Orion"
+    ],
+    "answer": 1,
+    "explanation": "Our solar system is located in the Milky Way galaxy, which is a barred spiral galaxy."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who invented the light bulb?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Michael Faraday"
+    ],
+    "answer": 1,
+    "explanation": "Thomas Edison is credited with inventing the practical and long-lasting electric light bulb."
+  }
+]

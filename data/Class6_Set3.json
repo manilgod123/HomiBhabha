@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which part of a plant anchors it to the soil?",
+    "options": [
+      "Stem",
+      "Roots",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 1,
+    "explanation": "Roots help anchor the plant in the soil and absorb water and nutrients."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of these is a natural source of water?",
+    "options": [
+      "River",
+      "Canal",
+      "Tap",
+      "Dam"
+    ],
+    "answer": 0,
+    "explanation": "Rivers are natural water sources, while canals, taps, and dams are human-made."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "What do animals need to breathe?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 0,
+    "explanation": "Oxygen is essential for most animals to breathe and survive."
+  },
+  {
+    "section": "Section A: Based on 4th Std. Syllabus (10%)",
+    "question": "Which of the following is not a sense organ?",
+    "options": [
+      "Eyes",
+      "Skin",
+      "Tongue",
+      "Brain"
+    ],
+    "answer": 3,
+    "explanation": "The brain processes information from sense organs, but it is not a sense organ itself."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which gas is essential for the process of photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "answer": 2,
+    "explanation": "Plants need carbon dioxide to carry out photosynthesis and produce food."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which nutrient helps build strong bones and teeth?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 1,
+    "explanation": "Calcium is essential for the development of strong bones and teeth."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What is the process by which plants lose water through their leaves?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Germination"
+    ],
+    "answer": 2,
+    "explanation": "Transpiration is the process by which plants release water vapor through their leaves."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which organ in humans is primarily responsible for pumping blood?",
+    "options": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Kidneys"
+    ],
+    "answer": 2,
+    "explanation": "The heart pumps blood throughout the body."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "In which state of matter do particles move freely and spread out to fill their container?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": 2,
+    "explanation": "Gas particles move freely and occupy all available space."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which food is a good source of Vitamin C?",
+    "options": [
+      "Milk",
+      "Lemon",
+      "Rice",
+      "Butter"
+    ],
+    "answer": 1,
+    "explanation": "Citrus fruits like lemon are rich in Vitamin C, which helps strengthen the immune system."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "Which of the following is a non-renewable resource?",
+    "options": [
+      "Sunlight",
+      "Wind",
+      "Coal",
+      "Water"
+    ],
+    "answer": 2,
+    "explanation": "Coal is a fossil fuel and cannot be replenished once used, making it a non-renewable resource."
+  },
+  {
+    "section": "Section B: Based on 5th Std. Syllabus (20%)",
+    "question": "What do white blood cells do?",
+    "options": [
+      "Carry oxygen",
+      "Fight infections",
+      "Digest food",
+      "Transport nutrients"
+    ],
+    "answer": 1,
+    "explanation": "White blood cells are part of the immune system and help protect the body from infections."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which part of the cell contains genetic material?",
+    "options": [
+      "Cytoplasm",
+      "Cell membrane",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": 2,
+    "explanation": "The nucleus contains DNA, which carries genetic information."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet is known as the \u201CRed Planet\u201D?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1,
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these is the smallest unit of life?",
+    "options": [
+      "Atom",
+      "Cell",
+      "Tissue",
+      "Organ"
+    ],
+    "answer": 1,
+    "explanation": "The cell is the basic structural and functional unit of all living organisms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main function of the roots in plants?",
+    "options": [
+      "Photosynthesis",
+      "Reproduction",
+      "Water absorption",
+      "Nutrient production"
+    ],
+    "answer": 2,
+    "explanation": "Roots absorb water and nutrients from the soil to support plant growth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main gas present in the Earth\u2019s atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Nitrogen makes up about 78% of the Earth\u2019s atmosphere."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the primary source of energy for the water cycle?",
+    "options": [
+      "Wind",
+      "Moon",
+      "Sun",
+      "Stars"
+    ],
+    "answer": 2,
+    "explanation": "The Sun\u2019s energy drives the water cycle by evaporating water from Earth\u2019s surface."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which structure in human beings helps in voice production?",
+    "options": [
+      "Lungs",
+      "Trachea",
+      "Larynx",
+      "Bronchi"
+    ],
+    "answer": 2,
+    "explanation": "The larynx, or voice box, contains vocal cords that produce sound."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What kind of joint is found in the elbow?",
+    "options": [
+      "Ball and socket joint",
+      "Hinge joint",
+      "Pivot joint",
+      "Fixed joint"
+    ],
+    "answer": 1,
+    "explanation": "A hinge joint allows movement in one direction, like bending and straightening."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which is the largest bone in the human body?",
+    "options": [
+      "Skull",
+      "Femur",
+      "Humerus",
+      "Tibia"
+    ],
+    "answer": 1,
+    "explanation": "The femur, or thigh bone, is the longest and strongest bone in the human body."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of reproduction involves only one parent?",
+    "options": [
+      "Sexual reproduction",
+      "Asexual reproduction",
+      "Budding",
+      "Pollination"
+    ],
+    "answer": 1,
+    "explanation": "Asexual reproduction does not require two parents and produces offspring genetically identical to the parent."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "The green color in leaves is due to which pigment?",
+    "options": [
+      "Chlorophyll",
+      "Carotene",
+      "Anthocyanin",
+      "Xanthophyll"
+    ],
+    "answer": 0,
+    "explanation": "Chlorophyll is the green pigment in plants that absorbs sunlight for photosynthesis."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which force pulls objects toward the Earth?",
+    "options": [
+      "Magnetic force",
+      "Friction",
+      "Gravity",
+      "Elastic force"
+    ],
+    "answer": 2,
+    "explanation": "Gravity is the force that attracts objects towards the center of the Earth."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main organ of the circulatory system?",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Brain",
+      "Stomach"
+    ],
+    "answer": 1,
+    "explanation": "The heart pumps blood throughout the body, supplying oxygen and nutrients."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which organelle is known as the \u201Cpowerhouse of the cell\u201D?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "answer": 2,
+    "explanation": "Mitochondria generate energy in the form of ATP, essential for cellular activities."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": [
+      "CO",
+      "CO\u2082",
+      "C\u2082O",
+      "H\u2082O"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide consists of one carbon atom and two oxygen atoms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is a producer in a food chain?",
+    "options": [
+      "Lion",
+      "Human",
+      "Plant",
+      "Eagle"
+    ],
+    "answer": 2,
+    "explanation": "Plants produce their own food through photosynthesis and are at the base of the food chain."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What happens to water at 0\u00B0C?",
+    "options": [
+      "It evaporates",
+      "It freezes",
+      "It condenses",
+      "It melts"
+    ],
+    "answer": 1,
+    "explanation": "Water freezes at 0\u00B0C under standard atmospheric conditions."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What type of energy is stored in food?",
+    "options": [
+      "Electrical energy",
+      "Kinetic energy",
+      "Chemical energy",
+      "Potential energy"
+    ],
+    "answer": 2,
+    "explanation": "Food stores chemical energy that is released when consumed and used by the body for various functions."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What do plants release during the process of photosynthesis?",
+    "options": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Water Vapor"
+    ],
+    "answer": 1,
+    "explanation": "Plants release oxygen as a byproduct of photosynthesis, which is essential for most organisms to breathe."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of these is an example of a habitat?",
+    "options": [
+      "Forest",
+      "River",
+      "Desert",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "A habitat is a natural environment where organisms live, and forests, rivers, and deserts all serve as habitats for different organisms."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      "Fight infection",
+      "Transport oxygen",
+      "Clot blood",
+      "Store energy"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells contain hemoglobin, which binds to oxygen and transports it to all body cells."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which planet is the largest in our solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
+    "answer": 1,
+    "explanation": "Jupiter is the largest planet in the solar system, with a massive size and strong gravitational pull."
+  },
+  {
+    "section": "Section C: Based on 6th Std. Syllabus (60%)",
+    "question": "Which of the following is an insect?",
+    "options": [
+      "Spider",
+      "Ant",
+      "Crab",
+      "Snail"
+    ],
+    "answer": 1,
+    "explanation": "An ant is an insect with six legs and three body segments: the head, thorax, and abdomen."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who is known as the \u201CFather of Modern Physics\u201D?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": 1,
+    "explanation": "Albert Einstein\u2019s theories of relativity revolutionized modern physics, earning him the title \u201CFather of Modern Physics.\u201D"
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "What is the SI unit of temperature?",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Joule"
+    ],
+    "answer": 2,
+    "explanation": "Kelvin is the SI unit for temperature, used primarily in scientific measurements."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which element is necessary for the formation of bones and teeth?",
+    "options": [
+      "Iron",
+      "Potassium",
+      "Calcium",
+      "Phosphorus"
+    ],
+    "answer": 2,
+    "explanation": "Calcium is essential for the formation and maintenance of strong bones and teeth."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Mercury",
+      "Copper",
+      "Silver"
+    ],
+    "answer": 1,
+    "explanation": "Mercury is the only metal that remains in liquid form at room temperature."
+  },
+  {
+    "section": "Section D: General Knowledge in Science (10%)",
+    "question": "Who invented the first practical electric bulb?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Bell",
+      "James Watt"
+    ],
+    "answer": 0,
+    "explanation": "Thomas Edison is credited with inventing the first practical and long-lasting electric light bulb."
+  }
+]

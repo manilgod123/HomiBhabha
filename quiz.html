@@ -5,14 +5,20 @@
   <title>Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/quiz.css">
 </head>
 <body class="p-4 sm:p-6 bg-gray-100">
-  <div id="quizContainer" class="w-full max-w-xl mx-auto bg-white p-4 sm:p-6 rounded shadow">
+  <div id="quizContainer" class="w-full max-w-xl mx-auto bg-white p-4 sm:p-6 rounded shadow">    
     <h2 id="question" class="text-lg sm:text-xl font-semibold mb-4">Loading...</h2>
     <div id="options" class="space-y-2 mb-4"></div>
     <div id="explanation" class="text-green-600 font-medium hidden mb-4"></div>
     <button id="nextBtn" class="hidden w-full px-4 py-3 bg-blue-600 text-white rounded text-base">Next</button>
-  </div>
+ <div style="text-align: right;"></div>
+  <button id="btnBack" onclick="window.location.href='index.html'" class="backButton">
+  Back
+</button>
+ </div>
+ </div>
   <script src="js/quiz.js"></script>
 </body>
 </html>
