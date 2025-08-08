@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>Quiz App</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <script>
     function startQuiz() {
       const set = document.getElementById("questionSet").value;
@@ -12,9 +13,8 @@
       window.location.href = "index.html";
     }
     function loadClass6Data() {
-      document.getElementById("btnClass6").style.display = "none";
-      document.getElementById("btnClass9").style.display = "none";
-      document.getElementById("btnBack").style.display = "inline-block";
+      document.getElementById("quizContainer").style.display = "none";
+      document.getElementById("divSelectSet").style.display = "inline-block";
       const select = document.getElementById("questionSet");
       select.style.display = "block";
       select.innerHTML = `
@@ -41,9 +41,8 @@
       document.querySelector("#btnStartQuiz").style.display = "inline-block";
     }
     function loadClass9Data() {
-       document.getElementById("btnClass6").style.display = "none";
-      document.getElementById("btnClass9").style.display = "none";
-      document.getElementById("btnBack").style.display = "inline-block";
+       document.getElementById("quizContainer").style.display = "none";
+      document.getElementById("divSelectSet").style.display = "inline-block";
       const select = document.getElementById("questionSet");
       select.style.display = "block";
       select.innerHTML = `
@@ -72,22 +71,36 @@
   </script>
   <style>
     .btnClass {
-      font-size: 1.5rem;
+      font-size: 4rem;
       padding: 1rem 2.5rem;
       font-weight: bold;
       border: none;
       border-radius: 2rem;
       background: linear-gradient(90deg, #ff7e5f, #feb47b);
       color: white;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
       transition: transform 0.2s;
-      cursor: pointer; 
+      cursor: pointer;
+      margin-top:4rem;
+      margin-bottom: 2rem;
+      margin-right: 2rem;;
+    }
+    .title1{
+      color: #ef890b;
+      font-size: 5rem;
+      margin-top: 6rem;
+      margin-bottom: 5rem;
+    }
+    .title2{
+      color: #1e4ea0;
+      font-size: 4rem;
+      margin-bottom: 5rem;
     }
     .btnClass:active {
       transform: scale(0.97);
     }
      #questionSet {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     padding: 1rem 2.5rem;
     border-radius: 2rem;
     border: none;
@@ -98,6 +111,13 @@
     font-weight: bold;
     margin-bottom: 1rem;
     width: 280px;
+    margin-left: 7rem;
+  }
+  .selectSet {
+    font-size: 3.5rem;
+    color: #1e4ea0;
+    margin-bottom: 2rem;
+    font-weight: bold;
   }
     @media (max-width: 600px) {
       .btnClass {
@@ -114,14 +134,21 @@
   </style>
 </head>
 <body class="p-8 text-center bg-gray-100">
-  <h1 class="text-3xl font-bold mb-4">Welcome to the Quiz</h1>
-  <input type="button" id="btnClass6" value="Class 6" class="btnClass" onclick="loadClass6Data()" />
+  <div class="mb-8" id="quizContainer" class="w-full max-w-xl mx-auto bg-white p-4 sm:p-6 rounded shadow">
+  <h1 class="text-3xl font-bold mb-4 title1">Homi Bhabha Exam</h1>
+  <h1 class="text-3xl font-bold mb-4 title2">Sample Questions</h1>
+  <input type="button" id="btnClass6" value="Class 6" class="btnClass" onclick="loadClass6Data()" /><br>
   <input type="button" id="btnClass9" value="Class 9" class="rounded btnClass" onclick="loadClass9Data()" />
+  </div>
+  <div id="divSelectSet" class="w-full max-w-xl mx-auto bg-white p-4 sm:p-6 rounded shadow" style="display: none;">
+    <h1 class="selectSet">Select a Set</h1>
+  
   <select id="questionSet" style="display: none;" class="p-2 border rounded">
     <option value="">-- Select Subject --</option>
     <option value="science">Science</option>
   </select>
-  <input type="button" id="btnStartQuiz" onclick="startQuiz()" style="display: none;" class="btnClass" value="Start" />
-  <input type="button" id="btnBack" onclick="back()" style="display: none;" class="btnClass" value="Back" />
+  <input type="button" id="btnStartQuiz" onclick="startQuiz()"  class="btnClass" value="Start" />
+  <input type="button" id="btnBack" onclick="back()"  class="btnClass" value="Back" />
+</div>
 </body>
 </html>

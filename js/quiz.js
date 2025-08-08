@@ -2,7 +2,6 @@ const params = new URLSearchParams(window.location.search);
 const setName = params.get('set');
 const dataPath = `data/${setName}.json`;
 const setNameStore = 'Set_'+setName
-const totalQuestions = 50;
 let currentQuestionIndex = 0;
 
 let questions = [];
@@ -54,6 +53,7 @@ function handleAnswer(selected, correct, explanation, clickedBtn) {
     btn.disabled = true;
     if (i === correct) {
       btn.classList.add('bg-green-200');
+      btn.classList.remove('hover:bg-gray-100');
     }
     if (i === selected && i !== correct) {
       btn.classList.add('bg-red-200');
@@ -73,6 +73,7 @@ function handleAnswer(selected, correct, explanation, clickedBtn) {
       optionsEl.innerHTML = "";
       explanationEl.textContent = "";
       nextBtn.style.display = 'none';
+      localStorage.removeItem(setNameStore);
     }
   };
 }
